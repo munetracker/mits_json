@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "store_name": "Davao Central Convenience",
+        "address": "C.M. Recto cor. Rizal, D.C."
+    },
+    {
+        "id": 2,
+        "store_name": "Wisons",
+        "address": "Magallanes/San Pedro, D.C."
+    },
+    {
+        "id": 3,
+        "store_name": "NCCC Choice",
+        "address": "Bolton/San Pedro, D.C."
+    },
+    {
+        "id": 4,
+        "store_name": "Bread Factory",
+        "address": "Bolton/San Pedro, D.C."
+    },
+    {
+        "id": 5,
+        "store_name": "Euro Baker",
+        "address": "Rizal/San Pedro, D.C."
+    }
+]
+  

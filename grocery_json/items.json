@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "store_id": 3,
+        "item_name": "Eden Sandwich Spread 470-ml",
+        "price": 191.5,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "Jar"
+    },
+    {
+        "id": 2,
+        "store_id": 1,
+        "item_name": "8oz Transparent Cups 50-pcs",
+        "price": 29,
+        "quantity": 1,
+        "unit": "set",
+        "describe": "Plastic Cups"
+    },
+    {
+        "id": 3,
+        "store_id": 1,
+        "item_name": "Zero Distilled Water 1.5-Liters",
+        "price": 26,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "Water Bottle"
+    },
+    {
+        "id": 4,
+        "store_id": 3,
+        "item_name": "Pepays Tableya 12s Big",
+        "price": 62.55,
+        "quantity": 1,
+        "unit": "set",
+        "describe": "12 Circles Tableya"
+    },
+    {
+        "id": 5,
+        "store_id": 3,
+        "item_name": "Choice Raw Brown Sugar 500-grams",
+        "price": 46.10,
+        "quantity": 1,
+        "unit": "bag",
+        "describe": "Asukal"
+    },
+    {
+        "id": 6,
+        "store_id": 3,
+        "item_name": "Angel Kremdensada Sweetened 410-ml",
+        "price": 61.50,
+        "quantity": 1,
+        "unit": "can",
+        "describe": ""
+    },
+    {
+        "id": 7,
+        "store_id": 5,
+        "item_name": "Cream Bread Jumbo",
+        "price": 67,
+        "quantity": 1,
+        "unit": "bag",
+        "describe": "Load Bread"
+    },
+    {
+        "id": 8,
+        "store_id": 1,
+        "item_name": "Royal Orange 2-L",
+        "price": 92,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "Softdrinks plastic bottle"
+    }
+]
+  
