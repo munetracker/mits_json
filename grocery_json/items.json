@@ -70,6 +70,15 @@
         "quantity": 1,
         "unit": "pc",
         "describe": "Softdrinks plastic bottle"
+    },
+    {
+        "id": 9,
+        "store_id": 6,
+        "item_name": "Nagaraya 80-Grams",
+        "price": 26,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "Nuts"
     }
 ]
   
