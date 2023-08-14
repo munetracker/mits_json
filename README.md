@@ -4,6 +4,10 @@
     https://raw.githubusercontent.com/munetracker/mits_json/master/grocery_json/items.json
     https://raw.githubusercontent.com/munetracker/mits_json/master/grocery_json/store.json
 
+## sms_json
+
+    https://raw.githubusercontent.com/munetracker/mits_json/master/sms_json/valid_ph_numbers.json
+
 ## logos
 
     https://raw.githubusercontent.com/munetracker/mits_json/master/logos/no_bg.png
@@ -15,10 +19,10 @@
 
 ## Notes:
 
-git commit -am "update aug 14"
+git commit -am "update aug 15"
 git push origin master
 
 git add .
-git commit -m "added file"
+git commit -m "update aug 15"
 git push origin master
 
