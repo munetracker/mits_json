@@ -6,7 +6,8 @@
         "price": 191.5,
         "quantity": 1,
         "unit": "pc",
-        "describe": "Jar"
+        "describe": "Jar",
+        "dou": "2023-07-31"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "price": 29,
         "quantity": 1,
         "unit": "set",
-        "describe": "Plastic Cups"
+        "describe": "Plastic Cups",
+        "dou": "2023-07-31"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "price": 26,
         "quantity": 1,
         "unit": "pc",
-        "describe": "Water Bottle"
+        "describe": "Water Bottle",
+        "dou": "2023-07-31"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "price": 62.55,
         "quantity": 1,
         "unit": "set",
-        "describe": "12 Circles Tableya"
+        "describe": "12 Circles Tableya",
+        "dou": "2023-07-31"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "price": 46.10,
         "quantity": 1,
         "unit": "bag",
-        "describe": "Asukal"
+        "describe": "Asukal",
+        "dou": "2023-07-31"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "price": 61.50,
         "quantity": 1,
         "unit": "can",
-        "describe": ""
+        "describe": "",
+        "dou": "2023-07-31"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "price": 67,
         "quantity": 1,
         "unit": "bag",
-        "describe": "Load Bread"
+        "describe": "Load Bread",
+        "dou": "2023-07-31"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "price": 92,
         "quantity": 1,
         "unit": "pc",
-        "describe": "Softdrinks plastic bottle"
+        "describe": "Softdrinks plastic bottle",
+        "dou": "2023-07-31"
     },
     {
         "id": 9,
@@ -78,7 +86,38 @@
         "price": 26,
         "quantity": 1,
         "unit": "pc",
-        "describe": "Nuts"
+        "describe": "Nuts",
+        "dou": "2023-07-31"
+    },
+    {
+        "id": 10,
+        "store_id": 7,
+        "item_name": "Female Outlet 3 slots",
+        "price": 85,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "",
+        "dou": "2023-08-14"
+    },
+    {
+        "id": 11,
+        "store_id": 7,
+        "item_name": "#16 Flat Cord, Electric Wire",
+        "price": 28,
+        "quantity": 1,
+        "unit": "meter",
+        "describe": "",
+        "dou": "2023-08-14"
+    },
+    {
+        "id": 12,
+        "store_id": 7,
+        "item_name": "Male Plug",
+        "price": 20,
+        "quantity": 1,
+        "unit": "pc",
+        "describe": "",
+        "dou": "2023-08-14"
     }
 ]
   

@@ -28,6 +28,11 @@
         "id": 6,
         "store_name": "Davao Central Convenience",
         "address": "Jacinto, D.C."
+    },
+    {
+        "id": 7,
+        "store_name": "RLT Electronics Shop",
+        "address": "Palma Gil, D.C."
     }
 ]
   
