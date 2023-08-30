@@ -118,6 +118,16 @@
         "unit": "pc",
         "describe": "",
         "dou": "2023-08-14"
+    },
+    {
+        "id": 13,
+        "store_id": 8,
+        "item_name": "Rice",
+        "price": 56,
+        "quantity": 1,
+        "unit": "kilo",
+        "describe": "",
+        "dou": "2023-08-17"
     }
 ]
   

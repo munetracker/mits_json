@@ -33,6 +33,10 @@
         "id": 7,
         "store_name": "RLT Electronics Shop",
         "address": "Palma Gil, D.C."
+    },
+    {
+        "id": 8,
+        "store_name": "Sari Sari Store",
+        "address": "Artiaga St., D.C."
     }
 ]
-  
