@@ -11,6 +11,26 @@
 </head>
 <body>
 	<main class="container">
+
+
+	<h1>Download Image Example</h1>
+    <!-- Use a button inside the <a> tag to trigger the download -->
+    <a id="downloadLink" href="#" download="connictdesktop.png">
+        <button>Download Image</button>
+    </a>
+    <br/><br/>
+    
+    <script>
+        // Replace 'https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop.png'
+        // with the actual URL to your image on GitHub
+        const imageUrl = 'https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop.png';
+        const downloadLink = document.getElementById('downloadLink');
+
+        // Update the href attribute to point to the image URL
+        downloadLink.href = imageUrl;
+    </script>
+
+
 	<pre>
 
 	## grocery_json
