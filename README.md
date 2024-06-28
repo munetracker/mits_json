@@ -15,4 +15,9 @@
     https://raw.githubusercontent.com/munetracker/mits_json/master/logos/logo_circle_small.png
     https://raw.githubusercontent.com/munetracker/mits_json/master/logos/logo_circle.png
 
+## connict
+    1024 x 500 (1440 x 900 px)(1)
+    https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop.png
+
+
 
