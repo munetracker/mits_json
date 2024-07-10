@@ -26,56 +26,67 @@
     {
         "category": [0, 1],
         "agency": "PBA Party List",
-        "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"]
+        "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Dumper Party List",
-        "location": ["J.P. Rizal Extension, Poblacion"]
+        "location": ["J.P. Rizal Extension, Poblacion"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Marino Party List",
-        "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"]
+        "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "ACT-CIS Party List",
-        "location": ["94 Roxas Ave, TCM Building"]
+        "location": ["94 Roxas Ave, TCM Building"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Congressman Vincent Garcia",
-        "location": ["Bajada, Flyover (in front of north point)"]
+        "location": ["Bajada, Flyover (in front of north point)"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Congressman Pulong Duterte",
-        "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"]
+        "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "DSWD",
-        "location": ["Suazo St., Uyanguren"]
+        "location": ["Suazo St., Uyanguren"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "PCSO",
-        "location": ["Cabaguio"]
+        "location": ["Cabaguio"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Sen. Ronald \"Bato\" Delarosa",
-        "location": ["Maa Diversion Road near Kubota Building"]
+        "location": ["Maa Diversion Road near Kubota Building"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Office of the Vice President",
-        "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"]
+        "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"],
+        "google_maps": [""]
     },
     {
         "category": [0],
         "agency": "Imee Marcos",
-        "location": ["Near Jollibee Buhangin"]
+        "location": ["Near Jollibee Buhangin"],
+        "google_maps": [""]
     }
 ]
