@@ -46,6 +46,7 @@
 
 	<!-- Cookers -->
     <h3>json cookers</h3>
+
 	<form id="jsonForm">
         <label for="title">Title:</label>
         <input type="text" id="title" name="title" required>
@@ -56,10 +57,14 @@
         <label for="iframe">Iframe:</label>
         <textarea id="iframe" name="iframe" rows="4" required></textarea>
 
+        <div id="output" hidden></div>
+
         <button type="button" onclick="generateJSON()">Generate Cookers JSON</button>
 	    <button type="button" onclick="copyJSON()">Copy Cookers JSON</button>
+	    <a href="https://jsonlint.com/" target="_blank">
+	    	<button type="button" class="contrast">Json validator</button>
+	    </a>
     </form>
-    <div id="output"></div>
     <script>
         function generateJSON() {
             const title = document.getElementById('title').value;
@@ -75,6 +80,7 @@
             const jsonString = JSON.stringify(jsonObject, null, 4);
 
             document.getElementById('output').innerText = jsonString;
+            document.getElementById('output').hidden = false;
         }
 
         function copyJSON() {
@@ -86,9 +92,7 @@
             });
         }
     </script>
-    <a href="https://jsonlint.com/" target="_blank">
-    	<button type="button" class="contrast">Json validator</button>
-    </a>
+
 
 
 	<pre>
