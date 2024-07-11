@@ -24,6 +24,18 @@
         "details": "asdsadadasd"
     },
     {
+        "category": [3],
+        "agency": "Davao City Jobs Hiring",
+        "links": ["https://www.facebook.com/groups/549115846871917/"],
+        "details": "Davao City Jobs Hiring Facebook Group Check Post"
+    },
+    {
+        "category": [3],
+        "agency": "Software & Web Developer Jobs - Philippines",
+        "links": ["https://www.facebook.com/groups/242195756207498"],
+        "details": "Online Group. Check Group Chat"
+    },
+    {
         "category": [0, 1],
         "agency": "PBA Party List",
         "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
