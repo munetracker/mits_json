@@ -8,7 +8,8 @@
     {
         "category": [0, 1],
         "agency": "Tingog Party List",
-        "location": ["Barangay Buhangin Gym"]
+        "location": ["Barangay Buhangin Gym"],
+        "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"]
     },
     {
         "category": [3],
