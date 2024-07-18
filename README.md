@@ -23,3 +23,15 @@
 
 
 
+    {
+        "category": [0],
+        "agency": "Lingap",
+        "location": ["Malasakit Center SPMC", "Malasakit Center SPMC2222"],
+        "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6", "https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"],
+        "contact_person": ["hello", "hello222"],
+        "contact_number": ["+639972268595", "+639760563300"],
+        "email_name": ["davao 1st", "davao asdasdasdsda"],
+        "emails": ["davaofirstward@gmail.com", "munevue.games@gmail.com"],
+        "links": ["info.connict.online", "https://davaotechstack.vercel.app/"],
+        "details": "asdsadadasd"
+    },
