@@ -1,14 +1,15 @@
 [
     {
-        "category": [0],
+        "category": [5],
         "agency": "Lingap",
         "location": ["Malasakit Center SPMC"],
         "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"]
     },
     {
-        "category": [0, 1],
+        "category": [5],
         "agency": "Tingog Party List",
-        "location": ["Barangay Buhangin Gym"]
+        "location": ["Barangay Buhangin Gym"],
+        "google_maps": [""]
     },
     {
         "category": [3],
@@ -23,67 +24,67 @@
         "details": "Online Group. Check Group Chat"
     },
     {
-        "category": [0, 1],
+        "category": [5],
         "agency": "PBA Party List",
         "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
-        "google_maps": ["asdasdsadas"]
+        "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Dumper Party List",
         "location": ["J.P. Rizal Extension, Poblacion"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Marino Party List",
         "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "ACT-CIS Party List",
         "location": ["94 Roxas Ave, TCM Building"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Congressman Vincent Garcia",
         "location": ["Bajada, Flyover (in front of north point)"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Congressman Pulong Duterte",
         "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "DSWD",
         "location": ["Suazo St., Uyanguren"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "PCSO",
         "location": ["Cabaguio"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Sen. Ronald \"Bato\" Delarosa",
         "location": ["Maa Diversion Road near Kubota Building"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Office of the Vice President",
         "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"],
         "google_maps": [""]
     },
     {
-        "category": [0],
+        "category": [5],
         "agency": "Imee Marcos",
         "location": ["Near Jollibee Buhangin"],
         "google_maps": [""]
