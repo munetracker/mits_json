@@ -1,15 +1,15 @@
 [
     {
-        "category": [5],
+        "category": [6],
         "agency": "Lingap",
         "location": ["Malasakit Center SPMC"],
         "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Tingog Party List",
         "location": ["Barangay Buhangin Gym"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/LJmy4s13D76H8EBJ8"]
     },
     {
         "category": [3],
@@ -24,69 +24,69 @@
         "details": "Online Group. Check Group Chat"
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "PBA Party List",
         "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/bwd246GJiGbZGxzR8"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Dumper Party List",
         "location": ["J.P. Rizal Extension, Poblacion"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/XUgBAuxU52M8Gh7KA"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Marino Party List",
         "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/E7psnNuhDaD6qo4c9"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "ACT-CIS Party List",
         "location": ["94 Roxas Ave, TCM Building"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/ym2yd5vM9VyL9ZQa9"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Congressman Vincent Garcia",
         "location": ["Bajada, Flyover (in front of north point)"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/hzfQgoa2JJVeqW999"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Congressman Pulong Duterte",
         "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/86ALDjz7rnrqxA35A"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "DSWD",
         "location": ["Suazo St., Uyanguren"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/VnhJGPfFknV7RX5K7"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "PCSO",
         "location": ["Cabaguio"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/WU9CVwa3xVLXNhW7A"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Sen. Ronald \"Bato\" Delarosa",
         "location": ["Maa Diversion Road near Kubota Building"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/bDDowL3awPvZFZi28"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Office of the Vice President",
         "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/wKTLdJPfkTXfkhpZA"]
     },
     {
-        "category": [5],
+        "category": [6],
         "agency": "Imee Marcos",
         "location": ["Near Jollibee Buhangin"],
-        "google_maps": [""]
+        "google_maps": ["https://maps.app.goo.gl/dvQyHeB3FxhLJzoz9"]
     }
 ]
