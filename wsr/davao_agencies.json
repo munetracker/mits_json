@@ -12,13 +12,13 @@
         "google_maps": ["https://maps.app.goo.gl/LJmy4s13D76H8EBJ8"]
     },
     {
-        "category": [3],
+        "category": [2],
         "agency": "Davao City Jobs Hiring",
         "links": ["https://www.facebook.com/groups/549115846871917/"],
         "details": "Davao City Jobs Hiring Facebook Group Check Post"
     },
     {
-        "category": [3],
+        "category": [2],
         "agency": "Software & Web Developer Jobs - Philippines",
         "links": ["https://www.facebook.com/groups/242195756207498"],
         "details": "Online Group. Check Group Chat"
@@ -88,5 +88,56 @@
         "agency": "Imee Marcos",
         "location": ["Near Jollibee Buhangin"],
         "google_maps": ["https://maps.app.goo.gl/dvQyHeB3FxhLJzoz9"]
+    },
+    {
+        "category": [2],
+        "agency": "onlinejobs.ph",
+        "links": ["https://onlinejobs.ph"]
+    },
+    {
+        "category": [2],
+        "agency": "linkedin",
+        "links": ["https://www.linkedin.com/"]
+    },
+        {
+        "category": [2],
+        "agency": "apply.workable",
+        "links": ["https://apply.workable.com/careers/"]
+    },    {
+        "category": [2],
+        "agency": "freelancer",
+        "links": ["https://www.freelancer.com/"]
+    },    {
+        "category": [2],
+        "agency": "upwork",
+        "links": ["https://www.upwork.com/"]
+    },    {
+        "category": [2],
+        "agency": "peopleperhour",
+        "links": ["https://www.peopleperhour.com/"]
+    },    {
+        "category": [2],
+        "agency": "myoutdesk",
+        "links": ["https://www.myoutdesk.com/"]
+    },    {
+        "category": [2],
+        "agency": "fiverr",
+        "links": ["https://www.fiverr.com/"]
+    },    {
+        "category": [2],
+        "agency": "guru",
+        "links": ["https://www.guru.com/"]
+    },    {
+        "category": [2],
+        "agency": "golance",
+        "links": ["https://golance.com/"]
+    },    {
+        "category": [2],
+        "agency": "athena",
+        "links": ["https://www.athena.com/"]
+    },    {
+        "category": [6],
+        "agency": "Blood Types",
+        "details": '<iframe width="560" height="315" src="https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
     }
 ]
