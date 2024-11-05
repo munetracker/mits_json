@@ -135,9 +135,9 @@
         "category": [2],
         "agency": "athena",
         "links": ["https://www.athena.com/"]
-    },    {
+    },{
         "category": [6],
         "agency": "Blood Types",
-        "details": '<iframe width="560" height="315" src="https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+        "details": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
