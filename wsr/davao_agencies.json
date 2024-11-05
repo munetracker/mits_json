@@ -99,45 +99,54 @@
         "agency": "linkedin",
         "links": ["https://www.linkedin.com/"]
     },
-        {
+    {
         "category": [2],
         "agency": "apply.workable",
         "links": ["https://apply.workable.com/careers/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "freelancer",
         "links": ["https://www.freelancer.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "upwork",
         "links": ["https://www.upwork.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "peopleperhour",
         "links": ["https://www.peopleperhour.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "myoutdesk",
         "links": ["https://www.myoutdesk.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "fiverr",
         "links": ["https://www.fiverr.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "guru",
         "links": ["https://www.guru.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "golance",
         "links": ["https://golance.com/"]
-    },    {
+    },
+    {
         "category": [2],
         "agency": "athena",
         "links": ["https://www.athena.com/"]
-    },{
+    },
+    {
         "category": [6],
         "agency": "Blood Types",
-        "details": ""
+        "details": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     }
 ]
