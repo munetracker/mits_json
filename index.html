@@ -46,7 +46,7 @@
                 downloadLink.href = imageUrl;
             </script>
         </details>
-        <details>
+        <details open>
             <summary>json Cookers</summary>
             <!-- Cookers -->
             <form id="jsonForm">
@@ -74,9 +74,9 @@
                     const iframe = document.getElementById('iframe').value;
 
                     const jsonObject = {
-                        "title": title,
-                        "details": details,
-                        "iframe": iframe
+                        "food_title": title,
+                        "food_details": details,
+                        "food_video": iframe
                     };
 
                     const jsonString = JSON.stringify(jsonObject, null, 4);
@@ -126,7 +126,7 @@
                     https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop_gray_small.png        
             </pre>
         </details>
-        <details open>
+        <details>
             <summary>WSR json</summary>
             <form id="jsonForm">
                 <label for="category">Choose a category:</label>
