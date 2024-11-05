@@ -3,7 +3,8 @@
         "category": [6],
         "agency": "Lingap",
         "location": ["Malasakit Center SPMC"],
-        "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"]
+        "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"],
+        "details": "<img src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" alt=\"Lingap Image\" />"
     },
     {
         "category": [6],
