@@ -62,12 +62,6 @@
     },
     {
         "category": [6],
-        "agency": "DSWD",
-        "location": ["Suazo St., Uyanguren"],
-        "google_maps": ["https://maps.app.goo.gl/VnhJGPfFknV7RX5K7"]
-    },
-    {
-        "category": [6],
         "agency": "PCSO",
         "location": ["Cabaguio"],
         "google_maps": ["https://maps.app.goo.gl/WU9CVwa3xVLXNhW7A"]
@@ -159,6 +153,8 @@
         "category": [0,6],
         "agency": "DSWD",
         "details": "DSWD EDUCATIONAL ASSISTANCE PROGRAM 2024 <br/><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zXz3HJtQ2gI?si=A0-sXdy15wJnrd5T\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-        "links": ["https://aics.dswd.gov.ph/aics-program/"]
+        "links": ["https://aics.dswd.gov.ph/aics-program/"],
+        "location": ["Suazo St., Uyanguren"],
+        "google_maps": ["https://maps.app.goo.gl/VnhJGPfFknV7RX5K7"]
     }
 ]
