@@ -142,7 +142,7 @@
     {
         "category": [6],
         "agency": "Blood Types",
-        "details": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+        "details": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br/><br/><table><thead><tr><th>Donor Blood Type</th><th>👉</th><th>Can Give To</th></tr></thead><tbody><tr><td>O Negative (O-)</td><td>👉</td><td>All Blood Types</td></tr><tr><td>O Positive (O+)</td><td>👉</td><td>O+, A+, B+, AB+</td></tr><tr><td>A Negative (A-)</td><td>👉</td><td>A+, A-, AB+, AB-</td></tr><tr><td>A Positive (A+)</td><td>👉</td><td>A+, AB+</td></tr><tr><td>B Negative (B-)</td><td>👉</td><td>B+, B-, AB+, AB-</td></tr><tr><td>B Positive (B+)</td><td>👉</td><td>B+, AB+</td></tr><tr><td>AB Negative (AB-)</td><td>👉</td><td>AB+, AB-</td></tr><tr><td>AB Positive (AB+)</td><td>👉</td><td>AB+</td></tr></tbody></table><br/>"
     },
     {
         "category": [3],
