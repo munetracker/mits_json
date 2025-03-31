@@ -156,5 +156,50 @@
         "links": ["https://aics.dswd.gov.ph/aics-program/"],
         "location": ["Suazo St., Uyanguren"],
         "google_maps": ["https://maps.app.goo.gl/VnhJGPfFknV7RX5K7"]
+    },
+    {
+        "category": [7],
+        "agency": "Online Tithing and Fast Offering Instructions",
+        "details": "<div class=\"text-center justify-center\">\
+                      <ul>\
+                        <li><a href=\"#aubvideo\">👉 AUB Hello Money Tithing Youtube Video</a><br/><br/></li>\
+                        <li><a href=\"#aubchurch\">👉 AUB Hello Money Official Church Document</a><br/><br/></li>\
+                        <li><a href=\"#bdochurch\">👉 BDO Online Banking Official Church Document</a><br/><br/></li>\
+                        <li><a href=\"#bpichurch\">👉 BPI Online Banking Official Church Document</a></li>\
+                      </ul>\
+                      <br/><br/>\
+                      <h2 class=\"text-lg font-semibold text-gray-700 dark:text-gray-300\">AUB Hello Money Tithing Youtube Video</h2>\
+                      <div class=\"flex justify-center\">\
+                        <iframe id=\"aubvideo\" width=\"560\" height=\"315\" class=\"rounded-lg shadow-lg\"\
+                          src=\"https://www.youtube.com/embed/Mo9bPJmfybc?si=kpQDGaOTH-iAN3lK\" title=\"YouTube video player\"\
+                          frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"\
+                          referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen>\
+                        </iframe>\
+                      </div>\
+                      <br/>\
+                      <hr class=\"my-6 border-t border-gray-300 dark:border-gray-600\"/>\
+                      <h2 class=\"text-lg font-semibold text-gray-700 dark:text-gray-300\">How to pay tithing and all other donations AUB HelloMoney</h2>\
+                      <div class=\"flex justify-center\">\
+                        <img id=\"aubchurch\" class=\"mx-auto block rounded-lg shadow-lg\"\
+                          src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\"\
+                          alt=\"AUB Hello Money Document\" />\
+                      </div>\
+                      <br/>\
+                      <hr class=\"my-6 border-t border-gray-300 dark:border-gray-600\"/>\
+                      <h2 class=\"text-lg font-semibold text-gray-700 dark:text-gray-300\">BDO Online Banking Official Church Document</h2>\
+                      <div class=\"flex justify-center\">\
+                        <img id=\"bdochurch\" class=\"mx-auto block rounded-lg shadow-lg\"\
+                          src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\"\
+                          alt=\"BDO Online Banking Document\" />\
+                      </div>\
+                      <br/>\
+                      <hr class=\"my-6 border-t border-gray-300 dark:border-gray-600\"/>\
+                      <h2 class=\"text-lg font-semibold text-gray-700 dark:text-gray-300\">BPI Online Banking Official Church Document</h2>\
+                      <div class=\"flex justify-center\">\
+                        <img id=\"bpichurch\" class=\"mx-auto block rounded-lg shadow-lg\"\
+                          src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\"\
+                          alt=\"BPI Online Banking Document\" />\
+                      </div>\
+                    </div>"
     }
 ]
