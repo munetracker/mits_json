@@ -21,6 +21,8 @@
     https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop_gray.png
     https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop_gray_small.png
 
+## for link shortener 
+    https://raw.githubusercontent.com/munetracker/mits_json/master/dts/linkshortener.json
 
 
     {
