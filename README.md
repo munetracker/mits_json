@@ -24,6 +24,9 @@
 ## for link shortener 
     https://raw.githubusercontent.com/munetracker/mits_json/master/dts/linkshortener.json
 
+## dts map 
+    https://raw.githubusercontent.com/munetracker/mits_json/master/dts/dtsmap.json
+
 
     {
         "category": [0],
