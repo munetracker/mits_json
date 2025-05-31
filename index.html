@@ -3,35 +3,73 @@
 <head>
   <meta charset="UTF-8" />
   <title>Redirecting...</title>
-  <script>
-    async function redirectUser() {
-      const params = new URLSearchParams(window.location.search);
-      const key = params.get("to");
-
-      if (!key) {
-        document.body.innerText = "Missing 'to' parameter in URL.";
-        return;
-      }
-
-      try {
-        const response = await fetch("https://raw.githubusercontent.com/munetracker/mits_json/master/dts/linkshortener.json");
-        const data = await response.json();
-
-        if (data[key] && data[key].url) {
-          window.location.href = data[key].url;
-        } else {
-          document.body.innerText = `No matching redirect for key: ${key}`;
-        }
-      } catch (error) {
-        document.body.innerText = "Failed to fetch redirect data.";
-        console.error(error);
-      }
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      color: #333;
+      background-color: #f9f9f9;
     }
-
-    redirectUser();
-  </script>
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+    .info {
+      margin-top: 1rem;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 5px;
+      border-radius: 4px;
+    }
+  </style>
 </head>
 <body>
-  Redirecting...
+  <div id="message">Redirecting...</div>
+  <div class="info" id="info" style="display: none;">
+    <p><strong>How to use this link shortener:</strong></p>
+    <ul>
+      <li>Use <code>?to=secretword</code> to go to URL</li>
+      <!-- Add more instructions if needed -->
+    </ul>
+    <p>Example: <br/>
+      <code>https://mits-json.netlify.app/index.html?to=secretword</code>
+    </p>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      async function redirectUser() {
+        const message = document.getElementById("message");
+        const info = document.getElementById("info");
+
+        const params = new URLSearchParams(window.location.search);
+        const key = params.get("to");
+
+        if (!key) {
+          message.innerHTML = "<span class='error'>Missing <code>?to=</code> parameter in URL.</span>";
+          info.style.display = "block";
+          return;
+        }
+
+        try {
+          const response = await fetch("https://raw.githubusercontent.com/munetracker/mits_json/master/dts/linkshortener.json");
+          const data = await response.json();
+
+          if (data[key] && data[key].url) {
+            window.location.href = data[key].url;
+          } else {
+            message.innerHTML = `<span class='error'>No redirect found for <code>${key}</code>.</span>`;
+            info.style.display = "block";
+          }
+        } catch (error) {
+          message.innerHTML = "<span class='error'>Failed to fetch redirect data.</span>";
+          console.error(error);
+        }
+      }
+
+      redirectUser();
+    });
+  </script>
 </body>
 </html>
