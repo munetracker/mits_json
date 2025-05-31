@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MitZ JSON</title>
+	<link
+	  rel="stylesheet"
+	  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+	/>
+	<style>
+        form {
+            margin: 20px;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        textarea, input, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+        }
+        #output {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+            white-space: pre-wrap; /* Keeps the formatting of JSON */
+        }
+    </style>
+</head>
+<body>
+    <br/><br/>
+    <div class="container">
+        <details>
+            <summary>Connict Logo</summary>
+            <!-- Connict Logo -->
+            <a id="downloadLink" href="#" download="connictdesktop_1024x500(1440x900px).png">
+                <button>Download connictdesktop_1024x500(1440x900px).png</button>
+            </a>
+            <br/><br/>
+            <script>
+                const imageUrl = './connict/connictdesktop.png';
+                const downloadLink = document.getElementById('downloadLink');
+                downloadLink.href = imageUrl;
+            </script>
+        </details>
+        <details open>
+            <summary>json Cookers</summary>
+            <!-- Cookers -->
+            <form id="jsonForm">
+                <label for="title">Title:</label>
+                <input type="text" id="title" name="title" required>
+
+                <label for="details">Details:</label>
+                <textarea id="details" name="details" rows="2" required></textarea>
+
+                <label for="iframe">Iframe:</label>
+                <textarea id="iframe" name="iframe" rows="4" required></textarea>
+
+                <div id="output" hidden></div>
+
+                <button type="button" onclick="generateJSON()">Generate Cookers JSON</button>
+                <button type="button" onclick="copyJSON()">Copy Cookers JSON</button>
+                <a href="https://jsonlint.com/" target="_blank">
+                    <button type="button" class="contrast">Json validator</button>
+                </a>
+            </form>
+            <script>
+                function generateJSON() {
+                    const title = document.getElementById('title').value;
+                    const details = document.getElementById('details').value;
+                    const iframe = document.getElementById('iframe').value;
+
+                    const jsonObject = {
+                        "food_title": title,
+                        "food_details": details,
+                        "food_video": iframe
+                    };
+
+                    const jsonString = JSON.stringify(jsonObject, null, 4);
+
+                    document.getElementById('output').innerText = jsonString;
+                    document.getElementById('output').hidden = false;
+                }
+
+                function copyJSON() {
+                    const jsonOutput = document.getElementById('output').innerText;
+                    navigator.clipboard.writeText(jsonOutput).then(() => {
+                        alert("JSON copied to clipboard!");
+                    }).catch(err => {
+                        console.error('Could not copy text: ', err);
+                    });
+                }
+            </script>
+        </details>
+        <details>
+            <summary>README.md file</summary>
+            <pre>
+                ## wsr
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/wsr/davao_agencies.json
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/wsr/davao_agencies_names.json
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/wsr/wsr_category.json
+
+                ## grocery_json
+
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/grocery_json/items.json
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/grocery_json/store.json
+
+                ## sms_json
+
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/sms_json/valid_ph_numbers.json
+
+                ## logos
+
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/logos/no_bg.png
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/logos/logo_circle_big.png
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/logos/logo_circle_small.png
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/logos/logo_circle.png
+
+                ## connict
+                    1024 x 500 (1440 x 900 px)(1)
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop.png
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop_gray.png
+                    https://raw.githubusercontent.com/munetracker/mits_json/master/connict/connictdesktop_gray_small.png        
+            </pre>
+        </details>
+        <details>
+            <summary>WSR json</summary>
+            <form id="jsonForm">
+                <label for="category">Choose a category:</label>
+                <select id="category" name="category">
+                    <option value="0">Education</option>
+                    <option value="1">Emotional Resilience</option>
+                    <option value="2">Jobs and Employment</option>
+                    <option value="3">Personal Finances</option>
+                    <option value="4">Start Grow My Business</option>
+                    <option value="5" selected>No Category</option>
+                </select>
+
+                <label for="agency">Agency:</label>
+                <input type="text" id="agency" name="agency" required>
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" required>
+                <input type="text" id="google_maps" name="google_maps" placeholder="Google Maps" required>
+                <label for="contact_person">Contact Person:</label>
+                <input type="text" id="contact_person" name="contact_person" required>
+                <input type="text" id="contact_number" name="contact_number" placeholder="09XXXXXXXXXX" required>
+                <label for="email_name">Email Name:</label>
+                <input type="text" id="email_name" name="email_name" required>
+                <input type="text" id="emails" name="emails" placeholder="myemail@gmail.com" required>
+                <label for="links">Links:</label>
+                <input type="text" id="links" name="links" required>
+                <label for="details">Details:</label>
+                <input type="text" id="details" name="details" required>
+
+                <div id="outputwsr" hidden></div>
+
+                <div class="grid"> 
+                    <button type="button" onclick="generateJSONwsr()">Generate Cookers JSON</button>
+                    <button type="button" class="outline" onclick="copyJSONwsr()">Copy Cookers JSON</button>
+                    <a href="https://jsonlint.com/" target="_blank">
+                        <button type="button" class="contrast">JSON Validator</button>
+                    </a>
+                </div>
+            </form>
+
+            <script>
+                function generateJSONwsr() {
+                    const category = document.getElementById('category').value;
+                    const agency = document.getElementById('agency').value;
+                    const location = document.getElementById('location').value;
+                    const google_maps = document.getElementById('google_maps').value;
+                    const contact_person = document.getElementById('contact_person').value;
+                    const contact_number = document.getElementById('contact_number').value;
+                    const email_name = document.getElementById('email_name').value;
+                    const emails = document.getElementById('emails').value;
+                    const links = document.getElementById('links').value;
+                    const details = document.getElementById('details').value;
+
+                    const jsonObject = {
+                        "category": [parseInt(category)],
+                        "agency": agency,
+                        "location": [location],
+                        "google_maps": [google_maps],
+                        "contact_person": [contact_person],
+                        "contact_number": [contact_number],
+                        "email_name": [email_name],
+                        "emails": [emails],
+                        "links": [links],
+                        "details": details
+                    };
+
+                    const jsonString = `{
+                        "category": [${jsonObject.category[0]}],
+                        "agency": "${jsonObject.agency}",
+                        "location": ["${jsonObject.location[0]}"],
+                        "google_maps": ["${jsonObject.google_maps[0]}"],
+                        "contact_person": ["${jsonObject.contact_person[0]}"],
+                        "contact_number": ["${jsonObject.contact_number[0]}"],
+                        "email_name": ["${jsonObject.email_name[0]}"],
+                        "emails": ["${jsonObject.emails[0]}"],
+                        "links": ["${jsonObject.links[0]}"],
+                        "details": "${jsonObject.details}"
+                    }`;
+
+                    console.log(jsonString)
+                    document.getElementById('outputwsr').innerText = jsonString;
+                    document.getElementById('outputwsr').hidden = false;
+                }
+
+                function copyJSONwsr() {
+                    const jsonOutput = document.getElementById('outputwsr').innerText;
+                    navigator.clipboard.writeText(jsonOutput).then(() => {
+                        alert("JSON copied to clipboard!");
+                    }).catch(err => {
+                        console.error('Could not copy text: ', err);
+                    });
+                }
+            </script>
+        </details>
+        <details>
+            <summary>asdasdasdasdasdasd</summary>
+        </details>
+    </div>
+             <!-- open -->
+</body>
+</html>
