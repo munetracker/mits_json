@@ -98,7 +98,7 @@
   <div class="info" id="info" style="display: none;">
     <p><strong>How to use this link shortener:</strong></p>
     <ul>
-      <li>Use <code>?to=secretword</code> to go to URL</li>
+      <li>Use <code>?to=<span id="inputvalue"></span></code> to go to URL</li>
     </ul>
 
     <p>
@@ -107,7 +107,8 @@
     </p>
 
     <p>
-      <code id="copyText">https://mits-json.netlify.app/index.html?to=secretword</code>
+      <code id="copyText"></code>
+      <br/><br/>
       <button onclick="copyToClipboard()" class="copy-btn">📋 Copy</button>
     </p>
 
@@ -116,18 +117,27 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const input = document.getElementById("toInput");
+      const currentDomain = window.location.origin + window.location.pathname.replace(/[^/]*$/, '');
       const display = document.getElementById("copyText");
+      const input = document.getElementById("toInput");
+      const message = document.getElementById("message");
+      const info = document.getElementById("info");
+      const inputvalue = document.getElementById("inputvalue");
 
+      // Set initial display link (in case there's a default value)
+      const initialKeyword = encodeURIComponent(input.value.trim());
+      display.textContent = `${currentDomain}index.html?to=${initialKeyword}`;
+      inputvalue.textContent = `${initialKeyword}`;
+
+      // Update display on user input
       input.addEventListener("input", () => {
         const keyword = encodeURIComponent(input.value.trim());
-        display.textContent = `https://mits-json.netlify.app/index.html?to=${keyword}`;
+        display.textContent = `${currentDomain}index.html?to=${keyword}`;
+        inputvalue.textContent = `${keyword}`;
       });
 
+      // Redirection logic
       async function redirectUser() {
-        const message = document.getElementById("message");
-        const info = document.getElementById("info");
-
         const params = new URLSearchParams(window.location.search);
         const key = params.get("to");
 
@@ -142,7 +152,7 @@
           const data = await response.json();
 
           if (data[key] && data[key].url) {
-            message.innerHTML = `redirecting to ${key}`;
+            message.innerHTML = `Redirecting to ${key}...`;
             window.location.href = data[key].url;
           } else {
             message.innerHTML = `<span class='error'>No redirect found for <code>${key}</code>.</span>`;
