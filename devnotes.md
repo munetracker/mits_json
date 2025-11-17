@@ -6,7 +6,7 @@ git commit -am "update aug 15"
 git push origin master
 
 git add .
-git commit -m "Nov 17 2025"
+git commit -m "Nov 17 2025 B"
 git push origin master
 
 
