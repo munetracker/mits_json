@@ -1,0 +1,13 @@
+[
+    {
+        "question_number": 1,
+        "question": "On November 11, 1931, what law did the Philippine Legislature enact which is known as the Radio Control Law of the Philippines?",
+        "choices": {
+          "A": "Act No. 3843",
+          "B": "ACT NO, 3486",
+          "C": "ACT NO. 3846",
+          "D": "ACT NO. 3648"
+        },
+        "correct_answer": "C"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "question_number": 1,
+    "question": "In Rust, what keyword is used to create an immutable variable by default?",
+    "choices": {
+      "A": "mut",
+      "B": "let",
+      "C": "var",
+      "D": "const"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "Which ownership rule is true in Rust?",
+    "choices": {
+      "A": "Multiple mutable owners allowed",
+      "B": "Each value has a single owner at a time",
+      "C": "Values are garbage collected",
+      "D": "References do not obey lifetimes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "How do you borrow an immutable reference to x in Rust?",
+    "choices": {
+      "A": "&mut x",
+      "B": "&x",
+      "C": "borrow(x)",
+      "D": "ref x"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "Which keyword allows creating a mutable variable in Rust?",
+    "choices": {
+      "A": "let mut",
+      "B": "var mut",
+      "C": "mut let",
+      "D": "mutable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "What does the 'Result' enum represent in Rust?",
+    "choices": {
+      "A": "Synchronous I/O only",
+      "B": "An operation that may succeed (Ok) or fail (Err)",
+      "C": "A random number generator",
+      "D": "A trait for iterators"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 6,
+    "question": "Which macro prints to the console with a newline in Rust?",
+    "choices": {
+      "A": "print!",
+      "B": "println!",
+      "C": "echo!",
+      "D": "console.log"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "What is a trait in Rust?",
+    "choices": {
+      "A": "A type alias",
+      "B": "A collection of methods that types can implement",
+      "C": "A macro",
+      "D": "An enum variant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 8,
+    "question": "Which type is used for heap-allocated growable arrays in Rust?",
+    "choices": {
+      "A": "[T; n]",
+      "B": "Vec<T>",
+      "C": "Slice<T>",
+      "D": "ArrayList<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "Which ownership concept prevents data races at compile time?",
+    "choices": {
+      "A": "Borrow checker",
+      "B": "Garbage collector",
+      "C": "Runtime checks",
+      "D": "Mutex only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "How do you define a function named foo that returns i32?",
+    "choices": {
+      "A": "fn foo() -> i32 {}",
+      "B": "function foo(): i32 {}",
+      "C": "def foo() -> int:",
+      "D": "fn foo() { return i32; }"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 11,
+    "question": "Which keyword declares a constant that has a fixed value at compile time?",
+    "choices": {
+      "A": "let",
+      "B": "const",
+      "C": "static mut",
+      "D": "var"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "Which operator is used for pattern matching in Rust?",
+    "choices": {
+      "A": "match",
+      "B": "switch",
+      "C": "case",
+      "D": "select"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 13,
+    "question": "What does 'cargo' refer to in Rust ecosystem?",
+    "choices": {
+      "A": "A package manager and build tool",
+      "B": "A runtime VM",
+      "C": "An IDE",
+      "D": "A linter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 14,
+    "question": "Which type is used to represent a string slice?",
+    "choices": {
+      "A": "StringSlice",
+      "B": "&str",
+      "C": "strref",
+      "D": "String"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "Which keyword allows implementing methods on a struct?",
+    "choices": {
+      "A": "impl",
+      "B": "implement",
+      "C": "methods",
+      "D": "fn"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "Which is true about lifetimes in Rust?",
+    "choices": {
+      "A": "They are annotations the compiler uses to ensure references are valid",
+      "B": "They are runtime values",
+      "C": "They always need explicit values",
+      "D": "They are only for threads"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "What is the ownership status after moving a value to another variable?",
+    "choices": {
+      "A": "Original variable still usable",
+      "B": "Original variable is invalidated (moved)",
+      "C": "Value is copied automatically",
+      "D": "Both variables share ownership without rules"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 18,
+    "question": "Which type represents an optional value that may be None?",
+    "choices": {
+      "A": "Option<T>",
+      "B": "Maybe<T>",
+      "C": "Nullable<T>",
+      "D": "Optional<T>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "How do you create a new String from a string literal?",
+    "choices": {
+      "A": "String::from(\"hello\")",
+      "B": "new String(\"hello\")",
+      "C": "\"hello\".to_string()",
+      "D": "both A and C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 20,
+    "question": "Which ownership action occurs when a type implements the Copy trait?",
+    "choices": {
+      "A": "Moves ownership",
+      "B": "Values are copied implicitly on assignment",
+      "C": "Causes runtime panic",
+      "D": "Requires heap allocation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 21,
+    "question": "Which macro is used in tests to assert equality?",
+    "choices": {
+      "A": "assert_eq!",
+      "B": "assertEqual!",
+      "C": "check_eq!",
+      "D": "equal!"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "Which construct defines a new composite type with named fields?",
+    "choices": {
+      "A": "enum",
+      "B": "struct",
+      "C": "trait",
+      "D": "impl"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "Which is true about Rust enums?",
+    "choices": {
+      "A": "Enums in Rust can hold data with each variant",
+      "B": "Enums are identical to integers",
+      "C": "Enums cannot have associated data",
+      "D": "Enums are only for error types"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "Which smart pointer provides shared ownership with reference counting?",
+    "choices": {
+      "A": "Box<T>",
+      "B": "Rc<T>",
+      "C": "RefCell<T>",
+      "D": "ArcMut<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 25,
+    "question": "What does borrowing with '&mut' allow you to do?",
+    "choices": {
+      "A": "Immutably borrow",
+      "B": "Mutably borrow allowing mutation through the reference",
+      "C": "Transfer ownership",
+      "D": "Create a copy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 26,
+    "question": "Which of the following will fail to compile due to lifetime issues?",
+    "choices": {
+      "A": "Returning a reference to a local variable",
+      "B": "Passing a reference into a function",
+      "C": "Borrowing an immutable reference",
+      "D": "Using Box::new to heap allocate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "Which trait is used to allow iteration with 'for' loops?",
+    "choices": {
+      "A": "Iterator",
+      "B": "IntoIterator",
+      "C": "Iterable",
+      "D": "ForEach"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "How do you implement a method named new for a struct Foo?",
+    "choices": {
+      "A": "impl Foo { fn new() -> Self { ... } }",
+      "B": "impl Foo new() -> Self { ... }",
+      "C": "fn Foo::new() -> Self { }",
+      "D": "def new(self):"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 29,
+    "question": "Which concurrency primitive is used for thread-safe reference counting across threads?",
+    "choices": {
+      "A": "Rc<T>",
+      "B": "Arc<T>",
+      "C": "RefCell<T>",
+      "D": "Box<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "Which construct allows interior mutability in single-threaded contexts?",
+    "choices": {
+      "A": "Mutex<T>",
+      "B": "RefCell<T>",
+      "C": "AtomicUsize",
+      "D": "Cell<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 31,
+    "question": "Which macro helps create custom derive implementations in Rust?",
+    "choices": {
+      "A": "macro_rules!",
+      "B": "derive",
+      "C": "impl_macro!",
+      "D": "proc_macro"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 32,
+    "question": "Which is true about pattern matching with enums and match?",
+    "choices": {
+      "A": "match must be exhaustive unless a wildcard arm is used",
+      "B": "match can skip arms without wildcard",
+      "C": "match runs at runtime only for enums",
+      "D": "match is only for integers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 33,
+    "question": "Which method on Option<T> returns the contained value or a default?",
+    "choices": {
+      "A": "unwrap_or(default)",
+      "B": "get_or(default)",
+      "C": "or_else(default)",
+      "D": "unwrap_or_else(default)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 34,
+    "question": "How do you spawn a new thread in Rust's std library?",
+    "choices": {
+      "A": "std::thread::spawn(|| { /* ... */ })",
+      "B": "spawn_thread(|| {})",
+      "C": "Thread::new()",
+      "D": "thread::create()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "Which result handling pattern avoids panics by gracefully handling errors?",
+    "choices": {
+      "A": "Using unwrap() everywhere",
+      "B": "Propagating errors with the ? operator",
+      "C": "Using expect with messages",
+      "D": "Catching every panic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "Which collection type allows fast key-value mapping and is in std::collections?",
+    "choices": {
+      "A": "HashMap<K,V>",
+      "B": "Vec<K,V>",
+      "C": "MapList<K,V>",
+      "D": "AssocArray"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 37,
+    "question": "Which keyword allows declaring a module in a file?",
+    "choices": {
+      "A": "module",
+      "B": "mod",
+      "C": "namespace",
+      "D": "package"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 38,
+    "question": "Which attribute is used to ignore a test in Rust?",
+    "choices": {
+      "A": "#[ignore]",
+      "B": "#[skip]",
+      "C": "#[no_run]",
+      "D": "#[disabled]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 39,
+    "question": "Which of these indicates a boxed value stored on the heap?",
+    "choices": {
+      "A": "Box<T>",
+      "B": "Heap<T>",
+      "C": "HeapBox<T>",
+      "D": "Pointer<T>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "Why would you use unsafe blocks in Rust?",
+    "choices": {
+      "A": "To bypass borrow checker rules for performance or FFI when you ensure safety manually",
+      "B": "To disable type checking",
+      "C": "To allocate memory on stack only",
+      "D": "To run code faster in JS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "Which of these is true about zero-cost abstractions in Rust?",
+    "choices": {
+      "A": "They have runtime performance overhead",
+      "B": "They aim to provide high-level APIs without runtime cost compared to hand-written low-level code",
+      "C": "They require garbage collection",
+      "D": "They are only for unsafe code"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 42,
+    "question": "What is the purpose of lifetime elision rules?",
+    "choices": {
+      "A": "Allow the compiler to infer lifetimes in common patterns to reduce annotations",
+      "B": "Force explicit lifetime annotations always",
+      "C": "Avoid using references",
+      "D": "Simplify macros"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 43,
+    "question": "Which method on Vec<T> removes and returns the last element?",
+    "choices": {
+      "A": "pop()",
+      "B": "remove_last()",
+      "C": "drop()",
+      "D": "take_last()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Which trait allows mutable indexing like arr[i] = x?",
+    "choices": {
+      "A": "Index",
+      "B": "IndexMut",
+      "C": "MutableIndex",
+      "D": "AssignIndex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 45,
+    "question": "When interfacing with C libraries, which crate helps with FFI bindings generation?",
+    "choices": {
+      "A": "bindgen",
+      "B": "ffi-gen",
+      "C": "cbindgen",
+      "D": "rust-ffi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 46,
+    "question": "Which of these helps detect data races at runtime in Rust programs?",
+    "choices": {
+      "A": "MIRI",
+      "B": "clippy",
+      "C": "rustfmt",
+      "D": "cargo check"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "Which crate provides asynchronous runtime commonly used in Rust ecosystem?",
+    "choices": {
+      "A": "tokio",
+      "B": "threadpool",
+      "C": "async_stdlib",
+      "D": "futures-lite"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "What is the purpose of Cow<T> (Clone on Write)?",
+    "choices": {
+      "A": "Allow either owned or borrowed data to be used efficiently and clone only when mutated",
+      "B": "Always clones data eagerly",
+      "C": "Only for file I/O",
+      "D": "Deprecated type"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 49,
+    "question": "Which tool helps find idiomatic improvements and lints for Rust code?",
+    "choices": {
+      "A": "rustc",
+      "B": "clippy",
+      "C": "cargo fmt",
+      "D": "rustdoc"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 50,
+    "question": "Which feature lets you define macros that look like functions and operate on token trees?",
+    "choices": {
+      "A": "macro_rules!",
+      "B": "proc_macro",
+      "C": "derive_macro",
+      "D": "macro_fn"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 51,
+    "question": "Which crate is used to serialize/deserialize data structures to/from JSON in Rust?",
+    "choices": {
+      "A": "serde",
+      "B": "json-rs",
+      "C": "rust-json",
+      "D": "serde_json"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 52,
+    "question": "What is a thin pointer in Rust when referring to trait objects?",
+    "choices": {
+      "A": "Contains both data pointer and vtable pointer",
+      "B": "Pointer without metadata for sized types",
+      "C": "Pointer to Box only",
+      "D": "Deprecated pointer type"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 53,
+    "question": "Which of the following best describes 'pinning' in Rust?",
+    "choices": {
+      "A": "Preventing a value from being moved in memory so that pointers to it remain valid",
+      "B": "Locking a Mutex",
+      "C": "A way to mark a variable as immutable",
+      "D": "A debugging technique"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 54,
+    "question": "How can you safely share mutable state between threads?",
+    "choices": {
+      "A": "Using Rc<T>",
+      "B": "Using Arc<Mutex<T>> or other synchronization primitives",
+      "C": "Using global mutables without sync",
+      "D": "Using Copy trait"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 55,
+    "question": "Which attribute lets you export a function with C ABI for FFI?",
+    "choices": {
+      "A": "#[no_mangle] pub extern \"C\" fn foo() {}",
+      "B": "#[ffi] fn foo() {}",
+      "C": "extern crate c",
+      "D": "#[export_c]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 56,
+    "question": "What is the effect of marking a function 'async' in Rust?",
+    "choices": {
+      "A": "Function immediately runs on a new thread",
+      "B": "Function returns a future which must be awaited to produce a value",
+      "C": "Function is compiled to native code only",
+      "D": "Function cannot return values"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 57,
+    "question": "Which of these is true about specialization in Rust?",
+    "choices": {
+      "A": "Stable and fully supported",
+      "B": "Still an unstable feature behind a feature flag",
+      "C": "Deprecated",
+      "D": "Only for macros"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 58,
+    "question": "How do you declare a lifetime parameter named 'a on a function?",
+    "choices": {
+      "A": "fn foo<'a>(x: &'a str) {}",
+      "B": "fn foo<'a>(x: str<'a>) {}",
+      "C": "fn<'a> foo(x: &str) {}",
+      "D": "fn foo(x: &amp;'a str) {}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Which crate is commonly used for ergonomic error handling with context and backtraces?",
+    "choices": {
+      "A": "anyhow",
+      "B": "panic",
+      "C": "error_chain",
+      "D": "rust_error"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "Which of these avoids dynamic dispatch for trait objects at compile time?",
+    "choices": {
+      "A": "Using generics/monomorphization",
+      "B": "Using Box<dyn Trait>",
+      "C": "Using trait objects always",
+      "D": "Using reflection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "What is the main reason to prefer &str over String in APIs when possible?",
+    "choices": {
+      "A": "&str avoids allocations and can borrow from callers, offering flexibility and performance",
+      "B": "String is deprecated",
+      "C": "&str is always mutable",
+      "D": "String cannot be serialized"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question": "Which of the following about Rust what keyword is used to create an immutable variable by default?",
+    "choices": {
+      "A": "mut",
+      "B": "let",
+      "C": "var",
+      "D": "const"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 63,
+    "question": "Which ownership rule is true in Rust?",
+    "choices": {
+      "A": "Multiple mutable owners allowed",
+      "B": "Each value has a single owner at a time",
+      "C": "Values are garbage collected",
+      "D": "References do not obey lifetimes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 64,
+    "question": "How do you borrow an immutable reference to x in Rust?",
+    "choices": {
+      "A": "&mut x",
+      "B": "&x",
+      "C": "borrow(x)",
+      "D": "ref x"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 65,
+    "question": "Which keyword allows creating a mutable variable in Rust?",
+    "choices": {
+      "A": "let mut",
+      "B": "var mut",
+      "C": "mut let",
+      "D": "mutable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "What does the 'Result' enum represent in Rust?",
+    "choices": {
+      "A": "Synchronous I/O only",
+      "B": "An operation that may succeed (Ok) or fail (Err)",
+      "C": "A random number generator",
+      "D": "A trait for iterators"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "Which macro prints to the console with a newline in Rust?",
+    "choices": {
+      "A": "print!",
+      "B": "println!",
+      "C": "echo!",
+      "D": "console.log"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question": "What is a trait in Rust?",
+    "choices": {
+      "A": "A type alias",
+      "B": "A collection of methods that types can implement",
+      "C": "A macro",
+      "D": "An enum variant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 69,
+    "question": "Which type is used for heap-allocated growable arrays in Rust?",
+    "choices": {
+      "A": "[T; n]",
+      "B": "Vec<T>",
+      "C": "Slice<T>",
+      "D": "ArrayList<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 70,
+    "question": "Which ownership concept prevents data races at compile time?",
+    "choices": {
+      "A": "Borrow checker",
+      "B": "Garbage collector",
+      "C": "Runtime checks",
+      "D": "Mutex only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 71,
+    "question": "How do you define a function named foo that returns i32?",
+    "choices": {
+      "A": "fn foo() -> i32 {}",
+      "B": "function foo(): i32 {}",
+      "C": "def foo() -> int:",
+      "D": "fn foo() { return i32; }"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "Which keyword declares a constant that has a fixed value at compile time?",
+    "choices": {
+      "A": "let",
+      "B": "const",
+      "C": "static mut",
+      "D": "var"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 73,
+    "question": "Which operator is used for pattern matching in Rust?",
+    "choices": {
+      "A": "match",
+      "B": "switch",
+      "C": "case",
+      "D": "select"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 74,
+    "question": "What does 'cargo' refer to in Rust ecosystem?",
+    "choices": {
+      "A": "A package manager and build tool",
+      "B": "A runtime VM",
+      "C": "An IDE",
+      "D": "A linter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 75,
+    "question": "Which type is used to represent a string slice?",
+    "choices": {
+      "A": "StringSlice",
+      "B": "&str",
+      "C": "strref",
+      "D": "String"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 76,
+    "question": "Which keyword allows implementing methods on a struct?",
+    "choices": {
+      "A": "impl",
+      "B": "implement",
+      "C": "methods",
+      "D": "fn"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 77,
+    "question": "Which is true about lifetimes in Rust?",
+    "choices": {
+      "A": "They are annotations the compiler uses to ensure references are valid",
+      "B": "They are runtime values",
+      "C": "They always need explicit values",
+      "D": "They are only for threads"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 78,
+    "question": "What is the ownership status after moving a value to another variable?",
+    "choices": {
+      "A": "Original variable still usable",
+      "B": "Original variable is invalidated (moved)",
+      "C": "Value is copied automatically",
+      "D": "Both variables share ownership without rules"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 79,
+    "question": "Which type represents an optional value that may be None?",
+    "choices": {
+      "A": "Option<T>",
+      "B": "Maybe<T>",
+      "C": "Nullable<T>",
+      "D": "Optional<T>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "How do you create a new String from a string literal?",
+    "choices": {
+      "A": "String::from(\"hello\")",
+      "B": "new String(\"hello\")",
+      "C": "\"hello\".to_string()",
+      "D": "both A and C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 81,
+    "question": "Which ownership action occurs when a type implements the Copy trait?",
+    "choices": {
+      "A": "Moves ownership",
+      "B": "Values are copied implicitly on assignment",
+      "C": "Causes runtime panic",
+      "D": "Requires heap allocation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 82,
+    "question": "Which macro is used in tests to assert equality?",
+    "choices": {
+      "A": "assert_eq!",
+      "B": "assertEqual!",
+      "C": "check_eq!",
+      "D": "equal!"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "Which construct defines a new composite type with named fields?",
+    "choices": {
+      "A": "enum",
+      "B": "struct",
+      "C": "trait",
+      "D": "impl"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 84,
+    "question": "Which is true about Rust enums?",
+    "choices": {
+      "A": "Enums in Rust can hold data with each variant",
+      "B": "Enums are identical to integers",
+      "C": "Enums cannot have associated data",
+      "D": "Enums are only for error types"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "Which smart pointer provides shared ownership with reference counting?",
+    "choices": {
+      "A": "Box<T>",
+      "B": "Rc<T>",
+      "C": "RefCell<T>",
+      "D": "ArcMut<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "What does borrowing with '&mut' allow you to do?",
+    "choices": {
+      "A": "Immutably borrow",
+      "B": "Mutably borrow allowing mutation through the reference",
+      "C": "Transfer ownership",
+      "D": "Create a copy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 87,
+    "question": "Which of the following will fail to compile due to lifetime issues?",
+    "choices": {
+      "A": "Returning a reference to a local variable",
+      "B": "Passing a reference into a function",
+      "C": "Borrowing an immutable reference",
+      "D": "Using Box::new to heap allocate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "Which trait is used to allow iteration with 'for' loops?",
+    "choices": {
+      "A": "Iterator",
+      "B": "IntoIterator",
+      "C": "Iterable",
+      "D": "ForEach"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "How do you implement a method named new for a struct Foo?",
+    "choices": {
+      "A": "impl Foo { fn new() -> Self { ... } }",
+      "B": "impl Foo new() -> Self { ... }",
+      "C": "fn Foo::new() -> Self { }",
+      "D": "def new(self):"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "Which concurrency primitive is used for thread-safe reference counting across threads?",
+    "choices": {
+      "A": "Rc<T>",
+      "B": "Arc<T>",
+      "C": "RefCell<T>",
+      "D": "Box<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 91,
+    "question": "Which construct allows interior mutability in single-threaded contexts?",
+    "choices": {
+      "A": "Mutex<T>",
+      "B": "RefCell<T>",
+      "C": "AtomicUsize",
+      "D": "Cell<T>"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 92,
+    "question": "Which macro helps create custom derive implementations in Rust?",
+    "choices": {
+      "A": "macro_rules!",
+      "B": "derive",
+      "C": "impl_macro!",
+      "D": "proc_macro"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 93,
+    "question": "Which is true about pattern matching with enums and match?",
+    "choices": {
+      "A": "match must be exhaustive unless a wildcard arm is used",
+      "B": "match can skip arms without wildcard",
+      "C": "match runs at runtime only for enums",
+      "D": "match is only for integers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "Which method on Option<T> returns the contained value or a default?",
+    "choices": {
+      "A": "unwrap_or(default)",
+      "B": "get_or(default)",
+      "C": "or_else(default)",
+      "D": "unwrap_or_else(default)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 95,
+    "question": "How do you spawn a new thread in Rust's std library?",
+    "choices": {
+      "A": "std::thread::spawn(|| { /* ... */ })",
+      "B": "spawn_thread(|| {})",
+      "C": "Thread::new()",
+      "D": "thread::create()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "Which result handling pattern avoids panics by gracefully handling errors?",
+    "choices": {
+      "A": "Using unwrap() everywhere",
+      "B": "Propagating errors with the ? operator",
+      "C": "Using expect with messages",
+      "D": "Catching every panic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "Which collection type allows fast key-value mapping and is in std::collections?",
+    "choices": {
+      "A": "HashMap<K,V>",
+      "B": "Vec<K,V>",
+      "C": "MapList<K,V>",
+      "D": "AssocArray"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 98,
+    "question": "Which keyword allows declaring a module in a file?",
+    "choices": {
+      "A": "module",
+      "B": "mod",
+      "C": "namespace",
+      "D": "package"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 99,
+    "question": "Which attribute is used to ignore a test in Rust?",
+    "choices": {
+      "A": "#[ignore]",
+      "B": "#[skip]",
+      "C": "#[no_run]",
+      "D": "#[disabled]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "Which of these indicates a boxed value stored on the heap?",
+    "choices": {
+      "A": "Box<T>",
+      "B": "Heap<T>",
+      "C": "HeapBox<T>",
+      "D": "Pointer<T>"
+    },
+    "correct_answer": "A"
+  }
+]

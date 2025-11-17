@@ -1,0 +1,24 @@
+[
+  {
+    "question_number": 1,
+    "question": "What does CPU stand for?",
+    "choices": {
+      "A": "Central Process Unit",
+      "B": "Central Processing Unit",
+      "C": "Computer Personal Unit",
+      "D": "Central Processor Utility"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "Which part of a computer is considered the brain?",
+    "choices": {
+      "A": "Hard Drive",
+      "B": "RAM",
+      "C": "CPU",
+      "D": "Monitor"
+    },
+    "correct_answer": "C"
+  }
+]

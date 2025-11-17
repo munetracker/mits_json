@@ -1,0 +1,1102 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which keyword is used to define a function in Python?",
+    "choices": {
+      "A": "func",
+      "B": "def",
+      "C": "function",
+      "D": "lambda"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the correct file extension for Python files?",
+    "choices": {
+      "A": ".py",
+      "B": ".pt",
+      "C": ".p",
+      "D": ".python"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 3,
+    "question": "Which data type is an ordered, immutable sequence of values?",
+    "choices": {
+      "A": "list",
+      "B": "set",
+      "C": "tuple",
+      "D": "dict"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 4,
+    "question": "How do you create a list with elements 1,2,3?",
+    "choices": {
+      "A": "[1,2,3]",
+      "B": "(1,2,3)",
+      "C": "{1,2,3}",
+      "D": "list(1,2,3)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "Which statement is used for conditional execution?",
+    "choices": {
+      "A": "for",
+      "B": "if",
+      "C": "switch",
+      "D": "when"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 6,
+    "question": "How do you open a file named 'data.txt' for reading?",
+    "choices": {
+      "A": "open('data.txt','r')",
+      "B": "open('data.txt','w')",
+      "C": "read('data.txt')",
+      "D": "file.read('data.txt')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 7,
+    "question": "Which method adds an item to the end of a list?",
+    "choices": {
+      "A": "append()",
+      "B": "push()",
+      "C": "add()",
+      "D": "insert()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "Which syntax creates a dictionary with key 'a' mapped to 1?",
+    "choices": {
+      "A": "{'a':1}",
+      "B": "('a',1)",
+      "C": "['a',1]",
+      "D": "dict(a=1)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the result of 3 // 2 in Python?",
+    "choices": {
+      "A": "1.5",
+      "B": "1",
+      "C": "2",
+      "D": "0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 10,
+    "question": "Which of these is a Python boolean literal?",
+    "choices": {
+      "A": "True",
+      "B": "true",
+      "C": "TRUE",
+      "D": "Yes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 11,
+    "question": "How do you create a virtual environment using the built-in module?",
+    "choices": {
+      "A": "venv",
+      "B": "virtualenv",
+      "C": "pipenv",
+      "D": "conda"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 12,
+    "question": "Which iterator protocol method returns the next item?",
+    "choices": {
+      "A": "__init__",
+      "B": "__iter__",
+      "C": "__next__",
+      "D": "nextItem"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 13,
+    "question": "How do you write a single-line comment in Python?",
+    "choices": {
+      "A": "// comment",
+      "B": "# comment",
+      "C": "/* comment */",
+      "D": "-- comment"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "Which built-in function gets the length of a list?",
+    "choices": {
+      "A": "size()",
+      "B": "len()",
+      "C": "count()",
+      "D": "length()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "Which keyword defines an anonymous function in Python?",
+    "choices": {
+      "A": "def",
+      "B": "lambda",
+      "C": "anon",
+      "D": "func"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 16,
+    "question": "Which exception is raised when division by zero occurs?",
+    "choices": {
+      "A": "ZeroDivisionError",
+      "B": "ValueError",
+      "C": "TypeError",
+      "D": "ArithmeticError"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "How do you convert a string '123' to an integer?",
+    "choices": {
+      "A": "int('123')",
+      "B": "str(123)",
+      "C": "float('123')",
+      "D": "toInt('123')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "Which statement is used to handle exceptions?",
+    "choices": {
+      "A": "try...except",
+      "B": "do...catch",
+      "C": "catch",
+      "D": "handle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "Which collection type ensures unique elements and is unordered?",
+    "choices": {
+      "A": "list",
+      "B": "tuple",
+      "C": "set",
+      "D": "dict"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 20,
+    "question": "What is a common package manager for Python?",
+    "choices": {
+      "A": "pip",
+      "B": "npm",
+      "C": "gem",
+      "D": "cargo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question": "Which keyword creates a class in Python?",
+    "choices": {
+      "A": "class",
+      "B": "struct",
+      "C": "object",
+      "D": "defclass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "How do you import the math module?",
+    "choices": {
+      "A": "import math",
+      "B": "include math",
+      "C": "from math import *",
+      "D": "require('math')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "Which of the following opens a file and ensures it is closed afterwards?",
+    "choices": {
+      "A": "with open('f') as fh:",
+      "B": "open('f')",
+      "C": "file.open('f')",
+      "D": "using open('f')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "What is the output of print([i for i in range(3)])?",
+    "choices": {
+      "A": "[0, 1, 2]",
+      "B": "(0, 1, 2)",
+      "C": "0 1 2",
+      "D": "[1, 2, 3]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 25,
+    "question": "What does the GIL (Global Interpreter Lock) affect in CPython?",
+    "choices": {
+      "A": "Prevents multiple threads from executing Python bytecodes in parallel within one process",
+      "B": "Prevents I/O operations",
+      "C": "Disables garbage collection",
+      "D": "Improves multi-core CPU utilization"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "Which method would you use to serialize a Python object to JSON?",
+    "choices": {
+      "A": "json.loads",
+      "B": "json.dumps",
+      "C": "pickle.load",
+      "D": "pickle.dumps"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "What is the difference between list and tuple?",
+    "choices": {
+      "A": "list is immutable, tuple is mutable",
+      "B": "tuple is immutable, list is mutable",
+      "C": "Both are immutable",
+      "D": "Both are mutable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "Which decorator is commonly used to create class methods?",
+    "choices": {
+      "A": "@staticmethod",
+      "B": "@classmethod",
+      "C": "@property",
+      "D": "@decorator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 29,
+    "question": "Which comprehension syntax creates a dictionary?",
+    "choices": {
+      "A": "{k:v for k,v in iterable}",
+      "B": "[k:v for k,v in iterable]",
+      "C": "(k:v for k,v in iterable)",
+      "D": "dict(k:v for k,v in iterable)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 30,
+    "question": "How do you create a generator expression?",
+    "choices": {
+      "A": "(x*x for x in range(5))",
+      "B": "[x*x for x in range(5)]",
+      "C": "{x*x for x in range(5)}",
+      "D": "<x*x for x in range(5)>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 31,
+    "question": "Which function is used to get the current working directory?",
+    "choices": {
+      "A": "os.getcwd()",
+      "B": "os.getwd()",
+      "C": "os.pwd()",
+      "D": "os.curdir()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "Which statement will catch any exception and give access to the exception object?",
+    "choices": {
+      "A": "except Exception as e:",
+      "B": "except e:",
+      "C": "catch Exception e:",
+      "D": "except: e"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 33,
+    "question": "Which module provides high-performance JSON encoding/decoding in Python's stdlib?",
+    "choices": {
+      "A": "ujson",
+      "B": "rapidjson",
+      "C": "json",
+      "D": "simplejson"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 34,
+    "question": "What does the 'with' statement do in resource handling?",
+    "choices": {
+      "A": "Automatically closes resources when block exits",
+      "B": "Creates a new thread",
+      "C": "Transpiles code",
+      "D": "Caches function results"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "Which of these is a common way to create virtual environments with Python 3.8+?",
+    "choices": {
+      "A": "python -m venv env",
+      "B": "virtualenv env",
+      "C": "pipenv install",
+      "D": "conda create"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 36,
+    "question": "Which built-in function sorts a list in-place?",
+    "choices": {
+      "A": "sorted(list)",
+      "B": "list.sort()",
+      "C": "order(list)",
+      "D": "sort(list)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "Which keyword is used to annotate type hints for a function parameter?",
+    "choices": {
+      "A": ":",
+      "B": "->",
+      "C": "?",
+      "D": "::"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "What does '@staticmethod' do inside a class?",
+    "choices": {
+      "A": "Method receives the class as the first arg",
+      "B": "Method receives no implicit first argument",
+      "C": "Method becomes a property",
+      "D": "Method cannot be called"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the purpose of __init__ in a Python class?",
+    "choices": {
+      "A": "Defines string representation",
+      "B": "Constructor called when instance is created",
+      "C": "Deletes instance",
+      "D": "Used for class methods"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "Which of these describes Python's descriptor protocol?",
+    "choices": {
+      "A": "Objects that define methods like __get__, __set__ to control attribute access",
+      "B": "A module for describing data",
+      "C": "Deprecated feature",
+      "D": "Used only by metaclasses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "What is monkey patching in Python?",
+    "choices": {
+      "A": "Dynamically modifying or extending code at runtime",
+      "B": "A secure coding practice",
+      "C": "Performance optimization",
+      "D": "A testing framework"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 42,
+    "question": "Which method in unittest is used to ensure setUp code runs before each test?",
+    "choices": {
+      "A": "setUpClass",
+      "B": "setUp",
+      "C": "tearDown",
+      "D": "runTest"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 43,
+    "question": "Which built-in library helps create asynchronous code with event loop?",
+    "choices": {
+      "A": "asyncio",
+      "B": "threading",
+      "C": "multiprocessing",
+      "D": "subprocess"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Which of the following can help avoid recursion limit issues for deep recursion?",
+    "choices": {
+      "A": "sys.setrecursionlimit",
+      "B": "multiprocessing.Manager",
+      "C": "contextlib",
+      "D": "dataclasses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question": "Which approach is best when CPU-bound tasks require parallelism in Python?",
+    "choices": {
+      "A": "Use threads",
+      "B": "Use multiprocessing to spawn processes",
+      "C": "Use asyncio only",
+      "D": "Use global interpreter lock (GIL) tuning"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question": "What does the 'yield from' expression do in generators?",
+    "choices": {
+      "A": "Delegates part of generator's operations to another generator",
+      "B": "Immediately returns value",
+      "C": "Creates a coroutine",
+      "D": "Deletes generator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "Which method of a class can customize instance creation before __init__ runs?",
+    "choices": {
+      "A": "__new__",
+      "B": "__start__",
+      "C": "__create__",
+      "D": "__build__"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "Which library is commonly used for data manipulation and analysis in Python?",
+    "choices": {
+      "A": "pandas",
+      "B": "numpy",
+      "C": "requests",
+      "D": "flask"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 49,
+    "question": "Which built-in module provides support for weak references?",
+    "choices": {
+      "A": "weakref",
+      "B": "refmgr",
+      "C": "weak",
+      "D": "refs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 50,
+    "question": "Which decorator is used to create cached function results in functools?",
+    "choices": {
+      "A": "@functools.cache",
+      "B": "@functools.lru_cache",
+      "C": "@cacheable",
+      "D": "@memoize"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 51,
+    "question": "What is packaging tool recommended for modern Python projects?",
+    "choices": {
+      "A": "setuptools only",
+      "B": "poetry or flit",
+      "C": "distutils",
+      "D": "easy_install"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 52,
+    "question": "What is PEP 8 about?",
+    "choices": {
+      "A": "Python Enhancement Proposal for style conventions",
+      "B": "Package manager spec",
+      "C": "Security guidelines",
+      "D": "Testing framework"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 53,
+    "question": "Which Python feature allows declarative data classes with less boilerplate?",
+    "choices": {
+      "A": "namedtuple",
+      "B": "dataclasses",
+      "C": "attrs",
+      "D": "structs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question": "Which module helps create type-checked code with runtime checks in recent Python versions?",
+    "choices": {
+      "A": "typing",
+      "B": "mypy",
+      "C": "pytypes",
+      "D": "typeguard"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the primary use of the 'asyncio' event loop's run_until_complete?",
+    "choices": {
+      "A": "Run coroutine until done and return result",
+      "B": "Start a new thread",
+      "C": "Compile coroutines",
+      "D": "Convert sync functions to async"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 56,
+    "question": "Which protocol allows structural subtyping (duck typing) in typing module?",
+    "choices": {
+      "A": "ABC",
+      "B": "Protocol",
+      "C": "Interface",
+      "D": "Structural"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the benefit of using memoryviews for binary data?",
+    "choices": {
+      "A": "Avoid copying data when slicing",
+      "B": "Always faster than bytes",
+      "C": "Automatically serialize to JSON",
+      "D": "Replace numpy arrays"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "Which tool can be used to profile Python CPU usage?",
+    "choices": {
+      "A": "cProfile",
+      "B": "pytest",
+      "C": "unittest",
+      "D": "black"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Which async library integrates well with web frameworks for high-performance I/O?",
+    "choices": {
+      "A": "asyncio / uvloop",
+      "B": "threading",
+      "C": "multiprocessing",
+      "D": "tkinter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the 'walrus operator' (:=) used for?",
+    "choices": {
+      "A": "Assignment expression to assign and return value in expression",
+      "B": "Equality check",
+      "C": "Lambda shorthand",
+      "D": "Type hinting"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "Which storage system is recommended for sharing state across processes safely?",
+    "choices": {
+      "A": "Shared globals",
+      "B": "multiprocessing.Manager or external DB",
+      "C": "Pickle files only",
+      "D": "Local variables"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 62,
+    "question": "Which of the following keyword is used to define a function in Python?",
+    "choices": {
+      "A": "func",
+      "B": "def",
+      "C": "function",
+      "D": "lambda"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 63,
+    "question": "What is the correct file extension for Python files?",
+    "choices": {
+      "A": ".py",
+      "B": ".pt",
+      "C": ".p",
+      "D": ".python"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 64,
+    "question": "Which of the following data type is an ordered, immutable sequence of values?",
+    "choices": {
+      "A": "list",
+      "B": "set",
+      "C": "tuple",
+      "D": "dict"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 65,
+    "question": "How do you create a list with elements 1,2,3?",
+    "choices": {
+      "A": "[1,2,3]",
+      "B": "(1,2,3)",
+      "C": "{1,2,3}",
+      "D": "list(1,2,3)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "Which of the following statement is used for conditional execution?",
+    "choices": {
+      "A": "for",
+      "B": "if",
+      "C": "switch",
+      "D": "when"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "How do you open a file named 'data.txt' for reading?",
+    "choices": {
+      "A": "open('data.txt','r')",
+      "B": "open('data.txt','w')",
+      "C": "read('data.txt')",
+      "D": "file.read('data.txt')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 68,
+    "question": "Which of the following method adds an item to the end of a list?",
+    "choices": {
+      "A": "append()",
+      "B": "push()",
+      "C": "add()",
+      "D": "insert()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 69,
+    "question": "Which of the following syntax creates a dictionary with key 'a' mapped to 1?",
+    "choices": {
+      "A": "{'a':1}",
+      "B": "('a',1)",
+      "C": "['a',1]",
+      "D": "dict(a=1)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 70,
+    "question": "What is the result of 3 // 2 in Python?",
+    "choices": {
+      "A": "1.5",
+      "B": "1",
+      "C": "2",
+      "D": "0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 71,
+    "question": "Which of the following of these is a Python boolean literal?",
+    "choices": {
+      "A": "True",
+      "B": "true",
+      "C": "TRUE",
+      "D": "Yes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "How do you create a virtual environment using the built-in module?",
+    "choices": {
+      "A": "venv",
+      "B": "virtualenv",
+      "C": "pipenv",
+      "D": "conda"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "Which of the following iterator protocol method returns the next item?",
+    "choices": {
+      "A": "__init__",
+      "B": "__iter__",
+      "C": "__next__",
+      "D": "nextItem"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 74,
+    "question": "How do you write a single-line comment in Python?",
+    "choices": {
+      "A": "// comment",
+      "B": "# comment",
+      "C": "/* comment */",
+      "D": "-- comment"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 75,
+    "question": "Which of the following built-in function gets the length of a list?",
+    "choices": {
+      "A": "size()",
+      "B": "len()",
+      "C": "count()",
+      "D": "length()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 76,
+    "question": "Which of the following keyword defines an anonymous function in Python?",
+    "choices": {
+      "A": "def",
+      "B": "lambda",
+      "C": "anon",
+      "D": "func"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "Which of the following exception is raised when division by zero occurs?",
+    "choices": {
+      "A": "ZeroDivisionError",
+      "B": "ValueError",
+      "C": "TypeError",
+      "D": "ArithmeticError"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 78,
+    "question": "How do you convert a string '123' to an integer?",
+    "choices": {
+      "A": "int('123')",
+      "B": "str(123)",
+      "C": "float('123')",
+      "D": "toInt('123')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "Which of the following statement is used to handle exceptions?",
+    "choices": {
+      "A": "try...except",
+      "B": "do...catch",
+      "C": "catch",
+      "D": "handle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "Which of the following collection type ensures unique elements and is unordered?",
+    "choices": {
+      "A": "list",
+      "B": "tuple",
+      "C": "set",
+      "D": "dict"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 81,
+    "question": "What is a common package manager for Python?",
+    "choices": {
+      "A": "pip",
+      "B": "npm",
+      "C": "gem",
+      "D": "cargo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "Which of the following keyword creates a class in Python?",
+    "choices": {
+      "A": "class",
+      "B": "struct",
+      "C": "object",
+      "D": "defclass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "How do you import the math module?",
+    "choices": {
+      "A": "import math",
+      "B": "include math",
+      "C": "from math import *",
+      "D": "require('math')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 84,
+    "question": "Which of the following of the following opens a file and ensures it is closed afterwards?",
+    "choices": {
+      "A": "with open('f') as fh:",
+      "B": "open('f')",
+      "C": "file.open('f')",
+      "D": "using open('f')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "What is the output of print([i for i in range(3)])?",
+    "choices": {
+      "A": "[0, 1, 2]",
+      "B": "(0, 1, 2)",
+      "C": "0 1 2",
+      "D": "[1, 2, 3]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 86,
+    "question": "What does the GIL (Global Interpreter Lock) affect in CPython?",
+    "choices": {
+      "A": "Prevents multiple threads from executing Python bytecodes in parallel within one process",
+      "B": "Prevents I/O operations",
+      "C": "Disables garbage collection",
+      "D": "Improves multi-core CPU utilization"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "Which of the following method would you use to serialize a Python object to JSON?",
+    "choices": {
+      "A": "json.loads",
+      "B": "json.dumps",
+      "C": "pickle.load",
+      "D": "pickle.dumps"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 88,
+    "question": "What is the difference between list and tuple?",
+    "choices": {
+      "A": "list is immutable, tuple is mutable",
+      "B": "tuple is immutable, list is mutable",
+      "C": "Both are immutable",
+      "D": "Both are mutable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "Which of the following decorator is commonly used to create class methods?",
+    "choices": {
+      "A": "@staticmethod",
+      "B": "@classmethod",
+      "C": "@property",
+      "D": "@decorator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 90,
+    "question": "Which of the following comprehension syntax creates a dictionary?",
+    "choices": {
+      "A": "{k:v for k,v in iterable}",
+      "B": "[k:v for k,v in iterable]",
+      "C": "(k:v for k,v in iterable)",
+      "D": "dict(k:v for k,v in iterable)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "How do you create a generator expression?",
+    "choices": {
+      "A": "(x*x for x in range(5))",
+      "B": "[x*x for x in range(5)]",
+      "C": "{x*x for x in range(5)}",
+      "D": "<x*x for x in range(5)>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 92,
+    "question": "Which of the following function is used to get the current working directory?",
+    "choices": {
+      "A": "os.getcwd()",
+      "B": "os.getwd()",
+      "C": "os.pwd()",
+      "D": "os.curdir()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "Which of the following statement will catch any exception and give access to the exception object?",
+    "choices": {
+      "A": "except Exception as e:",
+      "B": "except e:",
+      "C": "catch Exception e:",
+      "D": "except: e"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "Which of the following module provides high-performance JSON encoding/decoding in Python's stdlib?",
+    "choices": {
+      "A": "ujson",
+      "B": "rapidjson",
+      "C": "json",
+      "D": "simplejson"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 95,
+    "question": "What does the 'with' statement do in resource handling?",
+    "choices": {
+      "A": "Automatically closes resources when block exits",
+      "B": "Creates a new thread",
+      "C": "Transpiles code",
+      "D": "Caches function results"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "Which of the following of these is a common way to create virtual environments with Python 3.8+?",
+    "choices": {
+      "A": "python -m venv env",
+      "B": "virtualenv env",
+      "C": "pipenv install",
+      "D": "conda create"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 97,
+    "question": "Which of the following built-in function sorts a list in-place?",
+    "choices": {
+      "A": "sorted(list)",
+      "B": "list.sort()",
+      "C": "order(list)",
+      "D": "sort(list)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 98,
+    "question": "Which of the following keyword is used to annotate type hints for a function parameter?",
+    "choices": {
+      "A": ":",
+      "B": "->",
+      "C": "?",
+      "D": "::"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 99,
+    "question": "What does '@staticmethod' do inside a class?",
+    "choices": {
+      "A": "Method receives the class as the first arg",
+      "B": "Method receives no implicit first argument",
+      "C": "Method becomes a property",
+      "D": "Method cannot be called"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the purpose of __init__ in a Python class?",
+    "choices": {
+      "A": "Defines string representation",
+      "B": "Constructor called when instance is created",
+      "C": "Deletes instance",
+      "D": "Used for class methods"
+    },
+    "correct_answer": "B"
+  }
+]
