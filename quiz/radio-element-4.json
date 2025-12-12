@@ -965,7 +965,7 @@
       "C": "On a non-metallic mast",
       "D": "With the elements in a horizontal position"
     },
-    "correct_answer": "D"
+    "correct_answer": "B"
   },
   {
     "question_number": 89,
@@ -976,7 +976,7 @@
       "C": "144.100-146.500 MHz",
       "D": "144.00-146.000MHz"
     },
-    "correct_answer": "A"
+    "correct_answer": "D"
   },
   {
     "question_number": 90,
@@ -987,7 +987,7 @@
       "C": "Point the antenna away from the sun so it doesn't concentrate solar energy on you",
       "D": "Be sure you and the antenna structure are properly grounded"
     },
-    "correct_answer": "C"
+    "correct_answer": "A"
   },
   {
     "question_number": 91,
