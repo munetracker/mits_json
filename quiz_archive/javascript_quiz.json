@@ -1,0 +1,1102 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the result of `typeof []` in JavaScript?",
+    "choices": {
+      "A": "'object'",
+      "B": "'array'",
+      "C": "'list'",
+      "D": "'collection'"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question": "Which keyword declares a block-scoped variable that can be reassigned?",
+    "choices": {
+      "A": "var",
+      "B": "let",
+      "C": "const",
+      "D": "static"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "Which method adds one or more elements to the end of an array?",
+    "choices": {
+      "A": "push()",
+      "B": "pop()",
+      "C": "shift()",
+      "D": "unshift()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 4,
+    "question": "How do you create a function named 'sum' using function declaration?",
+    "choices": {
+      "A": "const sum = () => {}",
+      "B": "function sum() {}",
+      "C": "let sum = function() {}",
+      "D": "sum := function() {}"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 5,
+    "question": "Which of these will convert '123' into a number?",
+    "choices": {
+      "A": "Number('123')",
+      "B": "'123'.toString()",
+      "C": "parseFloat('abc')",
+      "D": "'123' + 0"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 6,
+    "question": "What does JSON stand for?",
+    "choices": {
+      "A": "JavaScript Object Notation",
+      "B": "Java Simple Object Notation",
+      "C": "JavaScript Original Notation",
+      "D": "Joint Script Object Notation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 7,
+    "question": "Which operator is used for strict equality (no type coercion)?",
+    "choices": {
+      "A": "=",
+      "B": "==",
+      "C": "===",
+      "D": "!=="
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 8,
+    "question": "Which method creates a new array with the results of calling a function on every element?",
+    "choices": {
+      "A": "forEach",
+      "B": "map",
+      "C": "filter",
+      "D": "reduce"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "What value is returned by `[] == false` in JavaScript?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "TypeError",
+      "D": "undefined"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "Which symbol starts a template literal string?",
+    "choices": {
+      "A": "\"",
+      "B": "'",
+      "C": "`",
+      "D": "~"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Which keyword prevents redeclaration of a variable in the same scope?",
+    "choices": {
+      "A": "var",
+      "B": "let",
+      "C": "const",
+      "D": "static"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 12,
+    "question": "Which array method returns a new array containing only elements that pass a test?",
+    "choices": {
+      "A": "slice",
+      "B": "splice",
+      "C": "filter",
+      "D": "find"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 13,
+    "question": "Which built-in object provides promises functionality in modern JS?",
+    "choices": {
+      "A": "Callback",
+      "B": "Promise",
+      "C": "Task",
+      "D": "Deferred"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "What will `0.1 + 0.2 === 0.3` evaluate to?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "throws an error",
+      "D": "undefined"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "How do you add a property 'age' with value 30 to object person?",
+    "choices": {
+      "A": "person.age = 30;",
+      "B": "person['age'] = 30;",
+      "C": "both A and B",
+      "D": "object.add('age',30)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question": "Which statement creates a new Set in JavaScript?",
+    "choices": {
+      "A": "new Set()",
+      "B": "Set()",
+      "C": "[]",
+      "D": "{}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "Which method stops propagation of an event in the DOM?",
+    "choices": {
+      "A": "preventDefault()",
+      "B": "stopPropagation()",
+      "C": "haltEvent()",
+      "D": "cancelBubble()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 18,
+    "question": "Which of these defines an immediately invoked function expression (IIFE)?",
+    "choices": {
+      "A": "(function(){})();",
+      "B": "function(){ }();",
+      "C": "let f = function(){};",
+      "D": "() => {}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "Which syntax imports the default export from './mod.js'?",
+    "choices": {
+      "A": "import {default} from './mod.js'",
+      "B": "import x from './mod.js'",
+      "C": "require('./mod.js')",
+      "D": "import * as x from './mod.js'"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 20,
+    "question": "Which loop is guaranteed to run at least once?",
+    "choices": {
+      "A": "for",
+      "B": "while",
+      "C": "do...while",
+      "D": "for...of"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 21,
+    "question": "Which method adds elements to the beginning of an array?",
+    "choices": {
+      "A": "push",
+      "B": "unshift",
+      "C": "splice",
+      "D": "concat"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 22,
+    "question": "Which operator is used to spread elements of an array into another array?",
+    "choices": {
+      "A": "...",
+      "B": "@@",
+      "C": "**",
+      "D": "~"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "What is the result of `null === undefined`?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "TypeError",
+      "D": "undefined"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question": "Which will create a shallow copy of an object?",
+    "choices": {
+      "A": "Object.assign({}, obj)",
+      "B": "JSON.stringify(obj)",
+      "C": "obj = obj",
+      "D": "Object.create(obj)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 25,
+    "question": "Which method is used to parse a JSON string into an object?",
+    "choices": {
+      "A": "JSON.parse",
+      "B": "JSON.stringify",
+      "C": "parseJSON",
+      "D": "toObject"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "Which of these is true about closures in JavaScript?",
+    "choices": {
+      "A": "A closure can access its outer function's variables even after the outer function has returned.",
+      "B": "Closures cannot access variables defined in outer scopes.",
+      "C": "Closures are only used in classes.",
+      "D": "Closures cause immediate garbage collection of captured variables."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "In JavaScript, what does 'this' refer to inside an arrow function?",
+    "choices": {
+      "A": "The global object",
+      "B": "The arrow function's own 'this' binding",
+      "C": "It uses 'this' from the enclosing (lexical) scope",
+      "D": "undefined always"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 28,
+    "question": "Which method would you use to chain asynchronous tasks with a sequence of .then calls?",
+    "choices": {
+      "A": "Promise.resolve",
+      "B": "Promise.all",
+      "C": "Using .then on a Promise",
+      "D": "setTimeout"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 29,
+    "question": "What is the purpose of the 'use strict' directive?",
+    "choices": {
+      "A": "Enable experimental features",
+      "B": "Disable strict mode",
+      "C": "Enforce stricter parsing and error handling for JavaScript code",
+      "D": "Automatically transpile code"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 30,
+    "question": "Which feature was introduced in ES6 (ECMAScript 2015)?",
+    "choices": {
+      "A": "let and const",
+      "B": "var keyword",
+      "C": "XMLHttpRequest",
+      "D": "document.write"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 31,
+    "question": "What will `Promise.all([p1, p2])` do if one promise rejects?",
+    "choices": {
+      "A": "Return array with results and errors mixed",
+      "B": "Resolve with values of fulfilled promises",
+      "C": "Reject immediately with first rejection",
+      "D": "Hang forever"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 32,
+    "question": "Which built-in method can be used to create a shallow copy of an array?",
+    "choices": {
+      "A": "Array.copy()",
+      "B": "arr.slice()",
+      "C": "arr.clone()",
+      "D": "Array.shallow()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 33,
+    "question": "Which keyword can be used to handle errors from async/await?",
+    "choices": {
+      "A": "catch",
+      "B": "try...catch",
+      "C": "finally",
+      "D": "throw"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 34,
+    "question": "Which of the following creates a new promise and immediately resolves it with value 5?",
+    "choices": {
+      "A": "new Promise(5)",
+      "B": "Promise.resolve(5)",
+      "C": "Promise( (res,rej) => res(5) )",
+      "D": "Both B and C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 35,
+    "question": "What does the spread operator do when used in function call: fn(...args)?",
+    "choices": {
+      "A": "Collects arguments into an array",
+      "B": "Expands an iterable into individual arguments",
+      "C": "Creates a new function",
+      "D": "Clones the function"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "Which array method reduces the array to a single value by applying a function?",
+    "choices": {
+      "A": "reduce",
+      "B": "map",
+      "C": "filter",
+      "D": "forEach"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 37,
+    "question": "Which is true about event delegation?",
+    "choices": {
+      "A": "Attaches handlers to many child elements individually",
+      "B": "Attaches handler to a parent and uses event bubbling",
+      "C": "Prevents events from firing",
+      "D": "Requires jQuery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 38,
+    "question": "Which built-in object provides methods like keys(), values(), entries() for objects?",
+    "choices": {
+      "A": "Object",
+      "B": "Map",
+      "C": "Array",
+      "D": "Set"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the correct way to create a module export named 'add'?",
+    "choices": {
+      "A": "export function add() {}",
+      "B": "module.exports = add;",
+      "C": "exports.add = add;",
+      "D": "require.add = add;"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "Which of these is true about JavaScript's event loop?",
+    "choices": {
+      "A": "The event loop executes microtasks (Promise callbacks) before macrotasks (setTimeout).",
+      "B": "Macrotasks always run before microtasks.",
+      "C": "There is no distinction between task queues.",
+      "D": "Microtasks are only for DOM updates."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "What is a Symbol in JavaScript used for?",
+    "choices": {
+      "A": "Immutable primitive value used as unique object property keys",
+      "B": "To create numbers",
+      "C": "To mark functions as async",
+      "D": "To replace strings for JSON"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 42,
+    "question": "Which of the following will NOT make a deep clone of an object containing functions and Dates?",
+    "choices": {
+      "A": "structuredClone(obj)",
+      "B": "JSON.parse(JSON.stringify(obj))",
+      "C": "Manual recursive clone that handles dates",
+      "D": "Using a library like lodash.cloneDeep"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 43,
+    "question": "What will `Object.freeze(obj)` do?",
+    "choices": {
+      "A": "Make object immutable: cannot add, remove, or change properties",
+      "B": "Completely delete the object",
+      "C": "Prevent any read access",
+      "D": "Auto-save the object to disk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Which of these can cause a memory leak in a single-page app?",
+    "choices": {
+      "A": "Dangling event listeners that are never removed",
+      "B": "Using const variables",
+      "C": "Using pure functions",
+      "D": "String concatenation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question": "When using async/await, how do you run multiple independent async tasks in parallel?",
+    "choices": {
+      "A": "await task1; await task2;",
+      "B": "Promise.all([task1(), task2()])",
+      "C": "runInParallel(task1, task2)",
+      "D": "setTimeout for each task"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question": "Which operator is used to call a method only if it exists (optional chaining)?",
+    "choices": {
+      "A": "?.",
+      "B": "?.()",
+      "C": "?.[]",
+      "D": "::"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "What is tail call optimization in JS and is it widely supported?",
+    "choices": {
+      "A": "Optimization for tail recursive calls; not widely supported in major engines",
+      "B": "Automatic garbage collection",
+      "C": "A debugger feature",
+      "D": "A DOM API"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "Which method converts an iterable to an array?",
+    "choices": {
+      "A": "Array.from(iterable)",
+      "B": "iterable.toArray()",
+      "C": "[...iterable]",
+      "D": "Both A and C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 49,
+    "question": "Which of these indicates a generator function?",
+    "choices": {
+      "A": "function* f() {}",
+      "B": "async function f() {}",
+      "C": "() => {}",
+      "D": "generator function f() {}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 50,
+    "question": "What does `Symbol.for('x')` do compared to `Symbol('x')`?",
+    "choices": {
+      "A": "Symbol.for registers/retrieves from global symbol registry; Symbol creates a unique symbol",
+      "B": "Both create identical symbols",
+      "C": "Symbol.for creates numbers",
+      "D": "Symbol('x') registers globally"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 51,
+    "question": "Which Web API provides a way to observe changes to the DOM (mutations)?",
+    "choices": {
+      "A": "MutationObserver",
+      "B": "DOMWatcher",
+      "C": "ChangeObserver",
+      "D": "NodeListener"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "Which is true about WeakMap?",
+    "choices": {
+      "A": "Keys are held weakly and can be garbage collected if no other refs exist",
+      "B": "Prevents garbage collection",
+      "C": "Can only use strings as keys",
+      "D": "Is iterable like Map"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 53,
+    "question": "Which operator is used to set a default value if the left operand is null or undefined?",
+    "choices": {
+      "A": "||",
+      "B": "??",
+      "C": "&&",
+      "D": "|"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question": "What is the advantage of Web Workers?",
+    "choices": {
+      "A": "Run scripts in background threads to avoid blocking the main thread",
+      "B": "Simplify CSS handling",
+      "C": "Provide direct DB access",
+      "D": "Replace service workers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the purpose of Service Workers in PWA?",
+    "choices": {
+      "A": "Handle push notifications and offline caching",
+      "B": "Control CSS variables",
+      "C": "Provide database migrations",
+      "D": "Compile TypeScript"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 56,
+    "question": "Which is true about module federation or code splitting in large apps?",
+    "choices": {
+      "A": "Helps lazy-load and split bundles to improve startup performance",
+      "B": "Always increases initial load size",
+      "C": "Prevents using dynamic imports",
+      "D": "Is specific to Node only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "Which API allows efficient binary data handling in JS (for example, WebGL textures)?",
+    "choices": {
+      "A": "ArrayBuffer/TypedArray",
+      "B": "StringBuffer",
+      "C": "JSONBuffer",
+      "D": "BinaryList"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "Which of the following is a correct description of hoisting in JS?",
+    "choices": {
+      "A": "Function and var declarations are moved to the top of their scope during compile phase",
+      "B": "let and const are hoisted and initialized to undefined",
+      "C": "Hoisting moves code to another file",
+      "D": "Hoisting only applies to classes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Which of these security issues is critical for web apps and should be mitigated by escaping user input?",
+    "choices": {
+      "A": "Cross-Site Scripting (XSS)",
+      "B": "CSS specificity",
+      "C": "CORS headers",
+      "D": "HTTP caching"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "What does 'rehydration' refer to in server-side rendered JS apps?",
+    "choices": {
+      "A": "Converting HTML back to plain text",
+      "B": "Attaching client-side JS to server-rendered HTML to make it interactive",
+      "C": "Refreshing CSS variables",
+      "D": "A build-time step only"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 61,
+    "question": "Which practice helps reduce bundle size for large apps?",
+    "choices": {
+      "A": "Import entire libraries instead of specific functions",
+      "B": "Tree-shaking and importing only needed modules",
+      "C": "Inlining all images as base64",
+      "D": "Bundling everything into one huge file"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 62,
+    "question": "Which of the following describes a Proxy object in JavaScript?",
+    "choices": {
+      "A": "An object that wraps another object and intercepts operations like get, set, has",
+      "B": "A networking proxy server",
+      "C": "A CSS proxy class",
+      "D": "A deprecated API"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 63,
+    "question": "What is JSX?",
+    "choices": {
+      "A": "A syntax extension for JavaScript used by React to describe UI elements",
+      "B": "A JSON format for APIs",
+      "C": "A CSS preprocessor",
+      "D": "A Node.js module loader"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 64,
+    "question": "Which statement best describes the result of `typeof []` in JavaScript?",
+    "choices": {
+      "A": "'object'",
+      "B": "'array'",
+      "C": "'list'",
+      "D": "'collection'"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question": "Which keyword declares a block-scoped variable that can be reassigned?",
+    "choices": {
+      "A": "var",
+      "B": "let",
+      "C": "const",
+      "D": "static"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 66,
+    "question": "Which method adds one or more elements to the end of an array?",
+    "choices": {
+      "A": "push()",
+      "B": "pop()",
+      "C": "shift()",
+      "D": "unshift()"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 67,
+    "question": "How do you create a function named 'sum' using function declaration?",
+    "choices": {
+      "A": "const sum = () => {}",
+      "B": "function sum() {}",
+      "C": "let sum = function() {}",
+      "D": "sum := function() {}"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question": "Which of these will convert '123' into a number?",
+    "choices": {
+      "A": "Number('123')",
+      "B": "'123'.toString()",
+      "C": "parseFloat('abc')",
+      "D": "'123' + 0"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 69,
+    "question": "What does JSON stand for?",
+    "choices": {
+      "A": "JavaScript Object Notation",
+      "B": "Java Simple Object Notation",
+      "C": "JavaScript Original Notation",
+      "D": "Joint Script Object Notation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 70,
+    "question": "Which operator is used for strict equality (no type coercion)?",
+    "choices": {
+      "A": "=",
+      "B": "==",
+      "C": "===",
+      "D": "!=="
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question": "Which method creates a new array with the results of calling a function on every element?",
+    "choices": {
+      "A": "forEach",
+      "B": "map",
+      "C": "filter",
+      "D": "reduce"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 72,
+    "question": "What value is returned by `[] == false` in JavaScript?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "TypeError",
+      "D": "undefined"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "Which symbol starts a template literal string?",
+    "choices": {
+      "A": "\"",
+      "B": "'",
+      "C": "`",
+      "D": "~"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 74,
+    "question": "Which keyword prevents redeclaration of a variable in the same scope?",
+    "choices": {
+      "A": "var",
+      "B": "let",
+      "C": "const",
+      "D": "static"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 75,
+    "question": "Which array method returns a new array containing only elements that pass a test?",
+    "choices": {
+      "A": "slice",
+      "B": "splice",
+      "C": "filter",
+      "D": "find"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 76,
+    "question": "Which built-in object provides promises functionality in modern JS?",
+    "choices": {
+      "A": "Callback",
+      "B": "Promise",
+      "C": "Task",
+      "D": "Deferred"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "What will `0.1 + 0.2 === 0.3` evaluate to?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "throws an error",
+      "D": "undefined"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 78,
+    "question": "How do you add a property 'age' with value 30 to object person?",
+    "choices": {
+      "A": "person.age = 30;",
+      "B": "person['age'] = 30;",
+      "C": "both A and B",
+      "D": "object.add('age',30)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 79,
+    "question": "Which statement creates a new Set in JavaScript?",
+    "choices": {
+      "A": "new Set()",
+      "B": "Set()",
+      "C": "[]",
+      "D": "{}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "Which method stops propagation of an event in the DOM?",
+    "choices": {
+      "A": "preventDefault()",
+      "B": "stopPropagation()",
+      "C": "haltEvent()",
+      "D": "cancelBubble()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 81,
+    "question": "Which of these defines an immediately invoked function expression (IIFE)?",
+    "choices": {
+      "A": "(function(){})();",
+      "B": "function(){ }();",
+      "C": "let f = function(){};",
+      "D": "() => {}"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "Which syntax imports the default export from './mod.js'?",
+    "choices": {
+      "A": "import {default} from './mod.js'",
+      "B": "import x from './mod.js'",
+      "C": "require('./mod.js')",
+      "D": "import * as x from './mod.js'"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 83,
+    "question": "Which loop is guaranteed to run at least once?",
+    "choices": {
+      "A": "for",
+      "B": "while",
+      "C": "do...while",
+      "D": "for...of"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 84,
+    "question": "Which method adds elements to the beginning of an array?",
+    "choices": {
+      "A": "push",
+      "B": "unshift",
+      "C": "splice",
+      "D": "concat"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 85,
+    "question": "Which operator is used to spread elements of an array into another array?",
+    "choices": {
+      "A": "...",
+      "B": "@@",
+      "C": "**",
+      "D": "~"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 86,
+    "question": "Which statement best describes the result of `null === undefined`?",
+    "choices": {
+      "A": "true",
+      "B": "false",
+      "C": "TypeError",
+      "D": "undefined"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 87,
+    "question": "Which will create a shallow copy of an object?",
+    "choices": {
+      "A": "Object.assign({}, obj)",
+      "B": "JSON.stringify(obj)",
+      "C": "obj = obj",
+      "D": "Object.create(obj)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "Which method is used to parse a JSON string into an object?",
+    "choices": {
+      "A": "JSON.parse",
+      "B": "JSON.stringify",
+      "C": "parseJSON",
+      "D": "toObject"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "Which of these is true about closures in JavaScript?",
+    "choices": {
+      "A": "A closure can access its outer function's variables even after the outer function has returned.",
+      "B": "Closures cannot access variables defined in outer scopes.",
+      "C": "Closures are only used in classes.",
+      "D": "Closures cause immediate garbage collection of captured variables."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "In JavaScript, what does 'this' refer to inside an arrow function?",
+    "choices": {
+      "A": "The global object",
+      "B": "The arrow function's own 'this' binding",
+      "C": "It uses 'this' from the enclosing (lexical) scope",
+      "D": "undefined always"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "Which method would you use to chain asynchronous tasks with a sequence of .then calls?",
+    "choices": {
+      "A": "Promise.resolve",
+      "B": "Promise.all",
+      "C": "Using .then on a Promise",
+      "D": "setTimeout"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "Which statement best describes the purpose of the 'use strict' directive?",
+    "choices": {
+      "A": "Enable experimental features",
+      "B": "Disable strict mode",
+      "C": "Enforce stricter parsing and error handling for JavaScript code",
+      "D": "Automatically transpile code"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 93,
+    "question": "Which feature was introduced in ES6 (ECMAScript 2015)?",
+    "choices": {
+      "A": "let and const",
+      "B": "var keyword",
+      "C": "XMLHttpRequest",
+      "D": "document.write"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "What will `Promise.all([p1, p2])` do if one promise rejects?",
+    "choices": {
+      "A": "Return array with results and errors mixed",
+      "B": "Resolve with values of fulfilled promises",
+      "C": "Reject immediately with first rejection",
+      "D": "Hang forever"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 95,
+    "question": "Which built-in method can be used to create a shallow copy of an array?",
+    "choices": {
+      "A": "Array.copy()",
+      "B": "arr.slice()",
+      "C": "arr.clone()",
+      "D": "Array.shallow()"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 96,
+    "question": "Which keyword can be used to handle errors from async/await?",
+    "choices": {
+      "A": "catch",
+      "B": "try...catch",
+      "C": "finally",
+      "D": "throw"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "Which of the following creates a new promise and immediately resolves it with value 5?",
+    "choices": {
+      "A": "new Promise(5)",
+      "B": "Promise.resolve(5)",
+      "C": "Promise( (res,rej) => res(5) )",
+      "D": "Both B and C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 98,
+    "question": "What does the spread operator do when used in function call: fn(...args)?",
+    "choices": {
+      "A": "Collects arguments into an array",
+      "B": "Expands an iterable into individual arguments",
+      "C": "Creates a new function",
+      "D": "Clones the function"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 99,
+    "question": "Which array method reduces the array to a single value by applying a function?",
+    "choices": {
+      "A": "reduce",
+      "B": "map",
+      "C": "filter",
+      "D": "forEach"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "Which is true about event delegation?",
+    "choices": {
+      "A": "Attaches handlers to many child elements individually",
+      "B": "Attaches handler to a parent and uses event bubbling",
+      "C": "Prevents events from firing",
+      "D": "Requires jQuery"
+    },
+    "correct_answer": "B"
+  }
+]

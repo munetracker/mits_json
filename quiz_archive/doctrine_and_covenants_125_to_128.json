@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 1,
+    "question": "Doctrine and Covenants 125:2 — Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up ____ unto my name, that they may be prepared for that which is in store for a time to come.",
+    "choices": {
+      "A": "houses",
+      "B": "temples",
+      "C": "cities",
+      "D": "chapels"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 2,
+    "question": "Doctrine and Covenants 125:3 — Let them build up a city unto my name upon the land opposite the city of ____.",
+    "choices": {
+      "A": "Zion",
+      "B": "Nauvoo",
+      "C": "Adam-ondi-Ahman",
+      "D": "Far West"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "Doctrine and Covenants 125:3 — Let the name of ____ be named upon it.",
+    "choices": {
+      "A": "Zarahemla",
+      "B": "Nauvoo",
+      "C": "Zion",
+      "D": "Enoch"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 4,
+    "question": "Doctrine and Covenants 125:4 — And let all those who come from the east, and the west, and the north, and the south, that have desires to dwell therein, take up their inheritance in the same, as well as in the city of ____, or in the city of Nauvoo, and in all the stakes which I have appointed, saith the Lord.",
+    "choices": {
+      "A": "Zion",
+      "B": "Nashville",
+      "C": "Bountiful",
+      "D": "Jerusalem"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 5,
+    "question": "Doctrine and Covenants 126:1 — Dear and well-beloved brother ____, verily thus saith the Lord unto you.",
+    "choices": {
+      "A": "Oliver Cowdery",
+      "B": "Brigham Young",
+      "C": "Parley P. Pratt",
+      "D": "Heber C. Kimball"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 6,
+    "question": "Doctrine and Covenants 126:2 — I have seen your ____ and toil in journeyings for my name.",
+    "choices": {
+      "A": "faith",
+      "B": "labor",
+      "C": "patience",
+      "D": "service"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "Doctrine and Covenants 126:3 — Take especial care of your ____ and the Church of God, to which you belong.",
+    "choices": {
+      "A": "family",
+      "B": "calling",
+      "C": "flock",
+      "D": "property"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "Doctrine and Covenants 127:1 — Forasmuch as the Lord has revealed unto me that my enemies, both in Missouri and this State, were again in the pursuit of me; and inasmuch as they pursue me without a cause, and have not the least shadow or coloring of ____ or right on their side in the getting up of their prosecutions against me; and inasmuch as their pretensions are all founded in falsehood of the blackest dye, I have thought it expedient and wisdom in me to leave the place for a short season, for my own safety and the safety of this people.",
+    "choices": {
+      "A": "justice",
+      "B": "honor",
+      "C": "faith",
+      "D": "law"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 9,
+    "question": "Doctrine and Covenants 127:2 — deep water is what I am wont to ____.",
+    "choices": {
+      "A": "dwell in",
+      "B": "swim in",
+      "C": "pass through",
+      "D": "avoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 10,
+    "question": "Doctrine and Covenants 127:4 — Let the work of my ____ , and all the works which I have appointed unto you, be continued on and not cease.",
+    "choices": {
+      "A": "church",
+      "B": "temple",
+      "C": "kingdom",
+      "D": "priesthood"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 11,
+    "question": "Doctrine and Covenants 127:5 — And again, I give unto you a word in relation to the baptism for your ____.",
+    "choices": {
+      "A": "living",
+      "B": "dead",
+      "C": "children",
+      "D": "friends"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "Doctrine and Covenants 127:6 — When any of you are baptized for your dead, let there be a ____, and let him be eye-witness of your baptisms.",
+    "choices": {
+      "A": "priest",
+      "B": "scribe",
+      "C": "recorder",
+      "D": "witness"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 13,
+    "question": "Doctrine and Covenants 127:8 — For I am about to restore many things to the earth, pertaining to the ____ , saith the Lord of Hosts.",
+    "choices": {
+      "A": "church",
+      "B": "kingdom",
+      "C": "priesthood",
+      "D": "people"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 14,
+    "question": "Doctrine and Covenants 127:9 — And again, let all the records be had in _____, that they may be put in the archives of my holy temple.",
+    "choices": {
+      "A": "order",
+      "B": "temple",
+      "C": "vault",
+      "D": "library"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 15,
+    "question": "Doctrine and Covenants 127:9 — And again, let all the records be had in order, that they may be put in the _____ of my holy temple, to be held in remembrance from generation to generation, saith the Lord of Hosts.",
+    "choices": {
+      "A": "archives",
+      "B": "chambers",
+      "C": "vault",
+      "D": "records"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "Doctrine and Covenants 127:9 — And again, let all the records be had in order, that they may be put in the archives of ____, to be held in remembrance from generation to generation, saith the Lord of Hosts.",
+    "choices": {
+      "A": "my holy temple",
+      "B": "the house of Israel",
+      "C": "the church archives",
+      "D": "the vault of heaven"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "Doctrine and Covenants 127:10 — I will say to all the saints, that I desired, with exceedingly great desire, to have addressed them from the stand on the subject of ____ for the dead, on the following Sabbath.",
+    "choices": {
+      "A": "baptism",
+      "B": "ordination",
+      "C": "temple work",
+      "D": "sacrament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "Doctrine and Covenants 128:1 — As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the ____, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies.",
+    "choices": {
+      "A": "dead",
+      "B": "living",
+      "C": "saints",
+      "D": "Gentiles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "Doctrine and Covenants 128:2 — I wrote a few words of revelation to you concerning a ____. I have had a few additional views in relation to this matter, which I now certify.",
+    "choices": {
+      "A": "scribe",
+      "B": "recorder",
+      "C": "witness",
+      "D": "prophet"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 20,
+    "question": "Doctrine and Covenants 128:3 — Now, in relation to this matter, it would be very difficult for one ____ to be present at all times, and to do all the business.",
+    "choices": {
+      "A": "recorder",
+      "B": "priest",
+      "C": "elder",
+      "D": "witness"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question": "Doctrine and Covenants 128:4 — Then, let there be a general ____, to whom these other records can be handed, being attended with certificates over their own signatures, certifying that the record they have made is true.",
+    "choices": {
+      "A": "recorder",
+      "B": "scribe",
+      "C": "witness",
+      "D": "clerk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "Doctrine and Covenants 128:5 — You may think this order of things to be very particular; but let me tell you that it is only to answer the will of ____, by conforming to the ordinance and preparation that the Lord ordained and prepared before the foundation of the world.",
+    "choices": {
+      "A": "God",
+      "B": "the Lord",
+      "C": "heaven",
+      "D": "angels"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "Doctrine and Covenants 128:6 — And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before ____.",
+    "choices": {
+      "A": "God",
+      "B": "Christ",
+      "C": "the angels",
+      "D": "heaven"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "Doctrine and Covenants 128:7 — You will discover in this quotation that the books were opened; and another book was opened, which is the book of life; but the dead were judged out of those things which were written in the books, according to their ____.",
+    "choices": {
+      "A": "faith",
+      "B": "works",
+      "C": "prayers",
+      "D": "offerings"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 25,
+    "question": "Doctrine and Covenants 128:8 — Now, the nature of this ordinance consists in the power of the priesthood, by the revelation of Jesus Christ, wherein it is granted that whatsoever you bind on earth shall be bound in ____, and whatsoever you loose on earth shall be loosed in ____.",
+    "choices": {
+      "A": "heaven",
+      "B": "Zion",
+      "C": "earth",
+      "D": "Israel"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "Doctrine and Covenants 128:9 — It may seem to some to be a very bold doctrine that we talk of—a power which records or binds on ____ and binds in heaven.",
+    "choices": {
+      "A": "heaven",
+      "B": "earth",
+      "C": "Zion",
+      "D": "temple"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "Doctrine and Covenants 128:10 — And again, for the precedent, Matthew 16:18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of ____: and whatsoever thou shalt bind on earth shall be bound in heaven.",
+    "choices": {
+      "A": "Israel",
+      "B": "heaven",
+      "C": "God",
+      "D": "heavenly kingdom"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "Doctrine and Covenants 128:12 — Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by ____, to be immersed therein in order to answer to the likeness of the dead.",
+    "choices": {
+      "A": "water",
+      "B": "fire",
+      "C": "the Spirit",
+      "D": "oil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 29,
+    "question": "Doctrine and Covenants 128:13 — Consequently, the baptismal font was instituted as a similitude of the ____, and was commanded to be in a place underneath where the living are wont to assemble.",
+    "choices": {
+      "A": "temple",
+      "B": "grave",
+      "C": "church",
+      "D": "altar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "Doctrine and Covenants 128:15 — And now, my dearly beloved brethren and sisters, let me assure you that these are principles in relation to the ____ and the living that cannot be lightly passed over, as pertaining to our salvation.",
+    "choices": {
+      "A": "dead",
+      "B": "children",
+      "C": "angels",
+      "D": "saints"
+    },
+    "correct_answer": "A"
+  }
+]

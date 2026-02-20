@@ -1,0 +1,1003 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the unit of Voltage?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Henry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the unit of current?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the unit of resistance?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the unit of capacitance?",
+    "choices": {
+      "A": "Farad",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the unit of Inductance?",
+    "choices": {
+      "A": "Volt",
+      "B": "Watt",
+      "C": "Ohm",
+      "D": "Henry"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the unit of power?",
+    "choices": {
+      "A": "Volt",
+      "B": "Watt",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "What is the unit of frequency?",
+    "choices": {
+      "A": "Herts",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "What is the symbol used to denote Voltage?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the symbol used to denote Current?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 10,
+    "question": "What is the symbol used to denote Resistance?",
+    "choices": {
+      "A": "greek letter omega",
+      "B": ",H",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 11,
+    "question": "What is the unit symbol used to denote Capacitance?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "F"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 12,
+    "question": "What is the unit symbol used to denote Induction?",
+    "choices": {
+      "A": "Hertz",
+      "B": "H",
+      "C": "V",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 13,
+    "question": "What is the unit symbol used to denote Power?",
+    "choices": {
+      "A": "Hertz",
+      "B": "M",
+      "C": "V",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "What is the unit symbol used to denote Frequency?",
+    "choices": {
+      "A": "Hz",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 15,
+    "question": "What component is an schematic diagram is represented by capital letter \"L\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "What component is an schematic diagram is represented by capital letter \"C\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "What component is an schematic diagram is represented by capital letter \"R\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "What is the formula to drive Power, given the values of Voltage and Current?",
+    "choices": {
+      "A": "Power = current / Voltage",
+      "B": "Power = current x Voltage",
+      "C": "Power = Current x Resistance",
+      "D": "Power = Current / Resistance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 19,
+    "question": "What is the formula to drive Voltage, given the values of Current and Resistance?",
+    "choices": {
+      "A": "Voltage = Resistance / Current",
+      "B": "Voltage = (Current / Resistsnce) x Resistance",
+      "C": "Voltage = Current x Resistance",
+      "D": "Voltage = Power x resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 20,
+    "question": "Given the values for POWER and CURRENT, what is formula to determine the Voltage?",
+    "choices": {
+      "A": "Voltage = Power - Current",
+      "B": "Voltage = Power x Current",
+      "C": "Voltage = Power + Current",
+      "D": "Voltage = Power / Current"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 21,
+    "question": "Given the values for POWER and VOLTAGE, what is formula to determine the Current?",
+    "choices": {
+      "A": "Current = Power / Voltage",
+      "B": "Current = Power x Voltage",
+      "C": "Current = Power + Voltage",
+      "D": "Current = Power - Voltage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the formula to determine the Resistance if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Resistance = Power / Current",
+      "B": "Resistance = Voltage / Current",
+      "C": "Resistance = Power + Voltage",
+      "D": "Resistance = Power + Current"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "What is the formula to determine Current if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Current = Voltage x Resistance",
+      "B": "Current = Resistance - Voltage",
+      "C": "Current = Voltage / Resistance",
+      "D": "Current = Voltage + Resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question": "In what manner can 325kiloohm resistor also be written?",
+    "choices": {
+      "A": "325 ohm",
+      "B": "235?",
+      "C": "325K?",
+      "D": "325 KHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "In what manner can 888milliwatt powervalue also be written?",
+    "choices": {
+      "A": "88W",
+      "B": "888KW",
+      "C": "888mV",
+      "D": "888mW"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 26,
+    "question": "In what manner can 1000 volt value can also be written?",
+    "choices": {
+      "A": "1KV",
+      "B": "100mV",
+      "C": "10KW",
+      "D": "1000MV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "In what manner can a 1 watt power value can also be written?",
+    "choices": {
+      "A": "0.1W",
+      "B": "1000mW",
+      "C": "10KW",
+      "D": "0.1MW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "What is a good source of DC supply?",
+    "choices": {
+      "A": "Water",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Battery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "What device or instrument used to measure voltage in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Voltmeter",
+      "C": "OTDR",
+      "D": "thermometer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "What device or instrument used to measure current in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Ohmmeter",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 31,
+    "question": "What device or instrument used to measure the resistance value in circuit?",
+    "choices": {
+      "A": "Ohmmeter",
+      "B": "Thermometer",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "How must a volt meter be connected in order to measure the voltage of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "How must a volt meter be connected in order to measure the current of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 34,
+    "question": "What electric value remains constant in a SERIES circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "What electric value remains constant in a PARALLEL circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the value of resistor having the color bands as follows: violet- blue - no color?",
+    "choices": {
+      "A": "77 mega-ohms",
+      "B": "77 ohms",
+      "C": "77 kilo-ohms",
+      "D": "770 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 37,
+    "question": "What is the value of resistor having the color bands as follows: brown - red - yellow - no color?",
+    "choices": {
+      "A": "120 kilo-ohms",
+      "B": "1.2 kilo-ohms",
+      "C": "1200 ohms",
+      "D": "12 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "What is the value of resistor having the color bands as follows: orange - black - red - no color?",
+    "choices": {
+      "A": "300 ohms",
+      "B": "300 watts",
+      "C": "3 kilo-ohms",
+      "D": "300 volts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the value of resistor having the color bands as follows: yellow - violet - violet no color?",
+    "choices": {
+      "A": "47 ohms",
+      "B": "470 Mega- ohms",
+      "C": "4.7 kilo- ohms",
+      "D": "88 Mega-ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "What is the value of resistor having the color bands as follows: black - brown - black no color?",
+    "choices": {
+      "A": "10 W",
+      "B": "1 ohm",
+      "C": "5 ohms",
+      "D": "0.1 ohm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the value of resistor having the color bands as follows: green - black - black no color?",
+    "choices": {
+      "A": "5000 ohms",
+      "B": "50 ohms",
+      "C": "5 ohms",
+      "D": "55 mega-ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 42,
+    "question": "What is the value of resistor having the color bands as follows: gray - gray - orange no color?",
+    "choices": {
+      "A": "88 mega-ohms",
+      "B": "88 kilo-ohms",
+      "C": "8.8 ohms",
+      "D": "880 ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 43,
+    "question": "What is the value of resistor having the color bands as follows: white -white - black no color?",
+    "choices": {
+      "A": "9 ohms",
+      "B": "99 ohms",
+      "C": "99 watts",
+      "D": "99 volts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 44,
+    "question": "What is the value of resistor having the color bands as follows: green - green - orange no color?",
+    "choices": {
+      "A": "55 ohms",
+      "B": "5.5 mega-ohms",
+      "C": "55 kilo-ohms",
+      "D": "470 kilo-ohms"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 45,
+    "question": "What is the value of resistor having the color bands as follows: red - red - brown no color?",
+    "choices": {
+      "A": "220 ohms",
+      "B": "380 ohms",
+      "C": "470 ohms",
+      "D": "500 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 46,
+    "question": "What symbol denotes the positive polarity of a battery?",
+    "choices": {
+      "A": "plus sign(+)",
+      "B": "Minus sign (-)",
+      "C": "x sign (x)",
+      "D": "Slash sign (/)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "What symbol denotes the negative polarity of a battery?",
+    "choices": {
+      "A": "plus sign(+)",
+      "B": "Minus sign (-)",
+      "C": "x sign (x)",
+      "D": "Slash sign (/)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 48,
+    "question": "What wire color often connects to a positive polarity of a battery source?",
+    "choices": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Black"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 49,
+    "question": "What wire color often connectto anegative polarity of the battery source?",
+    "choices": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Black"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 50,
+    "question": "What component is used to turn a circuit on or off?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Switch",
+      "C": "Capacitor",
+      "D": "Inductor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 51,
+    "question": "What is the meaning of A. C. in electricity?",
+    "choices": {
+      "A": "Alternating Current",
+      "B": "Air- Conditioning",
+      "C": "Adaptive Code",
+      "D": "Air conductor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "What is the meaning of D. C. in electricity?",
+    "choices": {
+      "A": "Direct Conversion",
+      "B": "Direct Current",
+      "C": "Dummy Capacitor",
+      "D": "Delayed Circuit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 53,
+    "question": "What Electricity value can be concluded if one reads 5 amperes on a component?",
+    "choices": {
+      "A": "Voltage Value",
+      "B": "Power Value",
+      "C": "Resistance Value",
+      "D": "Dummy Capacitor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 54,
+    "question": "What is the total inductance of 3 inductors connected in series with the following values: 3mH, 5mH and 22mH?",
+    "choices": {
+      "A": "15mH",
+      "B": "8 mH",
+      "C": "30mH",
+      "D": "100mH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the total inductance of 2 inductors - valud at 20mH each are connected in parallel?",
+    "choices": {
+      "A": "80mH",
+      "B": "8mH",
+      "C": "20mH",
+      "D": "100mH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 56,
+    "question": "What is the total inductance of 2 capacitors connected in series with the following values: c1 = 100mF, c2 = 100mF ?",
+    "choices": {
+      "A": "500mF",
+      "B": "4mF",
+      "C": "20mF",
+      "D": "25mF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the total capacitance of 3 capacitors connected in parallel with the following values: c1 = 100mF, c2 = 100mF and c3 = 100mF?",
+    "choices": {
+      "A": "300mF",
+      "B": "20mF",
+      "C": "100mF",
+      "D": "25mF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "What is the total capacitance of 3 capacitors connected in parallel with the following values: c1 = 100mF, c2 = 200mF and c3 = 300mF?",
+    "choices": {
+      "A": "500mF",
+      "B": "20mF",
+      "C": "100mF",
+      "D": "600mF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the total of inductance of 2 pieces of 5mH inductors, connected in series?",
+    "choices": {
+      "A": "8mH",
+      "B": "5mH",
+      "C": "10mH",
+      "D": "8H"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the total current of a circuit having a 0.5 current flowing through a 70 ohms resistor?",
+    "choices": {
+      "A": "1A",
+      "B": "2A",
+      "C": "20A",
+      "D": "10A"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "What is the total voltage of a circuit having a 0.5A current flowing through a 70 ohms resistor?",
+    "choices": {
+      "A": "0.5V",
+      "B": "70V",
+      "C": "140V",
+      "D": "35V"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 62,
+    "question": "What electrical value can be concluded if one reads 5 micro-farad on a component?",
+    "choices": {
+      "A": "Voltage value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 63,
+    "question": "What electrical value can be concluded if one reads 50 watts on a component?",
+    "choices": {
+      "A": "Voltage value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 64,
+    "question": "What electrical value can be concluded if one reads 77 henry on a component?",
+    "choices": {
+      "A": "Inductance value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question": "If one sees a plus (+) sign on a terminal of a battery, what is the polarity of this terminal?",
+    "choices": {
+      "A": "Positive polarity",
+      "B": "Negative polarity",
+      "C": "AC polarity",
+      "D": "DC polarity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "What is the total power dissipated by a load resistor supplied by 48V source and having a total current of 1A flow through it?",
+    "choices": {
+      "A": "48 Volts",
+      "B": "48 Watts",
+      "C": "48 Ohms",
+      "D": "48 Henry"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the voltage across a load dissipating 15W of power and consumes 3A of current?",
+    "choices": {
+      "A": "8V",
+      "B": "12 V",
+      "C": "5 V",
+      "D": "1 V"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 68,
+    "question": "What is the current flowing through a load having a 12V measurement across it and dissipates 4W of power?",
+    "choices": {
+      "A": "1 A",
+      "B": "0.5 A",
+      "C": "1.5 A",
+      "D": "0.333 A"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 69,
+    "question": "In what component does one commonly find the resistance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Plastic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 70,
+    "question": "In what component does one commonly find the inductance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Rubber"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 71,
+    "question": "In what component does one commonly find thecapacitance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Insulator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "What are included in the high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "30MHz-300MHZ",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "What are included in the very high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "30MHz-300MHZ",
+      "D": "3GHz-30GHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "What are included in the ultra high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "300MHz-3000MHz",
+      "D": "3GHz-30GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 75,
+    "question": "What is another way of writing 3000 MHz?",
+    "choices": {
+      "A": "3GHz",
+      "B": "30GHz",
+      "C": "3THz",
+      "D": "30 THz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 76,
+    "question": "If one sees a minus (-) sign on a terminal of a battery, what is the polarity of this terminal?",
+    "choices": {
+      "A": "Positive polarity",
+      "B": "Negative polarity",
+      "C": "AC Polarity",
+      "D": "DC Polarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "What was the acronym of HF represents reference to frequency ranges?",
+    "choices": {
+      "A": "High Fidelity",
+      "B": "High Frequency",
+      "C": "Henry and Farad",
+      "D": "Non of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 78,
+    "question": "What does the acronym VHF represent reference to frequency ranges?",
+    "choices": {
+      "A": "Very High Frequency",
+      "B": "Variable High Frequency",
+      "C": "Very High Fidelity",
+      "D": "User High Fidelity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "What does the acronym UHF reprsent reference to frequency ranges?",
+    "choices": {
+      "A": "Very High Frequency",
+      "B": "Ultra High Frequency",
+      "C": "Extreme Higgh Frequency",
+      "D": "User High Frequency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "In what frequency range does the 144 MHz phase shift keying signal belonging too?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 81,
+    "question": "What is another way of writing 1 kilowatt?",
+    "choices": {
+      "A": "1000 watts",
+      "B": "100 watts",
+      "C": "1000 ohms",
+      "D": "1000 volts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "What is another way of writing 470 kilo-ohms?",
+    "choices": {
+      "A": "470,000 ohms",
+      "B": "470 ohms",
+      "C": "47,000 ohms",
+      "D": "4,700 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "What is another way of writing 1 V?",
+    "choices": {
+      "A": "1 kilo-volt",
+      "B": "1 mega-volt",
+      "C": "1000 milli-volts",
+      "D": "100 milli-volts"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 84,
+    "question": "In what frequency range does the 7.095 MHz A3J signal belong to?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "Amateur Radio frequency 430 MHz-440 MHz belongs to what frequency range?",
+    "choices": {
+      "A": "H",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "Many transmission lines and antennas are made of hollow conductors. This saves a lot of money and wait and is possible because of what phenomena of electric current flow?",
+    "choices": {
+      "A": "Hall Effect",
+      "B": "Skin Effect",
+      "C": "Domino Effect",
+      "D": "trans-conductance effect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 87,
+    "question": "IN AC and RF circuits power that is expended in the transmission line in the delivery of power to a complex load but not consumed at the load can be classified as ____.",
+    "choices": {
+      "A": "reactive power",
+      "B": "real power",
+      "C": "true power",
+      "D": "imaginary power"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "In a condition of series resonance, we can measure a current flow through that is _____.",
+    "choices": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "flactuating wildly",
+      "D": "absolutely zero"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "The best device for storing energy in a magnetic field is ____.",
+    "choices": {
+      "A": "storage battery",
+      "B": "capacitor",
+      "C": "coil",
+      "D": "resistor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "In a Cathode ray tube that were popular before tha time of LCD monitors, electrons are made to slam into the inner surface of the screen by _____.",
+    "choices": {
+      "A": "strong magnetic field",
+      "B": "strong hydroelectric field",
+      "C": "strong electrostatic field",
+      "D": "strong plasma field"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "In the cathode ray tube TV, the electron beam is diflected to draw lines on the screen by a yoke made from coils of wire that uses ____.",
+    "choices": {
+      "A": "electrolastic field",
+      "B": "electromagnetic field",
+      "C": "nematic field",
+      "D": "photoeletric field"
+    },
+    "correct_answer": "B"
+  }
+]
