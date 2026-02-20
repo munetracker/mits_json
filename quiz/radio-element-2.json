@@ -100,14 +100,14 @@
   },
   {
     "question_number": 10,
-    "question": "What may an amateur, whose license has expired for more than 5 years, do to become license again subject to the assignment of different call sign?",
+    "question": "What may an amateur, whose license has expired for more than 5 years, do to become licensed again (subject to the assignment of a different call sign)?",
     "choices": {
       "A": "Apply for renewal and pay prescribed fees and surcharges to NTC",
       "B": "Pass the appropriate examination and pay surcharges for every year expired to NTC",
-      "C": "Pass the apprprriate examination and pay prescibed fees for a new license NTC",
-      "D": "All of the above"
+      "C": "Attend a seminar on current Radio Laws and Radio Ethics with the national amateur organization and prescribed fees for a new license to NTC",
+      "D": "None of the above"
     },
-    "correct_answer": "D"
+    "correct_answer": "C"
   },
   {
     "question_number": 11,
@@ -586,10 +586,10 @@
     "question_number": 54,
     "question": "Where should be the amateur Radio Station License placed in the radio station?",
     "choices": {
-      "A": "Nooooooooo Choices",
-      "B": "Nooooooooo Choices",
-      "C": "Nooooooooo Choices",
-      "D": "Nooooooooo Choices"
+      "A": "Nowhere",
+      "B": "Just filed safely",
+      "C": "Posted in a conspicuous place",
+      "D": "Posted at the back of the main door"
     },
     "correct_answer": "C"
   },
@@ -760,14 +760,14 @@
   },
   {
     "question_number": 70,
-    "question": "How much shall NTC fine any person who had been found to have violated the law with illegal possession and illegal transmission of an amateur tranceiver?",
+    "question": "How much shall NTC fine any person who had been found to have violated the law with illegal possession and illegal transmission of an amateur transceiver?",
     "choices": {
       "A": "P2,000",
       "B": "P4,000",
       "C": "P5,000",
       "D": "P10,000"
     },
-    "correct_answer": "D"
+    "correct_answer": "A"
   },
   {
     "question_number": 71,
@@ -883,10 +883,10 @@
     "question_number": 81,
     "question": "What size of the call sign characters shall be posted on the equipment itself for a portable station?",
     "choices": {
-      "A": "at least 2 cm high",
-      "B": "at least 10 cm high",
-      "C": "At least 5.08 cm high",
-      "D": "at least 0.635 cm"
+      "A": "at least 2 cm. high",
+      "B": "at least 10 cm. high",
+      "C": "At least 5.08 cm. high",
+      "D": "at least 0.635 cm."
     },
     "correct_answer": "B"
   },
