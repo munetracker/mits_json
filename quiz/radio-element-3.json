@@ -1153,7 +1153,7 @@
       "D": "Diode"
     },
     "correct_answer": "C",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 106,
@@ -1165,7 +1165,7 @@
       "D": "Zener diode"
     },
     "correct_answer": "D",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 107,
@@ -1177,7 +1177,7 @@
       "D": "Resistor"
     },
     "correct_answer": "B",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 108,
@@ -1189,7 +1189,7 @@
       "D": "Inductor"
     },
     "correct_answer": "C",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 109,
@@ -1201,7 +1201,7 @@
       "D": "Diode"
     },
     "correct_answer": "A",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 110,
@@ -1213,7 +1213,7 @@
       "D": "Inductor"
     },
     "correct_answer": "B",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 111,
@@ -1225,8 +1225,7 @@
       "D": "Capacitor"
     },
     "correct_answer": "B",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
-  },
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   {
     "question_number": 112,
     "question": "In Figure G7-1 Symbol 12 represents an _________ ?",
@@ -1237,7 +1236,7 @@
       "D": "Capacitor"
     },
     "correct_answer": "A",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 113,
@@ -1249,7 +1248,7 @@
       "D": "Transistor"
     },
     "correct_answer": "C",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 114,
@@ -1261,7 +1260,7 @@
       "D": "Inductor"
     },
     "correct_answer": "D",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
     "question_number": 115,
@@ -1273,6 +1272,6 @@
       "D": "Multipoint"
     },
     "correct_answer": "B",
-    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   }
 ]
