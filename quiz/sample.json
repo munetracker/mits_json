@@ -1,0 +1,25 @@
+[
+  {
+    "question_number": 1,
+    "question": "In what manner can a 55 microfarad value capacitor also be written?",
+    "choices": {
+      "A": "55F",
+      "B": "55C",
+      "C": "55 micro Farad",
+      "D": "55W"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 2,
+    "question": "In Figure G7-1 Symbol 9 represents a _________ ?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transformer",
+      "D": "Diode"
+    },
+    "correct_answer": "A",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  }
+]
