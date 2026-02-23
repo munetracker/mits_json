@@ -102,8 +102,8 @@
     "question_number": 10,
     "question": "What is the symbol used to denote Resistance?",
     "choices": {
-      "A": "greek letter omega",
-      "B": ",H",
+      "A": "Ω",
+      "B": "H",
       "C": "V",
       "D": "I"
     },
@@ -254,23 +254,23 @@
   },
   {
     "question_number": 24,
-    "question": "In what manner can 325kiloohm resistor also be written?",
+    "question": "In what manner can 325 kilo ohm resistor also be written?",
     "choices": {
-      "A": "325 ohm",
-      "B": "235?",
-      "C": "325K?",
+      "A": "325 Ω",
+      "B": "235 Ω",
+      "C": "325 KΩ",
       "D": "325 KHz"
     },
     "correct_answer": "C"
   },
   {
     "question_number": 25,
-    "question": "In what manner can 888milliwatt powervalue also be written?",
+    "question": "In what manner can 888 milliwatt powervalue also be written?",
     "choices": {
-      "A": "88W",
-      "B": "888KW",
-      "C": "888mV",
-      "D": "888mW"
+      "A": "88 W",
+      "B": "888 KW",
+      "C": "888 mV",
+      "D": "888 mW"
     },
     "correct_answer": "D"
   },
@@ -278,10 +278,10 @@
     "question_number": 26,
     "question": "In what manner can 1000 volt value can also be written?",
     "choices": {
-      "A": "1KV",
-      "B": "100mV",
-      "C": "10KW",
-      "D": "1000MV"
+      "A": "1 KV",
+      "B": "100 mV",
+      "C": "10 KW",
+      "D": "1000 MV"
     },
     "correct_answer": "A"
   },
@@ -422,9 +422,9 @@
     "question": "What is the value of resistor having the color bands as follows: yellow - violet - violet no color?",
     "choices": {
       "A": "47 ohms",
-      "B": "470 Mega- ohms",
-      "C": "4.7 kilo- ohms",
-      "D": "88 Mega-ohms"
+      "B": "470 mega-ohms",
+      "C": "4.7 kilo-ohms",
+      "D": "88 mega-ohms"
     },
     "correct_answer": "B"
   },
@@ -529,7 +529,7 @@
   },
   {
     "question_number": 49,
-    "question": "What wire color often connectto anegative polarity of the battery source?",
+    "question": "What wire color often connectto a negative polarity of the battery source?",
     "choices": {
       "A": "Yellow",
       "B": "Blue",
@@ -551,10 +551,10 @@
   },
   {
     "question_number": 51,
-    "question": "What is the meaning of A. C. in electricity?",
+    "question": "What is the meaning of AC in electricity?",
     "choices": {
       "A": "Alternating Current",
-      "B": "Air- Conditioning",
+      "B": "Air-Conditioning",
       "C": "Adaptive Code",
       "D": "Air conductor"
     },
@@ -562,7 +562,7 @@
   },
   {
     "question_number": 52,
-    "question": "What is the meaning of D. C. in electricity?",
+    "question": "What is the meaning of DC in electricity?",
     "choices": {
       "A": "Direct Conversion",
       "B": "Direct Current",
@@ -600,7 +600,7 @@
       "A": "80mH",
       "B": "8mH",
       "C": "20mH",
-      "D": "100mH"
+      "D": "10mH"
     },
     "correct_answer": "D"
   },
@@ -609,7 +609,7 @@
     "question": "What is the total inductance of 2 capacitors connected in series with the following values: c1 = 100mF, c2 = 100mF ?",
     "choices": {
       "A": "500mF",
-      "B": "4mF",
+      "B": "50mF",
       "C": "20mF",
       "D": "25mF"
     },
@@ -650,7 +650,7 @@
   },
   {
     "question_number": 60,
-    "question": "What is the total current of a circuit having a 0.5 current flowing through a 70 ohms resistor?",
+    "question": "What is the total current of a circuit having 10 volts flowing through a 10 ohms resistor?",
     "choices": {
       "A": "1A",
       "B": "2A",
@@ -672,7 +672,7 @@
   },
   {
     "question_number": 62,
-    "question": "What electrical value can be concluded if one reads 5 micro-farad on a component?",
+    "question": "What electrical value can be concluded if one reads 5 microfarads on a component?",
     "choices": {
       "A": "Voltage value",
       "B": "Power value",
@@ -771,7 +771,7 @@
   },
   {
     "question_number": 71,
-    "question": "In what component does one commonly find thecapacitance value in a circuit?",
+    "question": "In what component does one commonly find the capacitance value in a circuit?",
     "choices": {
       "A": "Capacitor",
       "B": "Inductor",
@@ -927,7 +927,7 @@
     "question_number": 85,
     "question": "Amateur Radio frequency 430 MHz-440 MHz belongs to what frequency range?",
     "choices": {
-      "A": "H",
+      "A": "HF",
       "B": "UHF",
       "C": "EHF",
       "D": "VHF"
@@ -999,5 +999,280 @@
       "D": "photoeletric field"
     },
     "correct_answer": "B"
+  },
+  {
+    "question_number": 92,
+    "question": "What is a good conductor of electricity?",
+    "choices": {
+      "A": "Copper",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Plastic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "What is a good insulator of electricity?",
+    "choices": {
+      "A": "Rubber",
+      "B": "Copper",
+      "C": "Aluminum",
+      "D": "Silver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "What type of circuit has its component junctions connected side by side?",
+    "choices": {
+      "A": "Mesh Circuit",
+      "B": "Mesh Circuit",
+      "C": "Integrated Circuit",
+      "D": "Series Circuit"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 95,
+    "question": "What type of circuit has its component junctions at a common point? ",
+    "choices": {
+      "A": "Parallel Circuit",
+      "B": "Star Circuit",
+      "C": "Mesh Circuit",
+      "D": "Integrated Circuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "What is the symbol used to denote \"micro\" in measurement?",
+    "choices": {
+      "A": "Micro",
+      "B": "μ",
+      "C": "A",
+      "D": "H"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "What is the symbol used to denote \"kilo\" in measurement?",
+    "choices": {
+      "A": "M",
+      "B": "mW",
+      "C": "K",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is the symbol used to denote \"mega\" in measurement?",
+    "choices": {
+      "A": "K",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "What is the symbol used to denote \"milli\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the symbol used to denote \"giga\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "G",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 101,
+    "question": "In what manner can a 55 microfarad value capacitor also be written?",
+    "choices": {
+      "A": "55F",
+      "B": "55C",
+      "C": "55 micro Farad",
+      "D": "55W"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 102,
+    "question": "In what manner can a 168 megaohm value resistor also be written?",
+    "choices": {
+      "A": "170MW",
+      "B": "168MOhm",
+      "C": "168KOhm",
+      "D": "1200 Hz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 103,
+    "question": "In what manner can a 1.2 gigahertz frequency also be written?",
+    "choices": {
+      "A": "1.2.GHz",
+      "B": "1.2MHz",
+      "C": "1.2KHz",
+      "D": "1200 Hz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 104,
+    "question": "In what manner can a 1 watt power value also be written?",
+    "choices": {
+      "A": "0.1W",
+      "B": "1000 mW",
+      "C": "10KW",
+      "D": "0.1MW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 105,
+    "question": "In figure G7-1 symbol 1 represents a _________?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Resistor",
+      "C": "Transistor",
+      "D": "Diode"
+    },
+    "correct_answer": "C",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 106,
+    "question": "In figure G7-1 Symbol 5 represents a __________?",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Transformer",
+      "D": "Zener diode"
+    },
+    "correct_answer": "D",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 107,
+    "question": "In figure G7-1 Symbol 3 represents a __________?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Diode",
+      "C": "Ground",
+      "D": "Resistor"
+    },
+    "correct_answer": "B",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 108,
+    "question": " In Figure G7-1 Symbol 6 represents a _________?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transformer",
+      "D": "Inductor"
+    },
+    "correct_answer": "C",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 109,
+    "question": "In Figure G7-1 Symbol 9 represents a _________ ?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transformer",
+      "D": "Diode"
+    },
+    "correct_answer": "A",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 110,
+    "question": "In Figure G7-1 Symbol 8 represents a _________ ?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transistor",
+      "D": "Inductor"
+    },
+    "correct_answer": "B",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 111,
+    "question": "In Figure G7-1 Symbol 13 represents a _________ ? ",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Zener diode",
+      "D": "Capacitor"
+    },
+    "correct_answer": "B",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 112,
+    "question": "In Figure G7-1 Symbol 12 represents an _________ ?",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Zener diode",
+      "D": "Capacitor"
+    },
+    "correct_answer": "A",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 113,
+    "question": "In Figure G7-1 Symbol 7 represents a _________ ? ",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Resistor",
+      "C": "Inductor",
+      "D": "Transistor"
+    },
+    "correct_answer": "C",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 114,
+    "question": "In Figure G7-1 Symbol 11 represents a _________ ?",
+    "choices": {
+      "A": "Adjustable resistor",
+      "B": "Capacitor",
+      "C": "Conductor",
+      "D": "Inductor"
+    },
+    "correct_answer": "D",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
+  },
+  {
+    "question_number": 115,
+    "question": "In Figure G7-1 Symbol 14 represents a _________ ? ",
+    "choices": {
+      "A": "Single-pole, Double-throw (SPDT)",
+      "B": "Single-pole, Single-throw (SPST)",
+      "C": "Double-pole, Double-throw (DPDT)",
+      "D": "Multipoint"
+    },
+    "correct_answer": "B",
+    "pic":'https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png'
   }
 ]
