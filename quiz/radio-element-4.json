@@ -74,7 +74,7 @@
       "C": "The tone squelch",
       "D": "The receiver RIT of clarifier"
     },
-    "correct_answer": "B"
+    "correct_answer": "D"
   },
   {
     "question_number": 8,
@@ -544,7 +544,7 @@
     "choices": {
       "A": "42 feet",
       "B": "84 feet",
-      "C": "131 feet",
+      "C": "138 feet",
       "D": "263 feet"
     },
     "correct_answer": "C"
@@ -676,8 +676,8 @@
     "choices": {
       "A": "10",
       "B": "100",
-      "C": "1000",
-      "D": "1000,000"
+      "C": "1,000",
+      "D": "1,000,000"
     },
     "correct_answer": "C"
   },
@@ -1035,7 +1035,7 @@
   },
   {
     "question_number": 95,
-    "question": "If a single -sideband phone transmitter is 100% modulated, what will a speech processor do to the transmitter's power?",
+    "question": "If a single-sideband phone transmitter is 100% modulated, what will a speech processor do to the transmitter's power?",
     "choices": {
       "A": "It will increase the output PEP",
       "B": "It will add nothing to the output PEP",

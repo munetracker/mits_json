@@ -393,7 +393,7 @@
       "C": "77 kilo-ohms",
       "D": "770 ohms"
     },
-    "correct_answer": "A"
+    "correct_answer": "B"
   },
   {
     "question_number": 37,
@@ -415,7 +415,7 @@
       "C": "3 kilo-ohms",
       "D": "300 volts"
     },
-    "correct_answer": "A"
+    "correct_answer": "C"
   },
   {
     "question_number": 39,
@@ -529,7 +529,7 @@
   },
   {
     "question_number": 49,
-    "question": "What wire color often connectto a negative polarity of the battery source?",
+    "question": "What wire color often connected to a negative polarity of the battery source?",
     "choices": {
       "A": "Yellow",
       "B": "Blue",
@@ -578,7 +578,7 @@
       "A": "Voltage Value",
       "B": "Power Value",
       "C": "Resistance Value",
-      "D": "Dummy Capacitor"
+      "D": "Current Value"
     },
     "correct_answer": "D"
   },
@@ -797,7 +797,7 @@
     "choices": {
       "A": "3MHz-30MHz",
       "B": "30MHz-300MHZ",
-      "C": "30MHz-300MHZ",
+      "C": "300MHz-3GHz",
       "D": "3GHz-30GHz"
     },
     "correct_answer": "B"
@@ -1260,7 +1260,7 @@
       "C": "Conductor",
       "D": "Inductor"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
   },
   {
