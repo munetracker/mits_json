@@ -136,7 +136,7 @@
     "question": "What is the unit symbol used to denote Power?",
     "choices": {
       "A": "Hertz",
-      "B": "M",
+      "B": "W",
       "C": "V",
       "D": "Meter"
     },
@@ -190,8 +190,8 @@
     "question_number": 18,
     "question": "What is the formula to drive Power, given the values of Voltage and Current?",
     "choices": {
-      "A": "Power = current / Voltage",
-      "B": "Power = current x Voltage",
+      "A": "Power = Current / Voltage",
+      "B": "Power = Current x Voltage",
       "C": "Power = Current x Resistance",
       "D": "Power = Current / Resistance"
     },
