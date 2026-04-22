@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 31,
+    "question": "What should an amateur without distress calls using the emergency frequency on 2 meters to make sure no distress traffic is taking place?",
+    "choices": {
+      "A": "Just call CQ",
+      "B": "Check antena's VSWR before transmitting",
+      "C": "Listen for a reasonable period before tramsmitting",
+      "D": "Transmit anytime"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 32,
+    "question": "When is a citizen of another country qualified to tke the examination and\t\napply for an amateur",
+    "choices": {
+      "A": "After he has attended a seminar and submitted the requirements",
+      "B": "After submission of his passport",
+      "C": "when his country extends the same privilege to Filipino nationals as far as examination is concerned",
+      "D": "When he is endorsed by any Class A or an NTC accredited club"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "Who in the Amateur Radio Service is called an amateur or an amateur radio operator?",
+    "choices": {
+      "A": "A person who is capable of acquiring any equipment for his station to be used for communication",
+      "B": "A person who broadcast traffic for the general public",
+      "C": "A person who needs to communicate with his family, co-workers and friends",
+      "D": "A person who interested in radio technique solely with a personal aim and without pecuniary interest"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 34,
+    "question": "A radio station in the amateur service installed at specified fixed location and operated communicate with an amateur mobile station, amateur portable station or another amateur fixed radio station is an _____________ ?",
+    "choices": {
+      "A": "Amateur Mobile Station",
+      "B": "Ameteur Portable Station",
+      "C": "Amateur fixed Radio Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 35,
+    "question": "A radio station in the amateur service installed on board a vehivle or s vessel and intended to be ued while motion or during habits at unspecified points is an",
+    "choices": {
+      "A": "Amateur Fixed Radio Station",
+      "B": "Amateur Mobile Station",
+      "C": "Amateur Portable Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the amateur station so designed that it may conveniently be moved about from place to place or personally carried and be operated while in motion or during temporary halts?",
+    "choices": {
+      "A": "Amateur Fixed Radio Station",
+      "B": "Amateur Mobile Station",
+      "C": "Amateur Portable Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 37,
+    "question": "What term means telecommunications by means of radio waves conducted by or among authorized amateurs on a non-commercial basis? or among authorized amaturs on a non-commercial basis?",
+    "choices": {
+      "A": "Amateur Radio Equipment Testing",
+      "B": "Amateur Propagation Check",
+      "C": "Amateur Radio Contest Practice",
+      "D": "Amateur Radio Communications"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 38,
+    "question": "______ is defined as a radio communication service using space stations on earth satelites for the same purpose as those of the Amateur Radio Service?",
+    "choices": {
+      "A": "Amateur Space Service",
+      "B": "Amateur Satelite Service",
+      "C": "Amateur Relay Station",
+      "D": "Amateur Repeater Station"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 39,
+    "question": "_______  is the general term applied to the use of radio waves?",
+    "choices": {
+      "A": "Radio",
+      "B": "Communications",
+      "C": "Civic",
+      "D": "Commercial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "_______  is defined as a reasonably complete and sufficient combination of distinct radio equipment intended for or capable of being used either for transmission or reception of radio communication service?",
+    "choices": {
+      "A": "Transmitter",
+      "B": "Recieveer",
+      "C": "Radio station",
+      "D": "Broadcast Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 41,
+    "question": "__________  is a station with one or more transmitters, recievers or combination of transmitter or recievers including the accessory equipment authorized at a location for carrying on a radio communication service?",
+    "choices": {
+      "A": "AM Station",
+      "B": "FM Station",
+      "C": "Radio Station",
+      "D": "Broadcast Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 42,
+    "question": "________  is the term for any transmission, emission and reception of signs, signals writings,images and sounds intelligence of any nature by wire, radio, optical, or other electromagnetic system?",
+    "choices": {
+      "A": "Telecommunication",
+      "B": "Broadcast",
+      "C": "Radio experimentation",
+      "D": "Propagation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 43,
+    "question": "Who is a Class A amateur duly appointed by the board of a club or association to supervise and control the proper use and operation of the fixed station of that association or club?",
+    "choices": {
+      "A": "Club president",
+      "B": "Club tencnician",
+      "C": "Trustee",
+      "D": "Founder"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 44,
+    "question": "What is the distress signal for radiotelegraphy?",
+    "choices": {
+      "A": "HELP",
+      "B": "BREAK",
+      "C": "SOS",
+      "D": "MAYDAY"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 45,
+    "question": "What is the distress signal for radiotelephony?",
+    "choices": {
+      "A": "HELP",
+      "B": "BREAK",
+      "C": "QRZ",
+      "D": "MAYDAY"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 46,
+    "question": "Into how many Amateur district in the philippines divided?",
+    "choices": {
+      "A": "12",
+      "B": "11",
+      "C": "10",
+      "D": "9"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 47,
+    "question": "Baguio city is under what amateur radio district?",
+    "choices": {
+      "A": "District 2",
+      "B": "District 3",
+      "C": "District 4",
+      "D": "District 5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "Dumaguete city is under what amateur radio district?",
+    "choices": {
+      "A": "District 9",
+      "B": "District 7",
+      "C": "District 5",
+      "D": "District 3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 49,
+    "question": "Bicol city is under what amateur radio district?",
+    "choices": {
+      "A": "District 6",
+      "B": "District 5",
+      "C": "District 4",
+      "D": "District 3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 50,
+    "question": "Batangas city is under what amateur radio district?",
+    "choices": {
+      "A": "District 7",
+      "B": "District 5",
+      "C": "District 3",
+      "D": "District 1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 51,
+    "question": "What provinces belong to amateur radio District 6?",
+    "choices": {
+      "A": "Ilocos Sur, La Union, Pangasinan",
+      "B": "Camarines norte, Camarines sur, Sorsogon",
+      "C": "Iloilo, Negros Occidental, Capiz",
+      "D": "Bukidnon, Davao del Sur, Surigao del Norte"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 52,
+    "question": "If an amateur with a DUIXX call sign drives to baguio city for a day, how should he identify his mobile station when transmitting in radiotelephony?",
+    "choices": {
+      "A": "DUIXX mobile 4",
+      "B": "DUIXX mobile 3",
+      "C": "DUIXX mobile 2",
+      "D": "DUIXX mobile"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 53,
+    "question": "If an amateur with a DU9XX call sign operates temporarily a portable station in Zamboanga for less than a month, how should he identify this station in radiotelephony?",
+    "choices": {
+      "A": "DU9XX portable 8",
+      "B": "DU9XX portable 7",
+      "C": "DU9XX portable 6",
+      "D": "DU9XX portable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 54,
+    "question": "Where should be the amateur Radio Station License placed in the radio station?",
+    "choices": {
+      "A": "Nowhere",
+      "B": "Just filed safely",
+      "C": "Posted in a conspicuous place",
+      "D": "Posted at the back of the main door"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "When is any person permitted to transmit by voice while operating the amateur station of a licensee?",
+    "choices": {
+      "A": "Never",
+      "B": "When the license controls directly the entire operation in accordance with proper amateur practice",
+      "C": "Anytime even in the absence of the licensee in a normal situation",
+      "D": "Anytime using a different call sign from that of the licensee"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 56,
+    "question": "What is strictly prohibited under the Rules Governing Operation of Amateur Stations?",
+    "choices": {
+      "A": "Operation without a valid amateur radio operator certificate or radio station license",
+      "B": "Transmission with false or misleading identification",
+      "C": "Transmission of messages or signals containing profane or indecent words or language",
+      "D": "All of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 57,
+    "question": "What shall an amateur do upon knowing his station is causing harmful interference to the operation of any existing station?",
+    "choices": {
+      "A": "Decrease output power",
+      "B": "Intentionally jam the other station",
+      "C": "Cease operation immediately",
+      "D": "Ignore the operation of the existing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 58,
+    "question": "What appropriate action can the NTC take on the harmful interference caused by an amateur statio?",
+    "choices": {
+      "A": "Suspend the amateur station's operation pending a satisfactory adjustment of the equipment",
+      "B": "Limit the power of the working hours",
+      "C": "Order the temporary closure in the event of continued interference",
+      "D": "All of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 59,
+    "question": "For how long is a portable operation allowed in any other area without obtaining a specific authority?",
+    "choices": {
+      "A": "1 month",
+      "B": "2 months",
+      "C": "3 months",
+      "D": "4 months"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "What is required if a continuous portable operation exceeds four (4) months in any other area?",
+    "choices": {
+      "A": "Specific Permit",
+      "B": "Station ID must always be transmitted with a \"portable\" + district number",
+      "C": "Modification of the station license",
+      "D": "The licensee must carry with him his original license at all times"
+    },
+    "correct_answer": "C"
+  }
+]

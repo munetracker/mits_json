@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 1,
+    "question": "On November 11, 1931, what law did the Philippine Legislature enact which is known as the Radio Control Law of the Philippines?",
+    "choices": {
+      "A": "Act No. 3843",
+      "B": "ACT NO, 3486",
+      "C": "ACT NO. 3846",
+      "D": "ACT NO. 3648"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the government agency which grants permits for the use of radio frequencies for wireless telephone and telegraph system and radio communication systems including amateur radio stations and radio television broadcasting system?",
+    "choices": {
+      "A": "Department of Transportation and Communications.",
+      "B": "Commission on Information and Communications Technology",
+      "C": "Department of National Defense",
+      "D": "National Telecommunications Commission"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the United Nations Agency based in Geneva Switzerland which coordinates the global use of the radio spectrum?",
+    "choices": {
+      "A": "IARO",
+      "B": "FCC",
+      "C": "NTC",
+      "D": "ITU"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 4,
+    "question": "THE Phiippines is under what IARU region?",
+    "choices": {
+      "A": "Region I",
+      "B": "Region II",
+      "C": "Region III",
+      "D": "Region IV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question": "Who is eligible to use the amateur fequency bands allocated by the rules and regulations governing the Amateur Radio Service in this country?",
+    "choices": {
+      "A": "Any person over the age 12",
+      "B": "Any person who is a Filipino citizen",
+      "C": "Any person with a registered transceiver",
+      "D": "Only duty licensed amateur"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the maximum effectivity period of license NTC may issue to a new qualified applicant or for renewal of license with appropriate submitted?",
+    "choices": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "4 years"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 7,
+    "question": "When should the application of renewal of the ameteur license be filed before expiration?",
+    "choices": {
+      "A": "At least 60 days",
+      "B": "At least 30 days",
+      "C": "At least 90 days",
+      "D": "At least 15 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 8,
+    "question": "An expired license of not less than how many years may be renewed upon filing of renewal application and payment to NTC of the prescribed fees and surcharges with no requirement to retake the examinations and retaining the assigned call sign?",
+    "choices": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "5 years"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 9,
+    "question": "After how many years may an expired license be renewed; subject to paymentof fees and surcharges and the assignment of a different call sign from that of the former license without retaking the examination?",
+    "choices": {
+      "A": "more than 5 years",
+      "B": "more than 2 years but less than 5 years",
+      "C": "more than 3 years but less than 5 years",
+      "D": "more than 4 years but less than 5 years"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 10,
+    "question": "What may an amateur, whose license has expired for more than 5 years, do to become licensed again (subject to the assignment of a different call sign)?",
+    "choices": {
+      "A": "Apply for renewal and pay prescribed fees and surcharges to NTC",
+      "B": "Pass the appropriate examination and pay surcharges for every year expired to NTC",
+      "C": "Attend a seminar on current Radio Laws and Radio Ethics with the national amateur organization and prescribed fees for a new license to NTC",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "What type of modification of the amateur license can be filed with the NTC?",
+    "choices": {
+      "A": "upgrade to a higher class of license",
+      "B": "Transfer of location of the fixed station",
+      "C": "Installation of additional or change of transmitter/",
+      "D": "All of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 12,
+    "question": "What application should be filed with the NTC when an amateur license has \t\nbeen lost",
+    "choices": {
+      "A": "New license",
+      "B": "Duplicate license",
+      "C": "Certified true copy of the license",
+      "D": "Certified from the Commissioner"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 13,
+    "question": "What do you call a requiremet before an amateur radio license is renewed to \t\nshow proof of license",
+    "choices": {
+      "A": "Original radio station license",
+      "B": "Certificate of ownership of transciever",
+      "C": "Proof of amateur activity",
+      "D": "500 watts PEP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 14,
+    "question": "A class C amateur  shall be authorized to operate on HF fixed radio station \t\nwith output power",
+    "choices": {
+      "A": "100 watts PEP",
+      "B": "200 watts PEP",
+      "C": "300 watts PEP",
+      "D": "500 watts PEP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "What general subject is covered by Element 3 for Class C examination?",
+    "choices": {
+      "A": "International Morse Code",
+      "B": "Rules and Regulations",
+      "C": "Fundamentals of Electronics and Electricity",
+      "D": "Amateur Radio Practice"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question": "A class C amateur shall be authorized to operate on HF fixed radio station",
+    "choices": {
+      "A": "50 watts",
+      "B": "100 watts",
+      "C": "200 watts",
+      "D": "500 watts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "What frequency eange on 2-meter VHF can be used by amateurs in the Philippines",
+    "choices": {
+      "A": "144.000-146.000 MHz",
+      "B": "144.000-148.000 MHz",
+      "C": "140.000-146.000 MHz",
+      "D": "138.000-174.000 MHz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "What frequency range on 40-meters HF can be used by amateurs in the\t\nPhilippines?",
+    "choices": {
+      "A": "3.500-3.900MHz",
+      "B": "3.000-3.900 MHz",
+      "C": "7.000-7.100 MHz",
+      "D": "7.000-7.200MHz"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 19,
+    "question": "What frequency range on 15-meter HF can be used by amateurs in the Philippines?",
+    "choices": {
+      "A": "21.100-21.450 MHz",
+      "B": "21.000-21.450 MHz",
+      "C": "24.100-24.990 MHz",
+      "D": "24000-24.990 MHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 20,
+    "question": "A Class C amateur radio license is also known as ________ ?",
+    "choices": {
+      "A": "Advanced Class",
+      "B": "General Class",
+      "C": "Technician Class",
+      "D": "Novice Class"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 21,
+    "question": "What rating must a candidate obtain to pass the written examination peovided that a rating of",
+    "choices": {
+      "A": "70%",
+      "B": "75%",
+      "C": "80%",
+      "D": "85%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the disinctive identifiction carried by all transmission in the amateur\t\nradio service oc",
+    "choices": {
+      "A": "Prefix",
+      "B": "Suffix",
+      "C": "Call sign",
+      "D": "Call area"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 23,
+    "question": "A Class B amateur license is also known as ________ ?",
+    "choices": {
+      "A": "Advanced Class",
+      "B": "General Class",
+      "C": "Technician Class",
+      "D": "Novice Class"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question": "On what month does the expiration of a license issuedeby NTC fall, except\t\nwho has life",
+    "choices": {
+      "A": "Decanber",
+      "B": "January",
+      "C": "Licensee's birth month",
+      "D": "Same month when it was first issued"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "A Class A amateur license is also known as _______ ?",
+    "choices": {
+      "A": "Advanced Class",
+      "B": "General Class",
+      "C": "Technician Class",
+      "D": "Extra Class"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 26,
+    "question": "How many classes of amateur are there in the Philippines?",
+    "choices": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "The technician Class is also known as _______ ?",
+    "choices": {
+      "A": "Class A",
+      "B": "Class B",
+      "C": "Class C",
+      "D": "Class D"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 28,
+    "question": "If the Class C amateur Passes the examination for an upgrade to Class B, how does he effect",
+    "choices": {
+      "A": "Renewal of license",
+      "B": "Cancellation of class C",
+      "C": "Duplicate license",
+      "D": "Modification of amateur license"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "How should frequency bands allocated to a particular class of amateurs be \t\nused  by a duty au",
+    "choices": {
+      "A": "First come first serve basis",
+      "B": "Non-sharing basis",
+      "C": "Anybody transmits anytime",
+      "D": "Non-interference basis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 30,
+    "question": "To facilitate the reception of distress calls using the emergency frequency on 2 meters, transmissions should be kept to a minimum and for how long? 2 meters, transmissons should be kept to a minimum and for how long?",
+    "choices": {
+      "A": "Not exceeding 5 minutes",
+      "B": "Not exceeding 4 minutes",
+      "C": "Not exceeding 3 minutes",
+      "D": "Not exceeding 1 minute"
+    },
+    "correct_answer": "D"
+  }
+]

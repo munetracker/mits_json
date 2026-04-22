@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 1,
+    "question": "What reading on an SWR meter indicates perfect impedance match between the antenna and the feedline?",
+    "choices": {
+      "A": "2 to 1",
+      "B": "1 to 3",
+      "C": "1 to 1",
+      "D": "10 to 1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following precautions should be taken when measuring circuit resistance with an ohmmeter?",
+    "choices": {
+      "A": "Ensure that the applied voltages are correct.",
+      "B": "Ensure that the circuit is not powered.",
+      "C": "Ensure that the circuit is grounded.",
+      "D": "Ensure that the circuit is operating at the correct frequency."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the minimum safe distance from a power line when installing an antenna?",
+    "choices": {
+      "A": "Half the width of your property",
+      "B": "The height of the power line above ground",
+      "C": "1/2 wavelength at the operating frequency",
+      "D": "So that if the antenna falls unexpedtedly, no part of it can come closer that 10 feet to the power wires"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 4,
+    "question": "What is an instance in which the use of an instrument with analog readout may be preferred over an instrument with a numerical digital readout? Justification: for trend measurements, like tune for peak or dip an analog meter beats the digital meter.",
+    "choices": {
+      "A": "When testing logic circuits",
+      "B": "When high precision is desired",
+      "C": "When measuring the frequency of an oscillator",
+      "D": "When adjusting tuned circuits."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 5,
+    "question": "What type of filter should be connected to a TV receiver as the first step in trying to prevent RF overload from a nearby 2 M transmitter?",
+    "choices": {
+      "A": "Low-pass filter",
+      "B": "High-pass filter",
+      "C": "Band-pass filter",
+      "D": "Band-reject filter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver's receive audio? Justification: On mobile installation it is called \"alternator whine\"",
+    "choices": {
+      "A": "The ignition system",
+      "B": "The alternator",
+      "C": "the electric fuel pump",
+      "D": "Anti-lock braking system controllers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "Which of the following controls could be used if the voice pitch of a single sideband signal seems too high or too low?",
+    "choices": {
+      "A": "The AGC or limiter",
+      "B": "Bandwidth selection",
+      "C": "The tone squelch",
+      "D": "The receiver RIT of clarifier"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 8,
+    "question": "Which of the following is a common use of coaxial cable?",
+    "choices": {
+      "A": "Carry do power from a vehicle battery to a mobile radio",
+      "B": "Carry RF signals between a radio and antenna",
+      "C": "Secure masts, tubing and other cylindrical objects on towers",
+      "D": "Connect data signals from a TNC to a computer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "Which instrument is used to measure electrical current?",
+    "choices": {
+      "A": "An ohmeter",
+      "B": "A wave-meter",
+      "C": "A voltmeter",
+      "D": "An ammeter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 10,
+    "question": "What could be used in place of a regular speaker to help you copy signals in a noisy area?",
+    "choices": {
+      "A": "A video display",
+      "B": "A low pass filter",
+      "C": "A set of headphones",
+      "D": "A boom microphone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Where should a mobile transceiver's power negative connection be made?",
+    "choices": {
+      "A": "At the battery or engine block ground strap",
+      "B": "At the antenna mount",
+      "C": "To any metal part of the vehicle",
+      "D": "Through the transceiver's mounting bracket"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 12,
+    "question": "Which of the following can be used to enter the operating frequency of a modern transceiver?",
+    "choices": {
+      "A": "The keypad or VFO knob",
+      "B": "The CTCSS or DTMF encoder",
+      "C": "The Automatic Frquency Control",
+      "D": "All the choices are correct"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 13,
+    "question": "Which of the following measurements are commonly used using a multimeter?",
+    "choices": {
+      "A": "SWR and RF power",
+      "B": "Signal strength and noise",
+      "C": "Impedance  and resistance",
+      "D": "Voltage and resistance"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 14,
+    "question": "What signals are used to conduct a two-tone test?",
+    "choices": {
+      "A": "Two audio signals of the same grequency",
+      "B": "Two non-harmonically related audio signals",
+      "C": "Two swept frequency tones",
+      "D": "Two audio frequency range square wave signals"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "Which of the following can be the result of an incorrectly adjusted speech processor?",
+    "choices": {
+      "A": "Distorted speech",
+      "B": "Splatter",
+      "C": "Excessive background pickup",
+      "D": "All of these choices are correct"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 16,
+    "question": "Which of the following frequencies is in the 12-meter band?",
+    "choices": {
+      "A": "3.940 MHz",
+      "B": "12.940 MHz",
+      "C": "17.940 MHz",
+      "D": "24.940 Mhz"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 17,
+    "question": "Which of the following is true concerning access to frequencies?",
+    "choices": {
+      "A": "Nets always have priority",
+      "B": "QSO's in process always have priority",
+      "C": "No one has priority access to frequencies, common courtesy should be a guide",
+      "D": "Contest all ground contacts to single point"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "How can a ground loop be avoided?",
+    "choices": {
+      "A": "Connect all ground connections in series",
+      "B": "Connect the AC neutral conductor to the ground wire",
+      "C": "Avoid using lock washers and star washers when making ground connections",
+      "D": "Connect all ground contacts to a single point"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 19,
+    "question": "Which of the following can be the result of an improperly adjusted speech processor?",
+    "choices": {
+      "A": "Distorted Speech",
+      "B": "Splatter",
+      "C": "Excessive background pick up",
+      "D": "All of these choices are correct"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 20,
+    "question": "Which of the following components should be added to a capacitor to increase the capacitance?",
+    "choices": {
+      "A": "An Inductor in series",
+      "B": "A resistor in series",
+      "C": "A capacitor in parallel",
+      "D": "A capacitor in series"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 21,
+    "question": "Which frequency is within the 6-meter band?",
+    "choices": {
+      "A": "49.00 MHz",
+      "B": "52. 525 MHz",
+      "C": "28. 50 MHZ",
+      "D": "222. 15 MHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 22,
+    "question": "Under which of the following circumstances are amateur stations authorized to transmit signals related to broadcasting, program production, or news gathering, assuming no other means is available?",
+    "choices": {
+      "A": "Only where such communications directly relate to immediate safety of human life or protection of property",
+      "B": "Only when broadcasting communications to and from the space shuttle",
+      "C": "Only when non-commercial programming is gathered and supplied exclusively to the Kapisanan ng mga Broadkaste sa Pilipinas",
+      "D": "Only when using amateur repeaters linked through the internet"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "What might cause erratic changes in SWR readings?",
+    "choices": {
+      "A": "The transmitter is being modulated",
+      "B": "A loose connection in an antenna or a feedline",
+      "C": "The transmitter is being over-modulated",
+      "D": "Inteference from other stations is distorting your signal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question": "How is an ammeter usually connected to a circuit?",
+    "choices": {
+      "A": "In series with the circuit",
+      "B": "In parallel with the circuit",
+      "C": "In quadrature with the circuit",
+      "D": "In phase with the circuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 25,
+    "question": "What, in general terms, is standing wave radio (SWR)?",
+    "choices": {
+      "A": "A measure of how well a load is matched to a transmission line",
+      "B": "The ratio of high to low impedance in feedline",
+      "C": "The transmitter efficiency ratio",
+      "D": "An indication of the quality of your stations ground connection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "What should you do if you receive a report that your stations transmissions are causing splatter or interference on nearby frequencies?",
+    "choices": {
+      "A": "increase transmit power",
+      "B": "Change mode of transmission",
+      "C": "Report the interference to the equipment manufacture",
+      "D": "Check your transmitter for off-frequency operation or spurious emissions"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 27,
+    "question": "Where must a filter be installed to reduce harmonic emissions?",
+    "choices": {
+      "A": "Between the transmitter and the antenna",
+      "B": "Between the receiver and the transmitter",
+      "C": "At the station power supply",
+      "D": "At the microphone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question": "What electrical component is used to connect or disconnect electrical circuits?",
+    "choices": {
+      "A": "Zener Diode",
+      "B": "Switch",
+      "C": "Inductor",
+      "D": "Variable resistor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 29,
+    "question": "Which of the following may be useful in correcting a radio frequency interference problem?",
+    "choices": {
+      "A": "Snap-on ferrite chokes",
+      "B": "Low-pass and high-pass filters",
+      "C": "Band-reject and band-pass filters",
+      "D": "All of these choices are correct"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 30,
+    "question": "What popular operating activity involves contacting as many stations as possible during a specified period of time?",
+    "choices": {
+      "A": "Contesting",
+      "B": "Net operations",
+      "C": "Public service events",
+      "D": "Simulated emergency exercises"
+    },
+    "correct_answer": "A"
+  }
+]

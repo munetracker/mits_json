@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 31,
+    "question": "What device or instrument used to measure the resistance value in circuit?",
+    "choices": {
+      "A": "Ohmmeter",
+      "B": "Thermometer",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "How must a volt meter be connected in order to measure the voltage of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "How must a volt meter be connected in order to measure the current of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 34,
+    "question": "What electric value remains constant in a SERIES circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "What electric value remains constant in a PARALLEL circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the value of resistor having the color bands as follows: violet- blue - no color?",
+    "choices": {
+      "A": "77 mega-ohms",
+      "B": "77 ohms",
+      "C": "77 kilo-ohms",
+      "D": "770 ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "What is the value of resistor having the color bands as follows: brown - red - yellow - no color?",
+    "choices": {
+      "A": "120 kilo-ohms",
+      "B": "1.2 kilo-ohms",
+      "C": "1200 ohms",
+      "D": "12 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "What is the value of resistor having the color bands as follows: orange - black - red - no color?",
+    "choices": {
+      "A": "300 ohms",
+      "B": "300 watts",
+      "C": "3 kilo-ohms",
+      "D": "300 volts"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the value of resistor having the color bands as follows: yellow - violet - violet no color?",
+    "choices": {
+      "A": "47 ohms",
+      "B": "470 mega-ohms",
+      "C": "4.7 kilo-ohms",
+      "D": "88 mega-ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "What is the value of resistor having the color bands as follows: black - brown - black no color?",
+    "choices": {
+      "A": "10 W",
+      "B": "1 ohm",
+      "C": "5 ohms",
+      "D": "0.1 ohm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the value of resistor having the color bands as follows: green - black - black no color?",
+    "choices": {
+      "A": "5000 ohms",
+      "B": "50 ohms",
+      "C": "5 ohms",
+      "D": "55 mega-ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 42,
+    "question": "What is the value of resistor having the color bands as follows: gray - gray - orange no color?",
+    "choices": {
+      "A": "88 mega-ohms",
+      "B": "88 kilo-ohms",
+      "C": "8.8 ohms",
+      "D": "880 ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 43,
+    "question": "What is the value of resistor having the color bands as follows: white -white - black no color?",
+    "choices": {
+      "A": "9 ohms",
+      "B": "99 ohms",
+      "C": "99 watts",
+      "D": "99 volts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 44,
+    "question": "What is the value of resistor having the color bands as follows: green - green - orange no color?",
+    "choices": {
+      "A": "55 ohms",
+      "B": "5.5 mega-ohms",
+      "C": "55 kilo-ohms",
+      "D": "470 kilo-ohms"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 45,
+    "question": "What is the value of resistor having the color bands as follows: red - red - brown no color?",
+    "choices": {
+      "A": "220 ohms",
+      "B": "380 ohms",
+      "C": "470 ohms",
+      "D": "500 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 46,
+    "question": "What symbol denotes the positive polarity of a battery?",
+    "choices": {
+      "A": "plus sign(+)",
+      "B": "Minus sign (-)",
+      "C": "x sign (x)",
+      "D": "Slash sign (/)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "What symbol denotes the negative polarity of a battery?",
+    "choices": {
+      "A": "plus sign(+)",
+      "B": "Minus sign (-)",
+      "C": "x sign (x)",
+      "D": "Slash sign (/)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 48,
+    "question": "What wire color often connects to a positive polarity of a battery source?",
+    "choices": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Black"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 49,
+    "question": "What wire color often connected to a negative polarity of the battery source?",
+    "choices": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Black"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 50,
+    "question": "What component is used to turn a circuit on or off?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Switch",
+      "C": "Capacitor",
+      "D": "Inductor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 51,
+    "question": "What is the meaning of AC in electricity?",
+    "choices": {
+      "A": "Alternating Current",
+      "B": "Air-Conditioning",
+      "C": "Adaptive Code",
+      "D": "Air conductor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "What is the meaning of DC in electricity?",
+    "choices": {
+      "A": "Direct Conversion",
+      "B": "Direct Current",
+      "C": "Dummy Capacitor",
+      "D": "Delayed Circuit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 53,
+    "question": "What Electricity value can be concluded if one reads 5 amperes on a component?",
+    "choices": {
+      "A": "Voltage Value",
+      "B": "Power Value",
+      "C": "Resistance Value",
+      "D": "Current Value"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 54,
+    "question": "What is the total inductance of 3 inductors connected in series with the following values: 3mH, 5mH and 22mH?",
+    "choices": {
+      "A": "15mH",
+      "B": "8 mH",
+      "C": "30mH",
+      "D": "100mH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the total inductance of 2 inductors - valud at 20mH each are connected in parallel?",
+    "choices": {
+      "A": "80mH",
+      "B": "8mH",
+      "C": "20mH",
+      "D": "10mH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 56,
+    "question": "What is the total inductance of 2 capacitors connected in series with the following values: c1 = 100mF, c2 = 100mF ?",
+    "choices": {
+      "A": "500mF",
+      "B": "50mF",
+      "C": "20mF",
+      "D": "25mF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the total capacitance of 3 capacitors connected in parallel with the following values: c1 = 100mF, c2 = 100mF and c3 = 100mF?",
+    "choices": {
+      "A": "300mF",
+      "B": "20mF",
+      "C": "100mF",
+      "D": "25mF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "What is the total capacitance of 3 capacitors connected in parallel with the following values: c1 = 100mF, c2 = 200mF and c3 = 300mF?",
+    "choices": {
+      "A": "500mF",
+      "B": "20mF",
+      "C": "100mF",
+      "D": "600mF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the total of inductance of 2 pieces of 5mH inductors, connected in series?",
+    "choices": {
+      "A": "8mH",
+      "B": "5mH",
+      "C": "10mH",
+      "D": "8H"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the total current of a circuit having 10 volts flowing through a 10 ohms resistor?",
+    "choices": {
+      "A": "1A",
+      "B": "2A",
+      "C": "20A",
+      "D": "10A"
+    },
+    "correct_answer": "A"
+  }
+]

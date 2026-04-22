@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 61,
+    "question": "NTC may grant the authorization to install and operate a repeater to whom?",
+    "choices": {
+      "A": "Only to class A amateurs",
+      "B": "To any duly licensed amateur",
+      "C": "Only to national organization",
+      "D": "Only to duly recognized amateur associations, clubs or societies"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 62,
+    "question": "A least how many licensed members must a club have, as one of the requirements, to be accredited by the NTC?",
+    "choices": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "5"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 63,
+    "question": "An amateur who is citizen or resident of a foreign country may be authorized to operate temporarily in the Philippines provided he is holder of a license issued  by their government and his country provides the same previlege to Filipino nationals. What do you call this partnership or arrangement on amateur licensing between two countries?",
+    "choices": {
+      "A": "Joint Venture Agreement",
+      "B": "Reciprocal Agreement",
+      "C": "Development Agreement",
+      "D": "Confidentiality Agreement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 64,
+    "question": "Which of the following is a ground for suspension/revocation of an amateur license?",
+    "choices": {
+      "A": "Intentional harmful interfering or jamming of legitimate licensed radio stations",
+      "B": "Engaging in amateur work without a valid license or performing  said work in behalf of a licensed amateur without proper authority",
+      "C": "Making any false statement in the application for license",
+      "D": "All of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 65,
+    "question": "To secure a class B amateur license, a registered Electronics and Communications Engineer shall be required to pass the examination for what element?",
+    "choices": {
+      "A": "Element I",
+      "B": "Element II",
+      "C": "Element I & II",
+      "D": "Element IV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 66,
+    "question": "What element shall be required from a holder of a valid 1st/or 2nd class commercial radiotelegraph operator certificate to pass to secure a class B amateur license?",
+    "choices": {
+      "A": "Element I",
+      "B": "Element II",
+      "C": "Element I & II",
+      "D": "Element IV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "What is DW, DV or DU in the formation of amateur call sign?",
+    "choices": {
+      "A": "Station Identification",
+      "B": "Prefix",
+      "C": "Suffix",
+      "D": "District number"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question": "For an amateur call sign DU1ABC, what is the suffix?",
+    "choices": {
+      "A": "DU",
+      "B": "DU1",
+      "C": "1ABC",
+      "D": "ABC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 69,
+    "question": "Which one below is a valid amateur call sign in the Philippines?",
+    "choices": {
+      "A": "Kabalikat 1122",
+      "B": "Eagle 505",
+      "C": "K6TJO",
+      "D": "DW1SWA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 70,
+    "question": "How much shall NTC fine any person who had been found to have violated the law with illegal possession and illegal transmission of an amateur transceiver?",
+    "choices": {
+      "A": "P2,000",
+      "B": "P4,000",
+      "C": "P5,000",
+      "D": "P10,000"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 71,
+    "question": "How much shall NTC fine a firm, company, corporation or association found to have illegally purchased a base transceiver?",
+    "choices": {
+      "A": "P2,000",
+      "B": "P4,000",
+      "C": "P5,000",
+      "D": "P10,000"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 72,
+    "question": "When shall an amateur make his station and documents available for NTC inspection?",
+    "choices": {
+      "A": "Any time upon request by an NTC representative or inspector with a Mission Order",
+      "B": "30 days before expiration of license",
+      "C": "Anytime upon request by an official observer from the amateur community",
+      "D": "Upon release of the initial station license"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "In April 2011, NTC issued Memorandum Circular 04-03-2011 on some frequencies which shall be used at times of disasters and national emergencies. Which frequencies on 2m and 40m shall be used by amateurs as calling frequencies under this MC?",
+    "choices": {
+      "A": "144. 700 & 7.045 MHz",
+      "B": "144.740 & 7.095 MHz",
+      "C": "144.000 & 7.000 MHz",
+      "D": "145.000 & 7.045 MHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "What is not among freqency bands allocated to the Amateur Radio Service?",
+    "choices": {
+      "A": "3.500-3.900 MHz",
+      "B": "7.000-7.200 MHz",
+      "C": "14.000-14.350 MHz",
+      "D": "25.000-27.990 MHz"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 75,
+    "question": "What document is issued by NTC authorizing possession of a radio transmitter or receiver?",
+    "choices": {
+      "A": "Permit to Transfer",
+      "B": "Permit to Own",
+      "C": "Permit to Possess",
+      "D": "Purchase Permit"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 76,
+    "question": "What is a document issued by NTC authorizing the holder to purchase a radio transmitter or transceivers.",
+    "choices": {
+      "A": "Permit to Transfer",
+      "B": "Permit to Own",
+      "C": "Permit to Possess",
+      "D": "Permit to Purchase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 77,
+    "question": "What is required if a person wants to sell or transfer his transmitter or transceiver to another on a single transaction?",
+    "choices": {
+      "A": "He must obtain a permit to own or possess a transmitter or transceiver from the NTC.",
+      "B": "He must obtain a dealer's permit from the NTC.",
+      "C": "He must obtain a permit to sell or transfer from the NTC.",
+      "D": "He must provide the next owner a photocopy of his radio station license."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 78,
+    "question": "What is the federation of national amateur radio societies worldwide which serves as the watchdog and spokesperson for the world Amateur Radio community in the international level, wherein the Philippines is under its Region 3?",
+    "choices": {
+      "A": "ITU",
+      "B": "FCC",
+      "C": "ARRL",
+      "D": "IARU"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 79,
+    "question": "What size of the call sign characters of the fixed amateur radio station shall be posted at the entrance to the premises?",
+    "choices": {
+      "A": "at least 2 in high",
+      "B": "at least 10 cm high",
+      "C": "at least 5.8 cm high",
+      "D": "at least  0.635 cm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "What size of the call sign characters shall be posted on the windshield of a vehicle or vessel of a mobile station?",
+    "choices": {
+      "A": "at least 2 in high",
+      "B": "at least 10 cm in high",
+      "C": "at least 50.8 cm in high",
+      "D": "at least  0.635 cm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 81,
+    "question": "What size of the call sign characters shall be posted on the equipment itself for a portable station?",
+    "choices": {
+      "A": "at least 2 cm. high",
+      "B": "at least 10 cm. high",
+      "C": "At least 5.08 cm. high",
+      "D": "at least 0.635 cm."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 82,
+    "question": "What is the coverage of Element IV for Class C examination?",
+    "choices": {
+      "A": "Radio Rules and Regulations",
+      "B": "Electrical and Electronics Principles",
+      "C": "Amateur Radio Practice",
+      "D": "Operating Procedures"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 83,
+    "question": "DU1XX had tranferred his fixed station to Pangasinan and after 4 months had his license modified.What should his new call sign be?",
+    "choices": {
+      "A": "DU1XX portable 3",
+      "B": "DU3XX",
+      "C": "DU1XX portable 2",
+      "D": "DU2XX"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 84,
+    "question": "What document shall duly accredited amateur club enter into with NTC for the management of its members in the proper\n use of the amateur frequency of bands and prevention of harmful interference?",
+    "choices": {
+      "A": "Memorandum of Understanding",
+      "B": "Memorandum of Agreement",
+      "C": "Partnership of Agreement",
+      "D": "Legal Cooperation Agreement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 85,
+    "question": "What are some provinces under amateur District 4 ?",
+    "choices": {
+      "A": "Isabela , Nueva Vizcaya, La Union",
+      "B": "Ester Samar, Leyte, Southern Leyte",
+      "C": "Camarines Norte, Catanduanes , Sorsogon",
+      "D": "Misamis Oriental , Agusan del Sur, Butuan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 86,
+    "question": "What regions are under amateur District 8 ?",
+    "choices": {
+      "A": "Region IX , Region XII",
+      "B": "Region I, Region II",
+      "C": "Region III",
+      "D": "Region VI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "How does DUIXX operating temporarily for 30 days in Ilocos Sur Identify his station ?",
+    "choices": {
+      "A": "DUIXX slash 2",
+      "B": "DUIXX slant 2",
+      "C": "DUIXX stoke 2",
+      "D": "all of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 88,
+    "question": "Which element is not prescribed for Class C examination ?",
+    "choices": {
+      "A": "Element 1",
+      "B": "Element II",
+      "C": "Element III",
+      "D": "Element IV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "If a Class C amateur applies for renewal of his license for another 3 years but is 14 months expired and the prescribed license fee is P144.00 per year, how much shall he pay NTC for his Radio Station License renewal excluding filing fee?",
+    "choices": {
+      "A": "P432",
+      "B": "P576",
+      "C": "P648",
+      "D": "P720"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "What do you call a radio station in the amateur service installed at a specified fixed location and operated to communicate with an amateur mobile station, portable station or other amateur stations ?",
+    "choices": {
+      "A": "Amateur Fixed Station",
+      "B": "Broadcast Station",
+      "C": "Hobby Station",
+      "D": "Emergency Radio Station"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "In the amateur band, what kind messages should not be transmitted?",
+    "choices": {
+      "A": "Messages regarding experiments with antennas",
+      "B": "Personal messages to another amateur radio operator",
+      "C": "Commercial and broadcast messages",
+      "D": "Emergency calls on 145 MHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "To facilitate the reception of distress calls, all transmission on 145 MHz shall be kept to a minimum and shall not exceed how long?",
+    "choices": {
+      "A": "30 minutes",
+      "B": "5 minutes",
+      "C": "1 minutes",
+      "D": "Unlimited"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 93,
+    "question": "The Philippines is divided into how many amateur radio districts?",
+    "choices": {
+      "A": "13",
+      "B": "9",
+      "C": "100",
+      "D": "4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 94,
+    "question": "How long must be a radio logbook be kept?",
+    "choices": {
+      "A": "5 years",
+      "B": "2 years",
+      "C": "6 months",
+      "D": "Until the license expires"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 95,
+    "question": "How long should a radio logbook with distress traffic be kept?",
+    "choices": {
+      "A": "5 years",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "until the license expires"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "What is the combination of letters and numbers to identify a radio station known as?",
+    "choices": {
+      "A": "Alphanumeric",
+      "B": "License",
+      "C": "Handle",
+      "D": "Call sign"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 97,
+    "question": "What government agency is responsible for the regulation of the amateur radio service?",
+    "choices": {
+      "A": "NSO",
+      "B": "NIA",
+      "C": "NTC",
+      "D": "NHA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is one of the frequencies of the emergency channel on the 2 meter band?",
+    "choices": {
+      "A": "144 MHz",
+      "B": "145 MHz+/- 25 kHz",
+      "C": "142 MHz",
+      "D": "146 MHz +/- 10 kHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 99,
+    "question": "What is an amateur radio station intended to be used for operation during unspecified halts or while in motion?",
+    "choices": {
+      "A": "Mobile Station",
+      "B": "Temporary Station",
+      "C": "Portable Station",
+      "D": "Alternate Station"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the maximum number of letter in the suffix of a call sign does NTC issue?",
+    "choices": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_answer": "C"
+  }
+]

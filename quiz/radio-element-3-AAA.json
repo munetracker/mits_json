@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the unit of Voltage?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Henry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the unit of current?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the unit of resistance?",
+    "choices": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the unit of capacitance?",
+    "choices": {
+      "A": "Farad",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the unit of Inductance?",
+    "choices": {
+      "A": "Volt",
+      "B": "Watt",
+      "C": "Ohm",
+      "D": "Henry"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the unit of power?",
+    "choices": {
+      "A": "Volt",
+      "B": "Watt",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "What is the unit of frequency?",
+    "choices": {
+      "A": "Herts",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Meter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "What is the symbol used to denote Voltage?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the symbol used to denote Current?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 10,
+    "question": "What is the symbol used to denote Resistance?",
+    "choices": {
+      "A": "Ω",
+      "B": "H",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 11,
+    "question": "What is the unit symbol used to denote Capacitance?",
+    "choices": {
+      "A": "W",
+      "B": "mH",
+      "C": "V",
+      "D": "F"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 12,
+    "question": "What is the unit symbol used to denote Induction?",
+    "choices": {
+      "A": "Hertz",
+      "B": "H",
+      "C": "V",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 13,
+    "question": "What is the unit symbol used to denote Power?",
+    "choices": {
+      "A": "Hertz",
+      "B": "W",
+      "C": "V",
+      "D": "Meter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "What is the unit symbol used to denote Frequency?",
+    "choices": {
+      "A": "Hz",
+      "B": "mH",
+      "C": "V",
+      "D": "I"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 15,
+    "question": "What component is an schematic diagram is represented by capital letter \"L\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "What component is an schematic diagram is represented by capital letter \"C\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "What component is an schematic diagram is represented by capital letter \"R\"?",
+    "choices": {
+      "A": "Inductor",
+      "B": "Capacitor",
+      "C": "Resistor",
+      "D": "Intergrated cercuit"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "What is the formula to drive Power, given the values of Voltage and Current?",
+    "choices": {
+      "A": "Power = Current / Voltage",
+      "B": "Power = Current x Voltage",
+      "C": "Power = Current x Resistance",
+      "D": "Power = Current / Resistance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 19,
+    "question": "What is the formula to drive Voltage, given the values of Current and Resistance?",
+    "choices": {
+      "A": "Voltage = Resistance / Current",
+      "B": "Voltage = (Current / Resistsnce) x Resistance",
+      "C": "Voltage = Current x Resistance",
+      "D": "Voltage = Power x resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 20,
+    "question": "Given the values for POWER and CURRENT, what is formula to determine the Voltage?",
+    "choices": {
+      "A": "Voltage = Power - Current",
+      "B": "Voltage = Power x Current",
+      "C": "Voltage = Power + Current",
+      "D": "Voltage = Power / Current"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 21,
+    "question": "Given the values for POWER and VOLTAGE, what is formula to determine the Current?",
+    "choices": {
+      "A": "Current = Power / Voltage",
+      "B": "Current = Power x Voltage",
+      "C": "Current = Power + Voltage",
+      "D": "Current = Power - Voltage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the formula to determine the Resistance if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Resistance = Power / Current",
+      "B": "Resistance = Voltage / Current",
+      "C": "Resistance = Power + Voltage",
+      "D": "Resistance = Power + Current"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "What is the formula to determine Current if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Current = Voltage x Resistance",
+      "B": "Current = Resistance - Voltage",
+      "C": "Current = Voltage / Resistance",
+      "D": "Current = Voltage + Resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question": "In what manner can 325 kilo ohm resistor also be written?",
+    "choices": {
+      "A": "325 Ω",
+      "B": "235 Ω",
+      "C": "325 KΩ",
+      "D": "325 KHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "In what manner can 888 milliwatt powervalue also be written?",
+    "choices": {
+      "A": "88 W",
+      "B": "888 KW",
+      "C": "888 mV",
+      "D": "888 mW"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 26,
+    "question": "In what manner can 1000 volt value can also be written?",
+    "choices": {
+      "A": "1 KV",
+      "B": "100 mV",
+      "C": "10 KW",
+      "D": "1000 MV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "In what manner can a 1 watt power value can also be written?",
+    "choices": {
+      "A": "0.1W",
+      "B": "1000mW",
+      "C": "10KW",
+      "D": "0.1MW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "What is a good source of DC supply?",
+    "choices": {
+      "A": "Water",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Battery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "What device or instrument used to measure voltage in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Voltmeter",
+      "C": "OTDR",
+      "D": "thermometer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "What device or instrument used to measure current in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Ohmmeter",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "D"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "question_number": 61,
+    "question": "If you are told your amateur station is causing television interference, what should you do?",
+    "choices": {
+      "A": "First make sure your station is operating properly, and it does cause interference to your own television",
+      "B": "Immediately turn off your transmitter and contact the nearest NTC office",
+      "C": "Connect a high-pass filter to the transmitter output and low-pass filter to the antenna input of the television",
+      "D": "Continue operating normally, because you have no reason to worry about the interference"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question": "How many hertz are there in a kilohertz?",
+    "choices": {
+      "A": "10",
+      "B": "100",
+      "C": "1,000",
+      "D": "1,000,000"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 63,
+    "question": "Approximately how long is the driven element of a yagi antenna?",
+    "choices": {
+      "A": "1/4 wavelength",
+      "B": "1/3 wavelength",
+      "C": "1/2 wavelength",
+      "D": "1 wavelength"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 64,
+    "question": "What could happen to your transciever if you replace its blown 5 amp AC line fuse with 30 amp fuse?",
+    "choices": {
+      "A": "The 30-amp fuse better protect to your transciever from using too much current",
+      "B": "The transciever eould run cooler",
+      "C": "The transciever could use more current than 5 amps and a fire could occur",
+      "D": "The transciever would not be able to produce as much RF output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 65,
+    "question": "How could you best keep unauthorized persons from using your amateur atTION t home?",
+    "choices": {
+      "A": "Use carrier-operated relay in the main power line",
+      "B": "Use a ke-operated on/off switch in the main power line",
+      "C": "Put a \"Danger-High Voltage\" sign in the station",
+      "D": "Put fuses in the main power line"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 66,
+    "question": "What is most important accessory to have for a hand-held radio in an emergency?",
+    "choices": {
+      "A": "An extra antenna",
+      "B": "A portable amplifier",
+      "C": "Several sets of charged batteries",
+      "D": "A microphone headset for hands-free operation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 67,
+    "question": "What may happen if an SSB transmitter is operated with the microphone gain set too high?",
+    "choices": {
+      "A": "It may cause digital interference to computer equipment",
+      "B": "It may cause splatter interference to other stations operating near its frequency",
+      "C": "It may cause atmospheric interference in the air around the antenna",
+      "D": "It may cause interference to other stations operating on a higher frequency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question": "Most humans can hear sounds in what frequency range?",
+    "choices": {
+      "A": "0-20Hz",
+      "B": "20-20,000 Hz",
+      "C": "200-200,000 Hz",
+      "D": "10,000-30,000 Hz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 69,
+    "question": "What instrument is used to measure standing wave ratio?",
+    "choices": {
+      "A": "An ohmmeter",
+      "B": "An ammeter",
+      "C": "An SWR meter",
+      "D": "A current bridge"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 70,
+    "question": "If your mobile transceiver does not power up, what might you check first?",
+    "choices": {
+      "A": "The antenna feedpoint",
+      "B": "The coaxial cable connector",
+      "C": "The microphone jack",
+      "D": "The 12-volt fuses"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 71,
+    "question": "In what ratio frequency range do 2-meter communications take place?",
+    "choices": {
+      "A": "UHF, Ultra High Frequency range",
+      "B": "MF, Medium Frequency range",
+      "C": "HF, High Frequency range",
+      "D": "VHF, Very High Frequency range"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 72,
+    "question": "What circuit blocks RF energy above and below certain limits?",
+    "choices": {
+      "A": "A band-pass filter",
+      "B": "A high-pass filter",
+      "C": "An input filter",
+      "D": "A low-pass filter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "Which of the following devices would you need to conduct Amateur Radio communications using a data emission?",
+    "choices": {
+      "A": "A Telegraph key",
+      "B": "A Computer",
+      "C": "A Transducer",
+      "D": "A telemetry sensor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "What is a coaxial cable?",
+    "choices": {
+      "A": "Two wires side-by-side in a plastic ribbon",
+      "B": "Two wires side-by-side held apart by insulating rods",
+      "C": "Two wires twisted around each other in a spiral",
+      "D": "A center wire inside an insulating material covered by a metal sleeve or shield"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 75,
+    "question": "What does a \"TR\" switch means?",
+    "choices": {
+      "A": "A Transfer Relay switch",
+      "B": "A Telophone Response switch",
+      "C": "A Transmit-Receive change-over switch",
+      "D": "A Telephone Receiver switch"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 76,
+    "question": "What is capture effect?",
+    "choices": {
+      "A": "The capturing of electrons in a vacuum tube by the plate electrode.",
+      "B": "A phenomenon in FM reception in which only the stronger of two signals at, or near, the same frequency will be demodulated.",
+      "C": "Wideband antennas have this characteristic effect.",
+      "D": "This phenomenon in inherent in AM modulation."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "What is used to test the linearity and output power of an SSB transceiver?",
+    "choices": {
+      "A": "Single-tone sine wave test",
+      "B": "Single-tone square wave test",
+      "C": "Two-tone sine wave test",
+      "D": "Three-tone sine wave test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 78,
+    "question": "A logic probe has three LED's (Light Emitting Diode), red, green and amber, what does a flashing amber light indicate?",
+    "choices": {
+      "A": "A pulse signal",
+      "B": "A logic low signal",
+      "C": "A logic high signal",
+      "D": "An open state signal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "What does a spectrum analyzer test instrument display?",
+    "choices": {
+      "A": "Time Domain waveforms",
+      "B": "Frequency domain waveforms",
+      "C": "Spectral composition of light",
+      "D": "Spectral analysis of elements"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "Why do we use a dummy load?",
+    "choices": {
+      "A": "Using a transceiver without a load or antenna can seriously damage it",
+      "B": "Transmitting into a dummy load does not cause interference",
+      "C": "Incorrect adjustment of a transmitter when connected to a mismatched antenna than a known load",
+      "D": "All of the above choices"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 81,
+    "question": "What is frequency drift?",
+    "choices": {
+      "A": "Unintended and arbitrary offset of an oscillator from its nominal frequency",
+      "B": "It is caused by changes in temperature, voltage or changes in component values",
+      "C": "measured either in the long-term period of time",
+      "D": "All of the above choices"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 82,
+    "question": "What is frequency tolerance?",
+    "choices": {
+      "A": "Initial deviation of a crystal or oscillato frequency as compared to the absolute at 25 deg. C.",
+      "B": "Detuning of receiver front-end caused by overload",
+      "C": "Ability to recover from frequency changes",
+      "D": "Ability to tolerate shock and vibration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "What does the term \"Frequency Stability Over Temperature\" means?",
+    "choices": {
+      "A": "Frequency tolerance with resprect to a range of temperature measured in PPM or Parts Per Million",
+      "B": "The higher the PPM value the better is the stability",
+      "C": "This specification is intended for RF amplifiers",
+      "D": "It measures the gain with respect to temperature"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 84,
+    "question": "What does the term \"Selectivity\"means?",
+    "choices": {
+      "A": "It pertains to the selection of components in a circuit",
+      "B": "It is a process where majority carriers are selected in a semiconductor material",
+      "C": "A term that refers to the selection of channels in a transmitter",
+      "D": "It is the ability of the receiver to distiguish between a signal at a desired frequency and signals at a adjacent frequencies"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 85,
+    "question": "What does the term \"Receiver Sensitivity\" means?",
+    "choices": {
+      "A": "It is a measure of a receiver's ability to re-produce very weak signals",
+      "B": "It is a measure of a receiver's abiliy to re-produce the modulationexactly as it was transmitted",
+      "C": "It is the ability of a receiver to overcome strong signals",
+      "D": "It is the ability of a receiver to discriminate against off frequency signals"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 86,
+    "question": "What safety equipment item should you always add at home built equipment that is powered from 230 volt AC lines?",
+    "choices": {
+      "A": "A fuse or circuit breaker in series with the equipment",
+      "B": "A fuse or circuit breaker is parallel with the equipment",
+      "C": "Install Zener diodes across AC inputs",
+      "D": "House the equipment in a plastic or other non-conductive enclosure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "What is the most important safety precaution to take when putting up an antenna tower?",
+    "choices": {
+      "A": "Install steps on your tower for safe climbing",
+      "B": "Insulate the base of the tower to avoid lightning strikes",
+      "C": "Ground the base of the tower to avoid lightning strikes",
+      "D": "Look for and stay clear of any overhead electrical wires"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 88,
+    "question": "To avoid eccessively high human exposure to RF fields, how should amateur antennas generally be mounted?",
+    "choices": {
+      "A": "With a high current point near ground",
+      "B": "As far away from accessible areas as possible",
+      "C": "On a non-metallic mast",
+      "D": "With the elements in a horizontal position"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "What are the frequency limits of the 2-meter band in ITU Region 3?",
+    "choices": {
+      "A": "144.000-148.000MHz",
+      "B": "145.000-149.500 MHz",
+      "C": "144.100-146.500 MHz",
+      "D": "144.00-146.000MHz"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 90,
+    "question": "Considering RF safety, what precaution should you take whenever you make adjustments to the feed line of a directional antenna system?",
+    "choices": {
+      "A": "Be sure no one can activate the transmitter",
+      "B": "Disconnect the antenna-positioning mechanism",
+      "C": "Point the antenna away from the sun so it doesn't concentrate solar energy on you",
+      "D": "Be sure you and the antenna structure are properly grounded"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "If you are the net conrol station of a daily HF net, what should you do if the frequency on which you normally meet is in use just before the net begins?",
+    "choices": {
+      "A": "Reduce your output power and start the net as usual",
+      "B": "Increase your power output so that the net participants will be able to hear you over the existing activity",
+      "C": "Conduct the net on a clear frequency 3 to 5 kHz away from the regular net frequency",
+      "D": "Cancel the net for the day"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "What is the purpose of the VOX sensitivity control?",
+    "choices": {
+      "A": "To set the timing of transmitting activation",
+      "B": "To set the audio frequency range at which the transmitter activates",
+      "C": "To set the audio level at which the transmitter activates",
+      "D": "None of these choices is correct"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 93,
+    "question": "What is the best instrument to use to check the signal quality of a CW or single-sideband phone transmitter?",
+    "choices": {
+      "A": "A monitoring oscilloscope",
+      "B": "A field-strength meter",
+      "C": "A sidetone monitor",
+      "D": "A signal tracer and an audio amplifier"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "Which of the following statements about station grounding is true?",
+    "choices": {
+      "A": "The chassis of each piece of station equipment should be tied together with high-impedance conductors",
+      "B": "If the chassis of all station equiment is connected with a good conductor, there is no need to tie them to an earth ground",
+      "C": "RF hot spots can occur in a station located above the ground floor if the equipment is grounded by a long ground wire",
+      "D": "A ground loop is an effective way to ground station equipment"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 95,
+    "question": "If a single-sideband phone transmitter is 100% modulated, what will a speech processor do to the transmitter's power?",
+    "choices": {
+      "A": "It will increase the output PEP",
+      "B": "It will add nothing to the output PEP",
+      "C": "It will decrease the peak output power",
+      "D": "It will decrease the average power output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "Why is it the best not to draw the DC power for a 100-Watt HF transcieverfrom an automobile's cigarette lighter socket?",
+    "choices": {
+      "A": "the is not wired with an RF-shielded power cable",
+      "B": "The socket's wiring may not not be adequate for the current being drawn by the tranciever",
+      "C": "The DC polarity of the socket reversed from the polarity of the modern HF transciever",
+      "D": "The power from the socket is never adequately filtered for HF transciever operation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "Which of the following is an advantage of a switched-mode power supply as compared to a linear power supply?",
+    "choices": {
+      "A": "Higfher output voltages are possible with the switched-mode supply",
+      "B": "Fewer cercuit components are required for the switch-mode power supply",
+      "C": "The relative high frequency power oscillator allows the use of small, light. Weight and low-cost transformer in the switch-modesupply",
+      "D": "All of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What would be the SWR if you feed a vertical antenna that has 25-ohm feed point impedance with 50-ohm coaxial cable?",
+    "choices": {
+      "A": "2:1",
+      "B": "2.5:1",
+      "C": "1.25:1",
+      "D": "You cannot determine SWR from impedance values"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 99,
+    "question": "What Rf-safety precautions should you take before beginning repairs on a antenna?",
+    "choices": {
+      "A": "be sure you and the antenna structure are grounded",
+      "B": "be sure you turn off the transmitter and disconnect the feedline",
+      "C": "Inform your neighbors so they are aware of your intentios",
+      "D": "Turn off the main power switch on you house"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the best reason to use headset with an attach microphone and VOX control when using mobile station?",
+    "choices": {
+      "A": "For safer, hands-free operation",
+      "B": "It allows you to make quicker transmission",
+      "C": "To elminate ambient noise fron you transmission",
+      "D": "To reduce outside distruction while operating"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 101,
+    "question": "What is the device use for radiating electromagnetic signals fed into it from a radio transmitter into space, or for capturing a small portion of the RF energy from space and then feeding it into a reciever for subsequent processing?",
+    "choices": {
+      "A": "LED bulb",
+      "B": "Fuse",
+      "C": "Antenna",
+      "D": "Diode"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 102,
+    "question": "What is an electromechanical device having one or more contacts that can be activate by an external circuit?",
+    "choices": {
+      "A": "Relay",
+      "B": "Switch",
+      "C": "Transformer",
+      "D": "Mouse"
+    },
+    "correct_answer": "A"
+  }
+]

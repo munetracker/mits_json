@@ -1,0 +1,332 @@
+[
+  {
+    "question_number": 61,
+    "question": "What is the total voltage of a circuit having a 0.5A current flowing through a 70 ohms resistor?",
+    "choices": {
+      "A": "0.5V",
+      "B": "70V",
+      "C": "140V",
+      "D": "35V"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 62,
+    "question": "What electrical value can be concluded if one reads 5 microfarads on a component?",
+    "choices": {
+      "A": "Voltage value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 63,
+    "question": "What electrical value can be concluded if one reads 50 watts on a component?",
+    "choices": {
+      "A": "Voltage value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 64,
+    "question": "What electrical value can be concluded if one reads 77 henry on a component?",
+    "choices": {
+      "A": "Inductance value",
+      "B": "Power value",
+      "C": "Resistance value",
+      "D": "Capacitance value"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question": "If one sees a plus (+) sign on a terminal of a battery, what is the polarity of this terminal?",
+    "choices": {
+      "A": "Positive polarity",
+      "B": "Negative polarity",
+      "C": "AC polarity",
+      "D": "DC polarity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "What is the total power dissipated by a load resistor supplied by 48V source and having a total current of 1A flow through it?",
+    "choices": {
+      "A": "48 Volts",
+      "B": "48 Watts",
+      "C": "48 Ohms",
+      "D": "48 Henry"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the voltage across a load dissipating 15W of power and consumes 3A of current?",
+    "choices": {
+      "A": "8V",
+      "B": "12 V",
+      "C": "5 V",
+      "D": "1 V"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 68,
+    "question": "What is the current flowing through a load having a 12V measurement across it and dissipates 4W of power?",
+    "choices": {
+      "A": "1 A",
+      "B": "0.5 A",
+      "C": "1.5 A",
+      "D": "0.333 A"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 69,
+    "question": "In what component does one commonly find the resistance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Plastic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 70,
+    "question": "In what component does one commonly find the inductance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Rubber"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 71,
+    "question": "In what component does one commonly find the capacitance value in a circuit?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Inductor",
+      "C": "Resistor",
+      "D": "Insulator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "What are included in the high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "30MHz-300MHZ",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "What are included in the very high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "300MHz-3GHz",
+      "D": "3GHz-30GHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "What are included in the ultra high frequency range?",
+    "choices": {
+      "A": "3MHz-30MHz",
+      "B": "30MHz-300MHZ",
+      "C": "300MHz-3000MHz",
+      "D": "3GHz-30GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 75,
+    "question": "What is another way of writing 3000 MHz?",
+    "choices": {
+      "A": "3GHz",
+      "B": "30GHz",
+      "C": "3THz",
+      "D": "30 THz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 76,
+    "question": "If one sees a minus (-) sign on a terminal of a battery, what is the polarity of this terminal?",
+    "choices": {
+      "A": "Positive polarity",
+      "B": "Negative polarity",
+      "C": "AC Polarity",
+      "D": "DC Polarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "What was the acronym of HF represents reference to frequency ranges?",
+    "choices": {
+      "A": "High Fidelity",
+      "B": "High Frequency",
+      "C": "Henry and Farad",
+      "D": "Non of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 78,
+    "question": "What does the acronym VHF represent reference to frequency ranges?",
+    "choices": {
+      "A": "Very High Frequency",
+      "B": "Variable High Frequency",
+      "C": "Very High Fidelity",
+      "D": "User High Fidelity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "What does the acronym UHF reprsent reference to frequency ranges?",
+    "choices": {
+      "A": "Very High Frequency",
+      "B": "Ultra High Frequency",
+      "C": "Extreme Higgh Frequency",
+      "D": "User High Frequency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "In what frequency range does the 144 MHz phase shift keying signal belonging too?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 81,
+    "question": "What is another way of writing 1 kilowatt?",
+    "choices": {
+      "A": "1000 watts",
+      "B": "100 watts",
+      "C": "1000 ohms",
+      "D": "1000 volts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "What is another way of writing 470 kilo-ohms?",
+    "choices": {
+      "A": "470,000 ohms",
+      "B": "470 ohms",
+      "C": "47,000 ohms",
+      "D": "4,700 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "What is another way of writing 1 V?",
+    "choices": {
+      "A": "1 kilo-volt",
+      "B": "1 mega-volt",
+      "C": "1000 milli-volts",
+      "D": "100 milli-volts"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 84,
+    "question": "In what frequency range does the 7.095 MHz A3J signal belong to?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "Amateur Radio frequency 430 MHz-440 MHz belongs to what frequency range?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "Many transmission lines and antennas are made of hollow conductors. This saves a lot of money and wait and is possible because of what phenomena of electric current flow?",
+    "choices": {
+      "A": "Hall Effect",
+      "B": "Skin Effect",
+      "C": "Domino Effect",
+      "D": "trans-conductance effect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 87,
+    "question": "IN AC and RF circuits power that is expended in the transmission line in the delivery of power to a complex load but not consumed at the load can be classified as ____.",
+    "choices": {
+      "A": "reactive power",
+      "B": "real power",
+      "C": "true power",
+      "D": "imaginary power"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "In a condition of series resonance, we can measure a current flow through that is _____.",
+    "choices": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "flactuating wildly",
+      "D": "absolutely zero"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "The best device for storing energy in a magnetic field is ____.",
+    "choices": {
+      "A": "storage battery",
+      "B": "capacitor",
+      "C": "coil",
+      "D": "resistor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "In a Cathode ray tube that were popular before tha time of LCD monitors, electrons are made to slam into the inner surface of the screen by _____.",
+    "choices": {
+      "A": "strong magnetic field",
+      "B": "strong hydroelectric field",
+      "C": "strong electrostatic field",
+      "D": "strong plasma field"
+    },
+    "correct_answer": "C"
+  }
+]

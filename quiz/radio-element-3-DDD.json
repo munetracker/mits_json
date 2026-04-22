@@ -1,0 +1,288 @@
+[
+  {
+    "question_number": 91,
+    "question": "In the cathode ray tube TV, the electron beam is diflected to draw lines on the screen by a yoke made from coils of wire that uses ____.",
+    "choices": {
+      "A": "electrolastic field",
+      "B": "electromagnetic field",
+      "C": "nematic field",
+      "D": "photoeletric field"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 92,
+    "question": "What is a good conductor of electricity?",
+    "choices": {
+      "A": "Copper",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Plastic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "What is a good insulator of electricity?",
+    "choices": {
+      "A": "Rubber",
+      "B": "Copper",
+      "C": "Aluminum",
+      "D": "Silver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "What type of circuit has its component junctions connected side by side?",
+    "choices": {
+      "A": "Mesh Circuit",
+      "B": "Mesh Circuit",
+      "C": "Integrated Circuit",
+      "D": "Series Circuit"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 95,
+    "question": "What type of circuit has its component junctions at a common point? ",
+    "choices": {
+      "A": "Parallel Circuit",
+      "B": "Star Circuit",
+      "C": "Mesh Circuit",
+      "D": "Integrated Circuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "What is the symbol used to denote \"micro\" in measurement?",
+    "choices": {
+      "A": "Micro",
+      "B": "μ",
+      "C": "A",
+      "D": "H"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "What is the symbol used to denote \"kilo\" in measurement?",
+    "choices": {
+      "A": "M",
+      "B": "mW",
+      "C": "K",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is the symbol used to denote \"mega\" in measurement?",
+    "choices": {
+      "A": "K",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "What is the symbol used to denote \"milli\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the symbol used to denote \"giga\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "G",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 101,
+    "question": "In what manner can a 55 microfarad value capacitor also be written?",
+    "choices": {
+      "A": "55F",
+      "B": "55C",
+      "C": "55 micro Farad",
+      "D": "55W"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 102,
+    "question": "In what manner can a 168 megaohm value resistor also be written?",
+    "choices": {
+      "A": "170MW",
+      "B": "168MOhm",
+      "C": "168KOhm",
+      "D": "1200 Hz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 103,
+    "question": "In what manner can a 1.2 gigahertz frequency also be written?",
+    "choices": {
+      "A": "1.2.GHz",
+      "B": "1.2MHz",
+      "C": "1.2KHz",
+      "D": "1200 Hz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 104,
+    "question": "In what manner can a 1 watt power value also be written?",
+    "choices": {
+      "A": "0.1W",
+      "B": "1000 mW",
+      "C": "10KW",
+      "D": "0.1MW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 105,
+    "question": "In figure G7-1 symbol 1 represents a _________?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Resistor",
+      "C": "Transistor",
+      "D": "Diode"
+    },
+    "correct_answer": "C",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 106,
+    "question": "In figure G7-1 Symbol 5 represents a __________?",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Transformer",
+      "D": "Zener diode"
+    },
+    "correct_answer": "D",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 107,
+    "question": "In figure G7-1 Symbol 3 represents a __________?",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Diode",
+      "C": "Ground",
+      "D": "Resistor"
+    },
+    "correct_answer": "B",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 108,
+    "question": " In Figure G7-1 Symbol 6 represents a _________?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transformer",
+      "D": "Inductor"
+    },
+    "correct_answer": "C",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 109,
+    "question": "In Figure G7-1 Symbol 9 represents a _________ ?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transformer",
+      "D": "Diode"
+    },
+    "correct_answer": "A",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 110,
+    "question": "In Figure G7-1 Symbol 8 represents a _________ ?",
+    "choices": {
+      "A": "Resistor",
+      "B": "Capacitor",
+      "C": "Transistor",
+      "D": "Inductor"
+    },
+    "correct_answer": "B",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 111,
+    "question": "In Figure G7-1 Symbol 13 represents a _________ ? ",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Zener diode",
+      "D": "Capacitor"
+    },
+    "correct_answer": "B",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 112,
+    "question": "In Figure G7-1 Symbol 12 represents an _________ ?",
+    "choices": {
+      "A": "Ground",
+      "B": "Antenna",
+      "C": "Zener diode",
+      "D": "Capacitor"
+    },
+    "correct_answer": "A",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 113,
+    "question": "In Figure G7-1 Symbol 7 represents a _________ ? ",
+    "choices": {
+      "A": "Capacitor",
+      "B": "Resistor",
+      "C": "Inductor",
+      "D": "Transistor"
+    },
+    "correct_answer": "C",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 114,
+    "question": "In Figure G7-1 Symbol 11 represents a _________ ?",
+    "choices": {
+      "A": "Adjustable resistor",
+      "B": "Capacitor",
+      "C": "Conductor",
+      "D": "Inductor"
+    },
+    "correct_answer": "A",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  },
+  {
+    "question_number": 115,
+    "question": "In Figure G7-1 Symbol 14 represents a _________ ? ",
+    "choices": {
+      "A": "Single-pole, Double-throw (SPDT)",
+      "B": "Single-pole, Single-throw (SPST)",
+      "C": "Double-pole, Double-throw (DPDT)",
+      "D": "Multipoint"
+    },
+    "correct_answer": "B",
+    "pic":"https://raw.githubusercontent.com/munetracker/mits_json/master/pics/amatuer_figureG7-1.png"
+  }
+]
