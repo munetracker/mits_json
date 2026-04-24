@@ -122,7 +122,7 @@
   },
   {
     "question_number": 12,
-    "question": "What application should be filed with the NTC when an amateur license has \t\nbeen lost",
+    "question": "What application should be filed with the NTC when an amateur license has been lost mutilated or destroyed?",
     "choices": {
       "A": "New license",
       "B": "Duplicate license",
@@ -166,7 +166,7 @@
   },
   {
     "question_number": 16,
-    "question": "A class C amateur shall be authorized to operate on HF fixed radio station",
+    "question": "A Class C amateur shall be authorized to operate on HF fixed radio station with an output power not exceeding how much on CW?",
     "choices": {
       "A": "50 watts",
       "B": "100 watts",
@@ -960,7 +960,7 @@
     "question_number": 88,
     "question": "Which element is not prescribed for Class C examination ?",
     "choices": {
-      "A": "Element 1",
+      "A": "Element I",
       "B": "Element II",
       "C": "Element III",
       "D": "Element IV"
