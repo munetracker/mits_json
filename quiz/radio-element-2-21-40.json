@@ -1,0 +1,222 @@
+[
+  {
+    "question_number": 21,
+    "question": "What rating must a candidate obtain to pass the written examination peovided that a rating of",
+    "choices": {
+      "A": "70%",
+      "B": "75%",
+      "C": "80%",
+      "D": "85%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the disinctive identifiction carried by all transmission in the amateur\t\nradio service oc",
+    "choices": {
+      "A": "Prefix",
+      "B": "Suffix",
+      "C": "Call sign",
+      "D": "Call area"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 23,
+    "question": "A Class B amateur license is also known as ________ ?",
+    "choices": {
+      "A": "Advanced Class",
+      "B": "General Class",
+      "C": "Technician Class",
+      "D": "Novice Class"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question": "On what month does the expiration of a license issuedeby NTC fall, except\t\nwho has life",
+    "choices": {
+      "A": "Decanber",
+      "B": "January",
+      "C": "Licensee's birth month",
+      "D": "Same month when it was first issued"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "A Class A amateur license is also known as _______ ?",
+    "choices": {
+      "A": "Advanced Class",
+      "B": "General Class",
+      "C": "Technician Class",
+      "D": "Extra Class"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 26,
+    "question": "How many classes of amateur are there in the Philippines?",
+    "choices": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "The technician Class is also known as _______ ?",
+    "choices": {
+      "A": "Class A",
+      "B": "Class B",
+      "C": "Class C",
+      "D": "Class D"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 28,
+    "question": "If the Class C amateur Passes the examination for an upgrade to Class B, how does he effect",
+    "choices": {
+      "A": "Renewal of license",
+      "B": "Cancellation of class C",
+      "C": "Duplicate license",
+      "D": "Modification of amateur license"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "How should frequency bands allocated to a particular class of amateurs be \t\nused  by a duty au",
+    "choices": {
+      "A": "First come first serve basis",
+      "B": "Non-sharing basis",
+      "C": "Anybody transmits anytime",
+      "D": "Non-interference basis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 30,
+    "question": "To facilitate the reception of distress calls using the emergency frequency on 2 meters, transmissions should be kept to a minimum and for how long? 2 meters, transmissons should be kept to a minimum and for how long?",
+    "choices": {
+      "A": "Not exceeding 5 minutes",
+      "B": "Not exceeding 4 minutes",
+      "C": "Not exceeding 3 minutes",
+      "D": "Not exceeding 1 minute"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 31,
+    "question": "What should an amateur without distress calls using the emergency frequency on 2 meters to make sure no distress traffic is taking place?",
+    "choices": {
+      "A": "Just call CQ",
+      "B": "Check antena's VSWR before transmitting",
+      "C": "Listen for a reasonable period before tramsmitting",
+      "D": "Transmit anytime"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 32,
+    "question": "When is a citizen of another country qualified to tke the examination and\t\napply for an amateur",
+    "choices": {
+      "A": "After he has attended a seminar and submitted the requirements",
+      "B": "After submission of his passport",
+      "C": "when his country extends the same privilege to Filipino nationals as far as examination is concerned",
+      "D": "When he is endorsed by any Class A or an NTC accredited club"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "Who in the Amateur Radio Service is called an amateur or an amateur radio operator?",
+    "choices": {
+      "A": "A person who is capable of acquiring any equipment for his station to be used for communication",
+      "B": "A person who broadcast traffic for the general public",
+      "C": "A person who needs to communicate with his family, co-workers and friends",
+      "D": "A person who interested in radio technique solely with a personal aim and without pecuniary interest"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 34,
+    "question": "A radio station in the amateur service installed at specified fixed location and operated communicate with an amateur mobile station, amateur portable station or another amateur fixed radio station is an _____________ ?",
+    "choices": {
+      "A": "Amateur Mobile Station",
+      "B": "Ameteur Portable Station",
+      "C": "Amateur fixed Radio Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 35,
+    "question": "A radio station in the amateur service installed on board a vehivle or s vessel and intended to be ued while motion or during habits at unspecified points is an",
+    "choices": {
+      "A": "Amateur Fixed Radio Station",
+      "B": "Amateur Mobile Station",
+      "C": "Amateur Portable Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the amateur station so designed that it may conveniently be moved about from place to place or personally carried and be operated while in motion or during temporary halts?",
+    "choices": {
+      "A": "Amateur Fixed Radio Station",
+      "B": "Amateur Mobile Station",
+      "C": "Amateur Portable Station",
+      "D": "Amateur HT Station"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 37,
+    "question": "What term means telecommunications by means of radio waves conducted by or among authorized amateurs on a non-commercial basis? or among authorized amaturs on a non-commercial basis?",
+    "choices": {
+      "A": "Amateur Radio Equipment Testing",
+      "B": "Amateur Propagation Check",
+      "C": "Amateur Radio Contest Practice",
+      "D": "Amateur Radio Communications"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 38,
+    "question": "______ is defined as a radio communication service using space stations on earth satelites for the same purpose as those of the Amateur Radio Service?",
+    "choices": {
+      "A": "Amateur Space Service",
+      "B": "Amateur Satelite Service",
+      "C": "Amateur Relay Station",
+      "D": "Amateur Repeater Station"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 39,
+    "question": "_______  is the general term applied to the use of radio waves?",
+    "choices": {
+      "A": "Radio",
+      "B": "Communications",
+      "C": "Civic",
+      "D": "Commercial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "_______  is defined as a reasonably complete and sufficient combination of distinct radio equipment intended for or capable of being used either for transmission or reception of radio communication service?",
+    "choices": {
+      "A": "Transmitter",
+      "B": "Recieveer",
+      "C": "Radio station",
+      "D": "Broadcast Station"
+    },
+    "correct_answer": "C"
+  }
+]

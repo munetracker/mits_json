@@ -1,0 +1,222 @@
+[
+  {
+    "question_number": 81,
+    "question": "What size of the call sign characters shall be posted on the equipment itself for a portable station?",
+    "choices": {
+      "A": "at least 2 cm. high",
+      "B": "at least 10 cm. high",
+      "C": "At least 5.08 cm. high",
+      "D": "at least 0.635 cm."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 82,
+    "question": "What is the coverage of Element IV for Class C examination?",
+    "choices": {
+      "A": "Radio Rules and Regulations",
+      "B": "Electrical and Electronics Principles",
+      "C": "Amateur Radio Practice",
+      "D": "Operating Procedures"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 83,
+    "question": "DU1XX had tranferred his fixed station to Pangasinan and after 4 months had his license modified.What should his new call sign be?",
+    "choices": {
+      "A": "DU1XX portable 3",
+      "B": "DU3XX",
+      "C": "DU1XX portable 2",
+      "D": "DU2XX"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 84,
+    "question": "What document shall duly accredited amateur club enter into with NTC for the management of its members in the proper\n use of the amateur frequency of bands and prevention of harmful interference?",
+    "choices": {
+      "A": "Memorandum of Understanding",
+      "B": "Memorandum of Agreement",
+      "C": "Partnership of Agreement",
+      "D": "Legal Cooperation Agreement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 85,
+    "question": "What are some provinces under amateur District 4 ?",
+    "choices": {
+      "A": "Isabela , Nueva Vizcaya, La Union",
+      "B": "Ester Samar, Leyte, Southern Leyte",
+      "C": "Camarines Norte, Catanduanes , Sorsogon",
+      "D": "Misamis Oriental , Agusan del Sur, Butuan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 86,
+    "question": "What regions are under amateur District 8 ?",
+    "choices": {
+      "A": "Region IX , Region XII",
+      "B": "Region I, Region II",
+      "C": "Region III",
+      "D": "Region VI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "How does DUIXX operating temporarily for 30 days in Ilocos Sur Identify his station ?",
+    "choices": {
+      "A": "DUIXX slash 2",
+      "B": "DUIXX slant 2",
+      "C": "DUIXX stoke 2",
+      "D": "all of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 88,
+    "question": "Which element is not prescribed for Class C examination ?",
+    "choices": {
+      "A": "Element 1",
+      "B": "Element II",
+      "C": "Element III",
+      "D": "Element IV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "If a Class C amateur applies for renewal of his license for another 3 years but is 14 months expired and the prescribed license fee is P144.00 per year, how much shall he pay NTC for his Radio Station License renewal excluding filing fee?",
+    "choices": {
+      "A": "P432",
+      "B": "P576",
+      "C": "P648",
+      "D": "P720"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "What do you call a radio station in the amateur service installed at a specified fixed location and operated to communicate with an amateur mobile station, portable station or other amateur stations ?",
+    "choices": {
+      "A": "Amateur Fixed Station",
+      "B": "Broadcast Station",
+      "C": "Hobby Station",
+      "D": "Emergency Radio Station"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "In the amateur band, what kind messages should not be transmitted?",
+    "choices": {
+      "A": "Messages regarding experiments with antennas",
+      "B": "Personal messages to another amateur radio operator",
+      "C": "Commercial and broadcast messages",
+      "D": "Emergency calls on 145 MHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "To facilitate the reception of distress calls, all transmission on 145 MHz shall be kept to a minimum and shall not exceed how long?",
+    "choices": {
+      "A": "30 minutes",
+      "B": "5 minutes",
+      "C": "1 minutes",
+      "D": "Unlimited"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 93,
+    "question": "The Philippines is divided into how many amateur radio districts?",
+    "choices": {
+      "A": "13",
+      "B": "9",
+      "C": "100",
+      "D": "4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 94,
+    "question": "How long must be a radio logbook be kept?",
+    "choices": {
+      "A": "5 years",
+      "B": "2 years",
+      "C": "6 months",
+      "D": "Until the license expires"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 95,
+    "question": "How long should a radio logbook with distress traffic be kept?",
+    "choices": {
+      "A": "5 years",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "until the license expires"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "What is the combination of letters and numbers to identify a radio station known as?",
+    "choices": {
+      "A": "Alphanumeric",
+      "B": "License",
+      "C": "Handle",
+      "D": "Call sign"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 97,
+    "question": "What government agency is responsible for the regulation of the amateur radio service?",
+    "choices": {
+      "A": "NSO",
+      "B": "NIA",
+      "C": "NTC",
+      "D": "NHA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is one of the frequencies of the emergency channel on the 2 meter band?",
+    "choices": {
+      "A": "144 MHz",
+      "B": "145 MHz+/- 25 kHz",
+      "C": "142 MHz",
+      "D": "146 MHz +/- 10 kHz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 99,
+    "question": "What is an amateur radio station intended to be used for operation during unspecified halts or while in motion?",
+    "choices": {
+      "A": "Mobile Station",
+      "B": "Temporary Station",
+      "C": "Portable Station",
+      "D": "Alternate Station"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the maximum number of letter in the suffix of a call sign does NTC issue?",
+    "choices": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_answer": "C"
+  }
+]

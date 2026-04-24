@@ -1,0 +1,222 @@
+[
+  {
+    "question_number": 81,
+    "question": "What is another way of writing 1 kilowatt?",
+    "choices": {
+      "A": "1000 watts",
+      "B": "100 watts",
+      "C": "1000 ohms",
+      "D": "1000 volts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "What is another way of writing 470 kilo-ohms?",
+    "choices": {
+      "A": "470,000 ohms",
+      "B": "470 ohms",
+      "C": "47,000 ohms",
+      "D": "4,700 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "What is another way of writing 1 V?",
+    "choices": {
+      "A": "1 kilo-volt",
+      "B": "1 mega-volt",
+      "C": "1000 milli-volts",
+      "D": "100 milli-volts"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 84,
+    "question": "In what frequency range does the 7.095 MHz A3J signal belong to?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "Amateur Radio frequency 430 MHz-440 MHz belongs to what frequency range?",
+    "choices": {
+      "A": "HF",
+      "B": "UHF",
+      "C": "EHF",
+      "D": "VHF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "Many transmission lines and antennas are made of hollow conductors. This saves a lot of money and wait and is possible because of what phenomena of electric current flow?",
+    "choices": {
+      "A": "Hall Effect",
+      "B": "Skin Effect",
+      "C": "Domino Effect",
+      "D": "trans-conductance effect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 87,
+    "question": "IN AC and RF circuits power that is expended in the transmission line in the delivery of power to a complex load but not consumed at the load can be classified as ____.",
+    "choices": {
+      "A": "reactive power",
+      "B": "real power",
+      "C": "true power",
+      "D": "imaginary power"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "In a condition of series resonance, we can measure a current flow through that is _____.",
+    "choices": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "flactuating wildly",
+      "D": "absolutely zero"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "The best device for storing energy in a magnetic field is ____.",
+    "choices": {
+      "A": "storage battery",
+      "B": "capacitor",
+      "C": "coil",
+      "D": "resistor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "In a Cathode ray tube that were popular before tha time of LCD monitors, electrons are made to slam into the inner surface of the screen by _____.",
+    "choices": {
+      "A": "strong magnetic field",
+      "B": "strong hydroelectric field",
+      "C": "strong electrostatic field",
+      "D": "strong plasma field"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "In the cathode ray tube TV, the electron beam is diflected to draw lines on the screen by a yoke made from coils of wire that uses ____.",
+    "choices": {
+      "A": "electrolastic field",
+      "B": "electromagnetic field",
+      "C": "nematic field",
+      "D": "photoeletric field"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 92,
+    "question": "What is a good conductor of electricity?",
+    "choices": {
+      "A": "Copper",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Plastic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "What is a good insulator of electricity?",
+    "choices": {
+      "A": "Rubber",
+      "B": "Copper",
+      "C": "Aluminum",
+      "D": "Silver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "What type of circuit has its component junctions connected side by side?",
+    "choices": {
+      "A": "Mesh Circuit",
+      "B": "Mesh Circuit",
+      "C": "Integrated Circuit",
+      "D": "Series Circuit"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 95,
+    "question": "What type of circuit has its component junctions at a common point? ",
+    "choices": {
+      "A": "Parallel Circuit",
+      "B": "Star Circuit",
+      "C": "Mesh Circuit",
+      "D": "Integrated Circuit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "What is the symbol used to denote \"micro\" in measurement?",
+    "choices": {
+      "A": "Micro",
+      "B": "μ",
+      "C": "A",
+      "D": "H"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 97,
+    "question": "What is the symbol used to denote \"kilo\" in measurement?",
+    "choices": {
+      "A": "M",
+      "B": "mW",
+      "C": "K",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is the symbol used to denote \"mega\" in measurement?",
+    "choices": {
+      "A": "K",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "What is the symbol used to denote \"milli\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "mW",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What is the symbol used to denote \"giga\" in measurement?",
+    "choices": {
+      "A": "m",
+      "B": "G",
+      "C": "M",
+      "D": "GHz"
+    },
+    "correct_answer": "B"
+  }
+]

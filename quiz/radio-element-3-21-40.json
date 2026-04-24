@@ -1,0 +1,222 @@
+[
+  {
+    "question_number": 21,
+    "question": "Given the values for POWER and VOLTAGE, what is formula to determine the Current?",
+    "choices": {
+      "A": "Current = Power / Voltage",
+      "B": "Current = Power x Voltage",
+      "C": "Current = Power + Voltage",
+      "D": "Current = Power - Voltage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "What is the formula to determine the Resistance if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Resistance = Power / Current",
+      "B": "Resistance = Voltage / Current",
+      "C": "Resistance = Power + Voltage",
+      "D": "Resistance = Power + Current"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "What is the formula to determine Current if the values of Voltage and Current are provided?",
+    "choices": {
+      "A": "Current = Voltage x Resistance",
+      "B": "Current = Resistance - Voltage",
+      "C": "Current = Voltage / Resistance",
+      "D": "Current = Voltage + Resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question": "In what manner can 325 kilo ohm resistor also be written?",
+    "choices": {
+      "A": "325 Ω",
+      "B": "235 Ω",
+      "C": "325 KΩ",
+      "D": "325 KHz"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "In what manner can 888 milliwatt powervalue also be written?",
+    "choices": {
+      "A": "88 W",
+      "B": "888 KW",
+      "C": "888 mV",
+      "D": "888 mW"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 26,
+    "question": "In what manner can 1000 volt value can also be written?",
+    "choices": {
+      "A": "1 KV",
+      "B": "100 mV",
+      "C": "10 KW",
+      "D": "1000 MV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "In what manner can a 1 watt power value can also be written?",
+    "choices": {
+      "A": "0.1W",
+      "B": "1000mW",
+      "C": "10KW",
+      "D": "0.1MW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "What is a good source of DC supply?",
+    "choices": {
+      "A": "Water",
+      "B": "Rubber",
+      "C": "Glass",
+      "D": "Battery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "What device or instrument used to measure voltage in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Voltmeter",
+      "C": "OTDR",
+      "D": "thermometer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "What device or instrument used to measure current in circuit?",
+    "choices": {
+      "A": "Spectrum Analyzer",
+      "B": "Ohmmeter",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": 31,
+    "question": "What device or instrument used to measure the resistance value in circuit?",
+    "choices": {
+      "A": "Ohmmeter",
+      "B": "Thermometer",
+      "C": "Voltmeter",
+      "D": "Ammeter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "How must a volt meter be connected in order to measure the voltage of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "How must a volt meter be connected in order to measure the current of a component in a circuit?",
+    "choices": {
+      "A": "Series to the component",
+      "B": "Mesh to the component",
+      "C": "Parallel to the component",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 34,
+    "question": "What electric value remains constant in a SERIES circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "What electric value remains constant in a PARALLEL circuit?",
+    "choices": {
+      "A": "Current",
+      "B": "Voltage",
+      "C": "Resistance",
+      "D": "Capacitor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the value of resistor having the color bands as follows: violet- blue - no color?",
+    "choices": {
+      "A": "77 mega-ohms",
+      "B": "77 ohms",
+      "C": "77 kilo-ohms",
+      "D": "770 ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "What is the value of resistor having the color bands as follows: brown - red - yellow - no color?",
+    "choices": {
+      "A": "120 kilo-ohms",
+      "B": "1.2 kilo-ohms",
+      "C": "1200 ohms",
+      "D": "12 ohms"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "What is the value of resistor having the color bands as follows: orange - black - red - no color?",
+    "choices": {
+      "A": "300 ohms",
+      "B": "300 watts",
+      "C": "3 kilo-ohms",
+      "D": "300 volts"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "What is the value of resistor having the color bands as follows: yellow - violet - violet no color?",
+    "choices": {
+      "A": "47 ohms",
+      "B": "470 mega-ohms",
+      "C": "4.7 kilo-ohms",
+      "D": "88 mega-ohms"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "What is the value of resistor having the color bands as follows: black - brown - black no color?",
+    "choices": {
+      "A": "10 W",
+      "B": "1 ohm",
+      "C": "5 ohms",
+      "D": "0.1 ohm"
+    },
+    "correct_answer": "B"
+  }
+]
