@@ -171,7 +171,7 @@
       "A": "Permit to Transfer",
       "B": "Permit to Own",
       "C": "Permit to Possess",
-      "D": "Permit to Purchase"
+      "D": "Purchase Permit"
     },
     "correct_answer": "D"
   },
@@ -214,7 +214,7 @@
     "choices": {
       "A": "at least 2 in high",
       "B": "at least 10 cm in high",
-      "C": "at least 50.8 cm in high",
+      "C": "at least 5.08 cm. in high",
       "D": "at least  0.635 cm"
     },
     "correct_answer": "C"

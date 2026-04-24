@@ -375,7 +375,7 @@
   },
   {
     "question_number": 35,
-    "question": "A radio station in the amateur service installed on board a vehivle or s vessel and intended to be ued while motion or during habits at unspecified points is an",
+    "question": "A radio station in the amateur service installed on board a vehicle or vessel and intended to he used while in motion or during halts at unspecified points is an",
     "choices": {
       "A": "Amateur Fixed Radio Station",
       "B": "Amateur Mobile Station",
@@ -433,8 +433,8 @@
     "question": "_______  is defined as a reasonably complete and sufficient combination of distinct radio equipment intended for or capable of being used either for transmission or reception of radio communication service?",
     "choices": {
       "A": "Transmitter",
-      "B": "Recieveer",
-      "C": "Radio station",
+      "B": "Receiver",
+      "C": "Radio Apparatus",
       "D": "Broadcast Station"
     },
     "correct_answer": "C"
@@ -831,7 +831,7 @@
       "A": "Permit to Transfer",
       "B": "Permit to Own",
       "C": "Permit to Possess",
-      "D": "Permit to Purchase"
+      "D": "Purchase Permit"
     },
     "correct_answer": "D"
   },
@@ -874,7 +874,7 @@
     "choices": {
       "A": "at least 2 in high",
       "B": "at least 10 cm in high",
-      "C": "at least 50.8 cm in high",
+      "C": "at least 5.08 cm. in high",
       "D": "at least  0.635 cm"
     },
     "correct_answer": "C"
