@@ -54,5 +54,10 @@
   "file": {
     "title": "Church Files",
     "url": "https://mitzpresents.netlify.app/members"
+  },
+  "fhcenter": {
+    "title": "Schedule Family History Center Schedule",
+    "body": "Schedule Family History Center Schedule",
+    "url": "https://docs.google.com/spreadsheets/d/1LKMaCrTIZXoEnYZABkZ9XZvFcVH_5PeiOvycmOaNKjw/edit?usp=sharing"
   }
 }
