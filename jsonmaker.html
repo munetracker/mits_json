@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agency JSON Generator</title>
+<style>
+*{box-sizing:border-box}
+:root{
+--bg:#0f172a;--card:#1e293b;--border:#475569;--text:#f8fafc;
+--primary:#3b82f6;--success:#22c55e;--warning:#f59e0b;
+}
+body{margin:0;padding:20px;background:var(--bg);color:var(--text);font-family:Arial,sans-serif}
+.container{max-width:1400px;margin:auto}
+.card{background:var(--card);padding:20px;border:1px solid var(--border);border-radius:12px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+label{display:block;margin:12px 0 5px;font-weight:bold}
+input,textarea{width:100%;padding:10px;background:#020617;color:#fff;border:1px solid var(--border);border-radius:8px}
+textarea{min-height:90px}
+#costumized{min-height:250px}
+#categories{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.category-item{display:flex;gap:8px;align-items:center;padding:8px;border:1px solid var(--border);border-radius:8px}
+.category-item input{width:auto}
+button{padding:10px 16px;border:none;border-radius:8px;color:#fff;cursor:pointer;margin-right:5px}
+.primary{background:var(--primary)}
+.success{background:var(--success)}
+.warning{background:var(--warning)}
+.output{background:#020617;padding:15px;border-radius:10px;margin-top:10px}
+pre{white-space:pre-wrap}
+@media(max-width:900px){.grid{grid-template-columns:1fr}#categories{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="card">
+<h1>Agency JSON Generator</h1>
+
+<div class="grid">
+<div>
+
+<label>Agency</label>
+<input id="agency">
+
+<label>Categories</label>
+<div id="categories">
+<label class="category-item"><input type="checkbox" value="0">Education</label>
+<label class="category-item"><input type="checkbox" value="1">Emotional Resilience</label>
+<label class="category-item"><input type="checkbox" value="2">Jobs and Employment</label>
+<label class="category-item"><input type="checkbox" value="3">Personal Finances</label>
+<label class="category-item"><input type="checkbox" value="4">Start Grow My Business</label>
+<label class="category-item"><input type="checkbox" value="5">No Category</label>
+<label class="category-item"><input type="checkbox" value="6">Medical Assistance</label>
+<label class="category-item"><input type="checkbox" value="7">Information</label>
+</div>
+
+<label>Location</label>
+<textarea id="location"></textarea>
+
+<label>Contact Person</label>
+<textarea id="contact_person"></textarea>
+
+<label>Contact Number</label>
+<textarea id="contact_number"></textarea>
+
+<label>Links</label>
+<textarea id="links"></textarea>
+
+<label>Google Maps</label>
+<textarea id="google_maps"></textarea>
+
+<label>Details</label>
+<textarea id="details"></textarea>
+
+</div>
+
+<div>
+
+<label>Customized HTML</label>
+<textarea id="costumized" placeholder="[image] https://example.com/image.jpg
+
+[youtube] https://youtu.be/xxxxx
+
+[facebook] https://facebook.com/watch/?v=xxxxx
+
+[hr]
+
+<div>Custom HTML</div>"></textarea>
+
+<button class="primary" onclick="generateJSON()">Generate JSON</button>
+<button class="success" onclick="copyJSON()">Copy JSON</button>
+<button class="warning" onclick="clearForm()">Clear</button>
+
+<div class="output">
+<pre id="output">{}</pre>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+function getLines(id){
+    return document.getElementById(id).value
+        .split('\n')
+        .map(v => v.trim())
+        .filter(Boolean);
+}
+
+function buildCustomized(raw){
+
+    let html = '';
+    const lines = raw.split('\n');
+
+    for(const lineRaw of lines){
+
+        const line = lineRaw.trim();
+
+        if(!line) continue;
+
+        if(line.startsWith('[image]')){
+
+            const url = line.replace('[image]', '').trim();
+
+            html += `<div class="flex text-left"><div><a href="${url}" target="_blank"><img class="mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg" src="${url}" alt="Image" /></a></div></div>`;
+            continue;
+        }
+
+        if(line.startsWith('[youtube]')){
+
+            const url = line.replace('[youtube]', '').trim();
+
+            let videoId = '';
+
+            const m1 = url.match(/youtu\.be\/([^?]+)/);
+            const m2 = url.match(/[?&]v=([^&]+)/);
+
+            if(m1) videoId = m1[1];
+            if(m2) videoId = m2[1];
+
+            if(videoId){
+                html += `<div><iframe class="w-full max-w-md aspect-video rounded-lg shadow-lg" src="https://www.youtube.com/embed/${videoId}" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>`;
+            }
+
+            continue;
+        }
+
+        if(line.startsWith('[facebook]')){
+
+            const url = line.replace('[facebook]', '').trim();
+
+            html += `<div><iframe class="w-full max-w-md aspect-video rounded-lg shadow-lg" src="https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(url)}&show_text=false" frameborder="0" allowfullscreen></iframe></div>`;
+
+            continue;
+        }
+
+        if(line === '[hr]'){
+            html += '<hr class="my-6 border-t border-gray-300 dark:border-gray-600"/>';
+            continue;
+        }
+
+        html += line;
+    }
+
+    return html.trim();
+}
+
+function generateJSON(){
+
+    const obj = {};
+
+    const category = [...document.querySelectorAll('#categories input:checked')]
+        .map(cb => parseInt(cb.value));
+
+    if(category.length) obj.category = category;
+
+    const agency = document.getElementById('agency').value.trim();
+    if(agency) obj.agency = agency;
+
+    ['location','contact_person','contact_number','links','google_maps'].forEach(key => {
+        const values = getLines(key);
+        if(values.length) obj[key] = values;
+    });
+
+    const details = document.getElementById('details').value.trim();
+    if(details) obj.details = details;
+
+    const costumized = buildCustomized(document.getElementById('costumized').value);
+    if(costumized) obj.costumized = costumized;
+
+    document.getElementById('output').textContent =
+        JSON.stringify(obj, null, 4);
+}
+
+function copyJSON(){
+    navigator.clipboard.writeText(
+        document.getElementById('output').textContent
+    );
+    alert('Copied!');
+}
+
+function clearForm(){
+    document.querySelectorAll('textarea').forEach(el => el.value = '');
+    document.getElementById('agency').value = '';
+    document.querySelectorAll('#categories input').forEach(el => el.checked = false);
+    document.getElementById('output').textContent = '{}';
+}
+</script>
+
+</body>
+</html>

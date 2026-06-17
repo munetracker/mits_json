@@ -7,12 +7,6 @@
         "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" target=\"_blank\"> <img class=\"text-left mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" \n      src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" \n      alt=\"Lingap\" /> </a>\n  </div>\n</div>"
     },
     {
-        "category": [6],
-        "agency": "Tingog Party List",
-        "location": ["Barangay Buhangin Gym"],
-        "google_maps": ["https://maps.app.goo.gl/LJmy4s13D76H8EBJ8"]
-    },
-    {
         "category": [2],
         "agency": "Davao City Jobs Hiring",
         "links": ["https://www.facebook.com/groups/549115846871917/"],
@@ -26,63 +20,15 @@
     },
     {
         "category": [6],
-        "agency": "PBA Party List",
-        "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
-        "google_maps": ["https://maps.app.goo.gl/bwd246GJiGbZGxzR8"]
-    },
-    {
-        "category": [6],
-        "agency": "Dumper Party List",
-        "location": ["J.P. Rizal Extension, Poblacion"],
-        "google_maps": ["https://maps.app.goo.gl/XUgBAuxU52M8Gh7KA"]
-    },
-    {
-        "category": [6],
-        "agency": "Marino Party List",
-        "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"],
-        "google_maps": ["https://maps.app.goo.gl/E7psnNuhDaD6qo4c9"]
-    },
-    {
-        "category": [6],
-        "agency": "ACT-CIS Party List",
-        "location": ["94 Roxas Ave, TCM Building"],
-        "google_maps": ["https://maps.app.goo.gl/ym2yd5vM9VyL9ZQa9"]
-    },
-    {
-        "category": [6],
-        "agency": "Congressman Vincent Garcia",
-        "location": ["Bajada, Flyover (in front of north point)"],
-        "google_maps": ["https://maps.app.goo.gl/hzfQgoa2JJVeqW999"]
-    },
-    {
-        "category": [6],
-        "agency": "Congressman Pulong Duterte",
-        "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"],
-        "google_maps": ["https://maps.app.goo.gl/86ALDjz7rnrqxA35A"]
-    },
-    {
-        "category": [6],
         "agency": "PCSO",
         "location": ["Cabaguio"],
         "google_maps": ["https://maps.app.goo.gl/WU9CVwa3xVLXNhW7A"]
     },
     {
         "category": [6],
-        "agency": "Sen. Ronald \"Bato\" Delarosa",
-        "location": ["Maa Diversion Road near Kubota Building"],
-        "google_maps": ["https://maps.app.goo.gl/bDDowL3awPvZFZi28"]
-    },
-    {
-        "category": [6],
         "agency": "Office of the Vice President",
         "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"],
         "google_maps": ["https://maps.app.goo.gl/wKTLdJPfkTXfkhpZA"]
-    },
-    {
-        "category": [6],
-        "agency": "Imee Marcos",
-        "location": ["Near Jollibee Buhangin"],
-        "google_maps": ["https://maps.app.goo.gl/dvQyHeB3FxhLJzoz9"]
     },
     {
         "category": [2],
@@ -186,12 +132,33 @@
     },
     {
         "category": [7],
-        "agency": "Recover Church Account",
-        "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/YvorcYpZBx8?si=5A-80I1DmMPuEuaQ&amp;start=14\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n <br/><br/> \n <iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/oaEweZPZLik?si=t5DovJdk54WsDu-n&amp;start=40\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> </div>"
+        "agency": "Recover Church Account Part 1 and Part 2",
+        "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/FIR6wDFI1i8?si=AojAwVNhWqKE8_5f\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n <br/><br/> \n <iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/sdUx0n79ZtQ?si=M4rmTERnb5IDsV5y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> </div>"
     },
     {
         "category": [7],
         "agency": "Me and My Family Emergency Preparedness Plan",
         "costumized": "<div class=\"flex flex-col text-left space-y-4\">\n  <h2 class=\"text-lg font-semibold\"></h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" \n        alt=\"Prep 1\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" \n        alt=\"Prep 2\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" \n        alt=\"Prep 3\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" \n        alt=\"Prep 4\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://lh3.googleusercontent.com/pw/AP1GczNYgJA8dond2Xw4jNtw13-2DcWIaNbRVUYXdnKtUTu4hQXntYGW3B-k43qeDdzY0DcEjUzdyXa6PZevB31ckQYYNnrossoHnerv4paAlvBTOWUGPz5UWTR9xDZZExWS1Nyey4Cwpy4aAfJDEQiu-rM2=w919-h919-s-no-gm?authuser=0\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://lh3.googleusercontent.com/pw/AP1GczNYgJA8dond2Xw4jNtw13-2DcWIaNbRVUYXdnKtUTu4hQXntYGW3B-k43qeDdzY0DcEjUzdyXa6PZevB31ckQYYNnrossoHnerv4paAlvBTOWUGPz5UWTR9xDZZExWS1Nyey4Cwpy4aAfJDEQiu-rM2=w919-h919-s-no-gm?authuser=0\"\n        alt=\"Prep 5\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://lh3.googleusercontent.com/pw/AP1GczOJJTXElBXwzCAoR5riQoFMHSejUWdWtwwDj_um_gE5uAlv85exOafjeYj8bzgK6NUhPztYSheD8vduIfOWb80DLFQJDxZScayZOwiqCmUFljEjP2EPFgkNPBMiEVmTcPEwEhlgZSsmx1Cw0xdhWzS7=w919-h919-s-no-gm?authuser=0\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://lh3.googleusercontent.com/pw/AP1GczOJJTXElBXwzCAoR5riQoFMHSejUWdWtwwDj_um_gE5uAlv85exOafjeYj8bzgK6NUhPztYSheD8vduIfOWb80DLFQJDxZScayZOwiqCmUFljEjP2EPFgkNPBMiEVmTcPEwEhlgZSsmx1Cw0xdhWzS7=w919-h919-s-no-gm?authuser=0\"\n        alt=\"Prep 6\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://lh3.googleusercontent.com/pw/AP1GczM2ped5o93u_3OgkQ6f9co7BxDIsav3A_qQjiUctjSCA9028KD6_PHVJssVr3uy6HOjOCQglxUNytxrpoPY2PJXi-enHIuZRVxtnSMEUlPTuoyYhP6VtbPPe_U5UFc-gZ58ScsePtFxKzKo5Jq6BWb2=w919-h919-s-no-gm?authuser=0\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://lh3.googleusercontent.com/pw/AP1GczM2ped5o93u_3OgkQ6f9co7BxDIsav3A_qQjiUctjSCA9028KD6_PHVJssVr3uy6HOjOCQglxUNytxrpoPY2PJXi-enHIuZRVxtnSMEUlPTuoyYhP6VtbPPe_U5UFc-gZ58ScsePtFxKzKo5Jq6BWb2=w919-h919-s-no-gm?authuser=0\"\n        alt=\"Prep 7\" />\n    </a>\n  </div>\n  <div>\n    <a href=\"https://lh3.googleusercontent.com/pw/AP1GczMXYkRdW3rgAHlOVXdzBj95XCHBv4sz0Cl2QZj3oz8RsDT84K0gp62Q_eD04hDgV6LlRi0nJVBmqxpi3jaP9vRM_3_WsuqqLUSU2ygq7wNUYEAGaTKE_PuKr-F4A5bSjroAVDJQr9vnmRAb60knh_oG=w919-h919-s-no-gm?authuser=0\" target=\"_blank\" download>\n      <img class=\"block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg cursor-pointer\"\n        src=\"https://lh3.googleusercontent.com/pw/AP1GczMXYkRdW3rgAHlOVXdzBj95XCHBv4sz0Cl2QZj3oz8RsDT84K0gp62Q_eD04hDgV6LlRi0nJVBmqxpi3jaP9vRM_3_WsuqqLUSU2ygq7wNUYEAGaTKE_PuKr-F4A5bSjroAVDJQr9vnmRAb60knh_oG=w919-h919-s-no-gm?authuser=0\"\n        alt=\"Prep 8\" />\n    </a>\n  </div>\n</div>"
+    },
+    {
+      "category": [7],
+      "agency": "Temple Reservation",
+      "contact_person": [
+        "#1830 Toll Free connect to Global Services Department (GSD)"
+      ],
+      "contact_number": [
+        "#1830"
+      ],
+      "links": [
+        "https://tos.churchofjesuschrist.org"
+      ],
+      "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" alt=\"Perpetual Education Fund\" /></a></div></div><div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/ON9lGRLJRpo?si=csPCoEYEqJ4FnVwq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>"
+    },
+    {
+        "category": [7],
+        "agency": "Davao City - DRRMO on Viber",
+        "links": [
+            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv"
+        ]
     }
 ]

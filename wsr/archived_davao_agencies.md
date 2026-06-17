@@ -1,0 +1,58 @@
+    // {
+    //     "category": [6],
+    //     "agency": "Tingog Party List",
+    //     "location": ["Barangay Buhangin Gym"],
+    //     "google_maps": ["https://maps.app.goo.gl/LJmy4s13D76H8EBJ8"]
+    // },
+        // {
+    //     "category": [6],
+    //     "agency": "PBA Party List",
+    //     "location": ["Beside Openings Quirino, E. Quirino Avenue, Poblacion"],
+    //     "google_maps": ["https://maps.app.goo.gl/bwd246GJiGbZGxzR8"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "Dumper Party List",
+    //     "location": ["J.P. Rizal Extension, Poblacion"],
+    //     "google_maps": ["https://maps.app.goo.gl/XUgBAuxU52M8Gh7KA"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "Marino Party List",
+    //     "location": ["Sangguniang Panlungsod, Quirino Ave Infront of Davao Doc Hospital"],
+    //     "google_maps": ["https://maps.app.goo.gl/E7psnNuhDaD6qo4c9"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "ACT-CIS Party List",
+    //     "location": ["94 Roxas Ave, TCM Building"],
+    //     "google_maps": ["https://maps.app.goo.gl/ym2yd5vM9VyL9ZQa9"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "Congressman Vincent Garcia",
+    //     "location": ["Bajada, Flyover (in front of north point)"],
+    //     "google_maps": ["https://maps.app.goo.gl/hzfQgoa2JJVeqW999"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "Congressman Pulong Duterte",
+    //     "location": ["1st Congressional Office Ponciano St. (in front of Kapitan Tomas)"],
+    //     "google_maps": ["https://maps.app.goo.gl/86ALDjz7rnrqxA35A"]
+    // },
+
+    // {
+    //     "category": [6],
+    //     "agency": "Sen. Ronald \"Bato\" Delarosa",
+    //     "location": ["Maa Diversion Road near Kubota Building"],
+    //     "google_maps": ["https://maps.app.goo.gl/bDDowL3awPvZFZi28"]
+    // },
+    // {
+    //     "category": [6],
+    //     "agency": "Imee Marcos",
+    //     "location": ["Near Jollibee Buhangin"],
+    //     "google_maps": ["https://maps.app.goo.gl/dvQyHeB3FxhLJzoz9"]
+    // },
+
+    
+
