@@ -106,7 +106,7 @@
     {
         "category": [7, 8],
         "agency": "Online Tithing and Fast Offering Instructions",
-        "costumized": "👉 AUB Hello Money Tithing Youtube Video<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/Mo9bPJmfybc\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>👉 AUB Hello Money Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" alt=\"Image\" /></a></div></div>👉 BDO Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>👉 BPI Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>"
+        "costumized": "👉 AUB Hello Money Tithing Youtube Video<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/Mo9bPJmfybc\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>👉 AUB Hello Money Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" alt=\"Image\" /></a></div></div>👉 BDO Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>👉 BPI Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>"
     },
     {
         "category": [0,7,8],
@@ -159,9 +159,32 @@
     },
     {
         "category": [7],
-        "agency": "Davao City - DRRMO on Viber",
+        "agency": "Davao City - DRRMO on Viber and Philvolcs",
         "links": [
-            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv"
+            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv",
+            "http://earthquake.phivolcs.dost.gov.ph"
         ]
-    }
+    },
+    {
+        "category": [7,8],
+        "agency": "Family History Center",
+        "links": [
+            "https://davaov2.vercel.app/fhcinstruct"
+        ]
+    },
+    {
+        "category": [2,7],
+        "agency": "PESO - Trabaho Dabawenyo and D1Ward Work Groupchat",
+        "links": [
+            "https://www.facebook.com/SoarHighDavao",
+            "https://m.me/j/Abb1sp957vxu9L94/?send_source=gc%3Acopy_invite_link_c"
+        ]
+    },
+    {
+        "category": [6,7],
+        "agency": "PhilHealth Yakap Program",
+        "links": [
+            "https://www.facebook.com/share/p/1cED15B4ew/"
+        ]
+    }    
 ]
