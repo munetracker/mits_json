@@ -139,31 +139,36 @@
         "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/FIR6wDFI1i8?si=AojAwVNhWqKE8_5f\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n <br/><br/> \n <iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/sdUx0n79ZtQ?si=M4rmTERnb5IDsV5y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> </div>"
     },
     {
-        "category": [7],
+        "category": [7,8],
         "agency": "Me and My Family Emergency Preparedness Plan",
-        "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" alt=\"Image\" /></a></div></div>"
+        "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" alt=\"Image\" /></a></div></div>",
+        "details": "also link provided to join Viber Davao City - DRRMO and Philvolcs",
+        "links": [
+            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv",
+            "http://earthquake.phivolcs.dost.gov.ph"
+        ]
     },
     {
       "category": [7,8],
       "agency": "Temple Reservation",
       "contact_person": [
-        "#1830 Toll Free connect to Global Services Department (GSD)"
+        "Telephone Number (082) 333 1010"
       ],
       "contact_number": [
-        "#1830"
+        "(082)3331010"
       ],
+        "email_name": [
+            "DAVAO=THO@churchofjesuschrist.org",
+            "DAVAO=OFF@churchofjesuschrist.org"
+        ],
+        "emails": [
+            "Housing Email",
+            "Office Email"
+        ],
       "links": [
         "https://tos.churchofjesuschrist.org"
       ],
       "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" alt=\"Temple Reservation\" /></a></div></div></br></br><div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/ON9lGRLJRpo?si=csPCoEYEqJ4FnVwq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>"
-    },
-    {
-        "category": [7],
-        "agency": "Davao City - DRRMO on Viber and Philvolcs",
-        "links": [
-            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv",
-            "http://earthquake.phivolcs.dost.gov.ph"
-        ]
     },
     {
         "category": [7,8],
