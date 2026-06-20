@@ -113,7 +113,7 @@
         "agency": "Perpetual Education Fund - Church Educational Loan",
         "contact_person": ["#1830 Toll Free connect to Perpetual Education Fund"],
         "contact_number": ["#1830"],
-        "links": ["https://portal.pef.churchofjesuschrist.org"],
+        "links": ["https://portal.pef.churchofjesuschrist.org","https://m.me/ch/AbaJS8u5_meVmdEZ/"],
         "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" target=\"_blank\">\n      <img class=\"text-left mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" \n        alt=\"Perpetual Education Fund\" />\n    </a>\n  </div>\n</div>"
     },
     {
@@ -158,12 +158,12 @@
         "(082)3331010"
       ],
         "email_name": [
-            "DAVAO=THO@churchofjesuschrist.org",
-            "DAVAO=OFF@churchofjesuschrist.org"
-        ],
-        "emails": [
             "Housing Email",
             "Office Email"
+        ],
+        "emails": [
+            "DAVAO=THO@churchofjesuschrist.org",
+            "DAVAO=OFF@churchofjesuschrist.org"
         ],
       "links": [
         "https://tos.churchofjesuschrist.org"
