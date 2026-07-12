@@ -4,20 +4,9 @@
         "agency": "Lingap",
         "location": ["Malasakit Center SPMC"],
         "google_maps": ["https://maps.app.goo.gl/YWLY5goJRHtkyZcH6"],
-        "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" target=\"_blank\"> <img class=\"text-left mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" \n      src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" \n      alt=\"Lingap\" /> </a>\n  </div>\n</div>"
+        "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" target=\"_blank\"> <img class=\"text-left mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" \n      src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/lgu/lingap.jpg\" \n      alt=\"Lingap\" /> </a>\n  </div>\n</div>"
     },
-    {
-        "category": [2],
-        "agency": "Davao City Jobs Hiring",
-        "links": ["https://www.facebook.com/groups/549115846871917/"],
-        "details": "Davao City Jobs Hiring Facebook Group Check Post"
-    },
-    {
-        "category": [2],
-        "agency": "Software & Web Developer Jobs - Philippines",
-        "links": ["https://www.facebook.com/groups/242195756207498"],
-        "details": "Online Group. Check Group Chat"
-    },
+
     {
         "category": [6],
         "agency": "PCSO",
@@ -30,65 +19,11 @@
         "location": ["J.P. Laurel Ave. (In front of Water District) Orchard Hotel"],
         "google_maps": ["https://maps.app.goo.gl/wKTLdJPfkTXfkhpZA"]
     },
-    {
-        "category": [2],
-        "agency": "onlinejobs.ph",
-        "links": ["https://onlinejobs.ph"]
-    },
-    {
-        "category": [2],
-        "agency": "linkedin",
-        "links": ["https://www.linkedin.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "apply.workable",
-        "links": ["https://apply.workable.com/careers/"]
-    },
-    {
-        "category": [2],
-        "agency": "freelancer",
-        "links": ["https://www.freelancer.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "upwork",
-        "links": ["https://www.upwork.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "peopleperhour",
-        "links": ["https://www.peopleperhour.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "myoutdesk",
-        "links": ["https://www.myoutdesk.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "fiverr",
-        "links": ["https://www.fiverr.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "guru",
-        "links": ["https://www.guru.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "golance",
-        "links": ["https://golance.com/"]
-    },
-    {
-        "category": [2],
-        "agency": "athena",
-        "links": ["https://www.athena.com/"]
-    },
+
     {
         "category": [6],
         "agency": "Blood Types",
-        "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://drive.google.com/file/d/1lnL38u_0i5qO6rSFnNqO08vDEtzZJmYf/preview\" allow=\"autoplay\" allowfullscreen></iframe></div><br/><br/><div class=\"overflow-x-auto\"><table class=\"w-full border-collapse border border-gray-300\"><thead><tr><th class=\"border border-gray-300 px-4 py-2\">Donor Blood Type</th><th class=\"border border-gray-300 px-4 py-2\">👉</th><th class=\"border border-gray-300 px-4 py-2\">Can Give To</th></tr></thead><tbody><tr><td class=\"border border-gray-300 px-4 py-2\">O Negative (O-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">All Blood Types</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">O Positive (O+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">O+, A+, B+, AB+</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">A Negative (A-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">A+, A-, AB+, AB-</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">A Positive (A+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">A+, AB+</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">B Negative (B-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">B+, B-, AB+, AB-</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">B Positive (B+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">B+, AB+</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">AB Negative (AB-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">AB+, AB-</td></tr><tr><td class=\"border border-gray-300 px-4 py-2\">AB Positive (AB+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">AB+</td></tr></tbody></table></div>"
+        "costumized": "<div> <iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/amribJWxERM?si=qdki1YsVZiXuycNZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n  </div>\n  <br/><br/>\n  <div class=\"overflow-x-auto\"> \n    <table class=\"w-full border-collapse border border-gray-300\"> \n      <thead> \n        <tr> \n          <th class=\"border border-gray-300 px-4 py-2\">Donor Blood Type</th> \n          <th class=\"border border-gray-300 px-4 py-2\">👉</th> \n          <th class=\"border border-gray-300 px-4 py-2\">Can Give To</th> \n        </tr> \n      </thead> \n      <tbody> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">O Negative (O-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">All Blood Types</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">O Positive (O+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">O+, A+, B+, AB+</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">A Negative (A-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">A+, A-, AB+, AB-</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">A Positive (A+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">A+, AB+</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">B Negative (B-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">B+, B-, AB+, AB-</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">B Positive (B+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">B+, AB+</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">AB Negative (AB-)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">AB+, AB-</td></tr> \n        <tr><td class=\"border border-gray-300 px-4 py-2\">AB Positive (AB+)</td><td class=\"border border-gray-300 px-4 py-2\">👉</td><td class=\"border border-gray-300 px-4 py-2\">AB+</td></tr> \n      </tbody> \n    </table> \n  </div> \n</div>"
     },
     {
         "category": [3],
@@ -98,31 +33,31 @@
     {
         "category": [0,6],
         "agency": "DSWD",
-        "costumized": "<div> \n  <h2 class=\"text-lg font-semibold \">DSWD EDUCATIONAL ASSISTANCE PROGRAM 2024</h2> \n  <div> \n    <iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://www.youtube.com/embed/zXz3HJtQ2gI?si=A0-sXdy15wJnrd5T\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n  </div> \n</div>",
+        "costumized": "<div> \n  <h2 class=\"text-lg font-semibold \">DSWD EDUCATIONAL ASSISTANCE PROGRAM 2024</h2> \n  <div> \n    <iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/zXz3HJtQ2gI?si=A0-sXdy15wJnrd5T\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n  </div> \n</div>",
         "links": ["https://aics.dswd.gov.ph/aics-program/"],
         "location": ["Suazo St., Uyanguren"],
         "google_maps": ["https://maps.app.goo.gl/VnhJGPfFknV7RX5K7"]
     },
     {
-      "category": [7, 8],
-      "agency": "Online Tithing and Fast Offering Instructions",
-      "costumized": "👉 AUB Hello Money Tithing Video<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://drive.google.com/file/d/1rUaWZSUioeY_P2KBGpq--Kn6jy9iEp8u/preview\" allow=\"autoplay\" allowfullscreen></iframe></div>👉 AUB Hello Money Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" alt=\"Image\" /></a></div></div>👉 BDO Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>👉 BPI Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>"
+        "category": [7, 8],
+        "agency": "Online Tithing and Fast Offering Instructions",
+        "costumized": "👉 AUB Hello Money Tithing Youtube Video<div><iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/Mo9bPJmfybc\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>👉 AUB Hello Money Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/How%20to%20pay%20tithing%20and%20all%20other%20donations%20AUB%20HelloMoney.pdf.png\" alt=\"Image\" /></a></div></div>👉 BDO Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.1%20Expanded%20MDDS%20BDO%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>👉 BPI Online Banking Official Church Document<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/4.5.2%20Expanded%20MDDS%20BPI%20Online%20Banking%202021.pdf.png\" alt=\"Image\" /></a></div></div>"
     },
     {
         "category": [0,7,8],
         "agency": "Perpetual Education Fund - Church Educational Loan",
         "contact_person": ["#1830 Toll Free connect to Perpetual Education Fund"],
         "contact_number": ["#1830"],
-        "links": ["https://portal.pef.churchofjesuschrist.org","https://m.me/ch/AbaJS8u5_meVmdEZ/"],
-        "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" target=\"_blank\">\n      <img class=\"text-left mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\"\n        src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" \n        alt=\"Perpetual Education Fund\" />\n    </a>\n  </div>\n</div>"
+        "links": ["https://portal.pef.churchofjesuschrist.org"],
+        "costumized": "<div class=\"flex flex-col items-center text-left\"> <a href=\"https://m.me/j/AbYLWlyhCJMoUvg4/?send_source=gc%3Acopy_invite_link_t\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"mb-3 inline-flex items-center rounded-xl bg-emerald-600 px-6 py-3 text-white font-semibold shadow hover:bg-emerald-700 transition\">🎓 Join Benson Scholarship Community</a> <a href=\"https://m.me/cm/AbbbBNu87GTgcQwM/?send_source=cm%3Acopy_invite_link\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"mb-4 inline-flex items-center rounded-xl bg-sky-600 px-6 py-3 text-white font-semibold shadow hover:bg-sky-700 transition\">💰 Join PEF Loan Community</a> <div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" target=\"_blank\"><img class=\"text-left mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486143376_2503732260018838_7566967846645050468_n.jpg\" alt=\"Perpetual Education Fund\" /></a></div></div>"
     },
     {
         "category": [0,7,8],
         "agency": "Benson Scholarship Grant - 100% Free Education Scholarship",
         "contact_person": ["#1830 Toll Free connect to Perpetual Education Fund"],
         "contact_number": ["#1830"],
-        "links": ["https://EducationsupportPHLchurchofjesus.org"],
-        "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold \">\n  </h2>\n  <div>\n    <a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486238694_1488909845420526_7147048138227797743_n.jpg\" target=\"_blank\"> <img class=\"text-left mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" \n      src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486238694_1488909845420526_7147048138227797743_n.jpg\" \n      alt=\"Benson Scholarship Grant\" /> </a>\n  </div>\n</div>"
+        "links": ["https://m.me/j/AbYLWlyhCJMoUvg4/?send_source=gc%3Acopy_invite_link_t"],
+        "costumized": "<div class=\"flex text-left\"> <h2 class=\"text-lg font-semibold\"></h2> <div> <a href=\"https://m.me/j/AbYLWlyhCJMoUvg4/?send_source=gc%3Acopy_invite_link_t\" target=\"_blank\" rel=\"noopener noreferrer\"> <img class=\"text-left mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/486238694_1488909845420526_7147048138227797743_n.jpg\" alt=\"Benson Scholarship Grant\" /> </a> </div> </div>"
     },
     {
         "category": [0,1,2,3,4,7,8],
@@ -136,39 +71,21 @@
         "links": [
             "https://account.churchofjesuschrist.org/recovery"
         ],
-        "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://drive.google.com/file/d/1JaSCi3JFYLtScC1_jQwH8DjEFcEPyg_y/preview\" allow=\"autoplay\" allowfullscreen></iframe><br/><br/><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://drive.google.com/file/d/1Q0b5OIUpnrzDKDyNtNkj7PBujSB9XaKT/preview\" allow=\"autoplay\" allowfullscreen></iframe></div>"
-    },
-    {
-        "category": [7,8],
-        "agency": "Me and My Family Emergency Preparedness Plan",
-        "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" alt=\"Image\" /></a></div></div><div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" alt=\"Image\" /></a></div></div>",
-        "details": "also link provided to join Viber Davao City - DRRMO and Philvolcs",
-        "links": [
-            "https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv",
-            "http://earthquake.phivolcs.dost.gov.ph"
-        ]
+        "costumized": "<div><iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/FIR6wDFI1i8?si=AojAwVNhWqKE8_5f\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> \n <br/><br/> \n <iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/sdUx0n79ZtQ?si=M4rmTERnb5IDsV5y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> </div>"
     },
     {
       "category": [7,8],
       "agency": "Temple Reservation",
       "contact_person": [
-        "Telephone Number (082) 333 1010"
+        "#1830 Toll Free connect to Global Services Department (GSD)"
       ],
       "contact_number": [
-        "(082)3331010"
+        "#1830"
       ],
-        "email_name": [
-            "Housing Email",
-            "Office Email"
-        ],
-        "emails": [
-            "DAVAO=THO@churchofjesuschrist.org",
-            "DAVAO=OFF@churchofjesuschrist.org"
-        ],
-        "links": [
-            "https://tos.churchofjesuschrist.org"
-        ],
-        "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" target=\"_blank\"><img class=\"mx-auto block rounded-lg shadow-lg w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" alt=\"Temple Reservation\" /></a></div></div></br></br><div><iframe class=\"w-full max-w-md aspect-video rounded-lg shadow-lg\" src=\"https://drive.google.com/file/d/1B2CBM0x52_Ul9Xd8IBDXRVJwfKhTiTWb/preview\" allow=\"autoplay\" allowfullscreen></iframe></div>"
+      "links": [
+        "https://tos.churchofjesuschrist.org"
+      ],
+      "costumized": "<div class=\"flex text-left\"><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/718935166_1809946853360962_5638839082644644725_n.jpg\" alt=\"Temple Reservation\" /></a></div></div></br></br><div><iframe class=\"w-full max-w-md aspect-video rounded-xl shadow-md\" src=\"https://www.youtube.com/embed/ON9lGRLJRpo?si=csPCoEYEqJ4FnVwq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>"
     },
     {
         "category": [7,8],
@@ -178,18 +95,35 @@
         ]
     },
     {
-        "category": [2,7],
-        "agency": "PESO - Trabaho Dabawenyo and D1Ward Work Groupchat",
-        "links": [
-            "https://www.facebook.com/SoarHighDavao",
-            "https://m.me/j/Abb1sp957vxu9L94/?send_source=gc%3Acopy_invite_link_c"
-        ]
-    },
-    {
         "category": [6,7],
         "agency": "PhilHealth Yakap Program",
         "links": [
             "https://www.facebook.com/share/p/1cED15B4ew/"
         ]
-    }    
+    },
+    {
+      "category": [2],
+      "agency": "Job Agencies",
+      "costumized": "<div class=\"space-y-4\"><a href=\"https://m.me/j/Abb1sp957vxu9L94/?send_source=gc%3Acopy_invite_link_c\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block w-full rounded-xl bg-sky-600 px-6 py-3 text-center text-white font-semibold shadow hover:bg-sky-700 transition\">💬 Join D1Ward Work Group Chat</a><div class=\"rounded-xl border border-slate-200 p-4 bg-slate-50 shadow-sm\"><h3 class=\"text-lg font-bold mb-3\">💼 Job Search Resources</h3><div class=\"space-y-2\"><a href=\"https://www.facebook.com/groups/549115846871917/\" target=\"_blank\" class=\"block text-blue-600 hover:underline\">📘 Davao City Jobs Hiring</a><p class=\"text-sm text-gray-600\">Check the latest job posts.</p><a href=\"https://www.facebook.com/groups/242195756207498\" target=\"_blank\" class=\"block text-blue-600 hover:underline\">💻 Software &amp; Web Developer Jobs - Philippines</a><p class=\"text-sm text-gray-600\">Online group. Check the group chat.</p><a href=\"https://www.facebook.com/SoarHighDavao\" target=\"_blank\" class=\"block text-blue-600 hover:underline\">🏢 PESO - Trabaho Dabawenyo</a></div></div><div class=\"rounded-xl border border-slate-200 p-4 bg-slate-50 shadow-sm\"><h3 class=\"text-lg font-bold mb-3\">🌐 Online Job Platforms</h3><div class=\"grid gap-2 sm:grid-cols-2\"><a href=\"https://onlinejobs.ph\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• OnlineJobs.ph</a><a href=\"https://www.linkedin.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• LinkedIn</a><a href=\"https://apply.workable.com/careers/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Workable Careers</a><a href=\"https://www.freelancer.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Freelancer</a><a href=\"https://www.upwork.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Upwork</a><a href=\"https://www.peopleperhour.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• PeoplePerHour</a><a href=\"https://www.myoutdesk.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• MyOutDesk</a><a href=\"https://www.fiverr.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Fiverr</a><a href=\"https://www.guru.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Guru</a><a href=\"https://golance.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• GoLance</a><a href=\"https://www.athena.com/\" target=\"_blank\" class=\"text-blue-600 hover:underline\">• Athena</a></div></div></div>"
+    },
+    {
+      "category": [2],
+      "agency": "Job Postings",
+      "costumized": "<div class=\"space-y-4\"><div class=\"rounded-xl border border-emerald-200 bg-emerald-50 p-5 shadow-sm\"><h3 class=\"text-xl font-bold text-emerald-700 mb-2\">💼 Latest Job Postings</h3><p class=\"text-sm text-gray-700 mb-4\">Browse curated job opportunities compiled in Google Docs. These documents are regularly updated with available vacancies from various employers and organizations.</p><div class=\"space-y-3\"><a href=\"https://docs.google.com/document/d/1mZxLHoEVBgPQFT214PPJ_7v0JRm97gXbjMx5crWLm3U/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-emerald-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-emerald-700 transition\">📄 Open Job Postings - Document 1</a><a href=\"https://docs.google.com/document/d/1oXev4wLcbXOAAcUJREET8t2sm1rkVwDw4XwL6ligvqo/edit?tab=t.0\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-emerald-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-emerald-700 transition\">📄 Open Job Postings - Document 2</a></div><div class=\"mt-4 rounded-lg border border-emerald-100 bg-white p-3\"><p class=\"text-sm text-gray-600\">📌 <strong>Note:</strong> These Google Docs contain job listings and may be updated regularly. Check back often for new opportunities.</p></div></div></div>"
+    },
+    {
+      "category": [0,7],
+      "agency": "Scholarship Resources",
+      "costumized": "<div class=\"space-y-4\"><div class=\"rounded-xl border border-yellow-200 bg-yellow-50 p-5 shadow\"><h3 class=\"text-xl font-bold text-yellow-700 mb-2\">🎓 Scholarship Resources</h3><p class=\"text-sm text-gray-700 mb-4\">Browse scholarship opportunities, application guides, requirements, and helpful resources to support your educational journey.</p><a href=\"https://docs.google.com/document/d/1BOBhpA4X2tpqzDmE58HKS8Kvb536ZMmF9_Nqb6Aj8Bc/edit?tab=t.0\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-amber-500 px-5 py-3 text-center font-semibold text-white shadow hover:bg-amber-600 transition\">🎓 Open Scholarship Resources</a><div class=\"mt-4 rounded-md border border-yellow-200 bg-white p-3\"><p class=\"text-sm text-gray-600\">💡 <strong>Tip:</strong> Review the eligibility requirements, required documents, deadlines, and application process for each scholarship. Make a copy of any editable before making changes.</p></div></div></div>"
+    },
+    {
+      "category": [7],
+      "agency": "Emergency Preparedness Resources",
+      "costumized": "<div class=\"space-y-4\"><a href=\"https://invite.viber.com/?g2=AQA5wn8KYR3MzFCFMHtZEF9LuC67Vt4yRjqPA9RcJ5wrILDR6X%2BTNZVZXo7sGsLv\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block w-full rounded-xl bg-violet-600 px-6 py-3 text-center text-white font-semibold shadow hover:bg-violet-700 transition\">📱 Join Davao City DRRMO Viber Community</a><a href=\"http://earthquake.phivolcs.dost.gov.ph\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block w-full rounded-xl bg-rose-500 px-6 py-3 text-center text-white font-semibold shadow hover:bg-rose-600 transition\">🌎 Open PHIVOLCS Earthquake Monitoring</a><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep1.png\" alt=\"Emergency Preparedness Plan 1\" /></a></div><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep2.png\" alt=\"Emergency Preparedness Plan 2\" /></a></div><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep3.png\" alt=\"Emergency Preparedness Plan 3\" /></a></div><div><a href=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" target=\"_blank\"><img class=\"mx-auto block rounded-xl shadow-md w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg\" src=\"https://raw.githubusercontent.com/munetracker/mits_json/refs/heads/master/pics/prep4.png\" alt=\"Emergency Preparedness Plan 4\" /></a></div></div>"
+    },
+    {
+      "category": [0,7],
+      "agency": "Free Online Courses",
+      "costumized": "<div class=\"space-y-4\"><div class=\"rounded-xl border border-cyan-200 bg-cyan-50 p-5 shadow-sm\"><h3 class=\"text-xl font-bold text-cyan-700 mb-2\">🎓 Free Online Courses & Skills Training</h3><p class=\"text-sm text-gray-700 mb-4\">Learn new skills for free and earn certificates from trusted organizations. These platforms offer courses in technology, business, digital marketing, entrepreneurship, communication, and many more.</p><div class=\"space-y-3\"><a href=\"https://e-tesda.gov.ph\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-cyan-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-cyan-700 transition\">🇵🇭 TESDA Online Program</a><a href=\"https://www.coursera.org\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-indigo-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-indigo-700 transition\">📘 Coursera (Free Courses Available)</a><a href=\"https://www.edx.org\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-slate-700 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-slate-800 transition\">🎓 edX</a><a href=\"https://www.futurelearn.com\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-teal-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-teal-700 transition\">🌍 FutureLearn</a><a href=\"https://grow.google\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-emerald-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-emerald-700 transition\">💻 Google Career Certificates</a><a href=\"https://learn.microsoft.com/training/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-sky-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-sky-700 transition\">☁️ Microsoft Learn</a><a href=\"https://skillsbuild.org\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-violet-600 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-violet-700 transition\">🤖 IBM SkillsBuild</a><a href=\"https://www.udemy.com/courses/free/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block rounded-xl bg-orange-500 px-5 py-3 text-center font-semibold text-white shadow-sm hover:bg-orange-600 transition\">📚 Udemy Free Courses</a></div><div class=\"mt-4 rounded-lg border border-cyan-100 bg-white p-3\"><p class=\"text-sm text-gray-600\">💡 <strong>Tip:</strong> Complete courses that match your career goals and include the certificates on your resume, LinkedIn profile, or job applications.</p></div></div></div>"
+    }
 ]
